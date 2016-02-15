@@ -1,4 +1,5 @@
 from moviepy.editor import VideoFileClip, AudioFileClip
+from moviepy.editor import concatenate_videoclips
 from math import ceil
 from os.path import splitext, join
 DEFAULT_VIDEO_CODEC = 'libx264' # i.e. mp4
@@ -24,8 +25,7 @@ def convert_to_mp4_file(src_path, dest_path,
     returns: dest_path
     """
     movie = VideoFileClip(src_path)
-    movie.write_videofile(dest_path, audio=True,
-                          codec=video_codec, audio_codec=audio_codec)
+    movie.write_videofile(dest_path, codec=video_codec, audio_codec=audio_codec)
     return dest_path
 
 def extract_audio_file(src_video_path, dest_audio_path,
@@ -100,3 +100,26 @@ def segment_audio_file(src_path, dest_dir,
         yield segment_full_path
         # set x_sec to equal y_sec, so that the next clip start at y_sec
         x_sec = y_sec
+
+
+
+def excerpt_and_compile_video_file(src_path, dest_path, timestamps,
+                                  left_padding=0.01,
+                                  right_padding=0.01,
+                                  video_codec=DEFAULT_VIDEO_CODEC,
+                                  audio_codec=DEFAULT_VIDEO_AUDIO_CODEC):
+    """
+    creates a new video compiled from cuts of `src_path`
+
+    timestamps (list): a sequence of tuples, in (start, end) (in seconds)
+    """
+    video = VideoFileClip(src_path)
+    max_ts = video.duration
+    clips = []
+    for ts in timestamps:
+        x = max(0, ts[0] - left_padding)
+        y = min(max_ts, ts[1] + right_padding)
+        clips.append(video.subclip(x, y))
+    allclips = concatenate_videoclips(clips)
+    allclips.write_videofile(dest_path, codec=video_codec, audio_codec=audio_codec)
+    return dest_path

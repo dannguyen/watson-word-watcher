@@ -86,9 +86,44 @@ def extract_line_level_data(data):
     return lines
 
 
-# def fetch_transcript_parts(data):
-#     """
-#     `data` (dictonary):
+## TOO LAZY TO REFACTOR THIS
 
-#     returns:
-#     """
+def extract_word_level_data(data):
+    """
+    data (dict): as derived from standard Watson API JSON
+
+    returns: a flat list of dictionaries for each word
+    [
+        {
+            "text": "Hello",
+            "start": 1.42,
+            "end": 2.4,
+            "confidence": 0.93
+        },
+        {
+            "text": "World",
+            "start": 2.5,
+            "end": 3.2,
+            "confidence": 0.90
+        }
+
+    ]
+    """
+    words = []
+    for result in data['results']:
+        if result.get('alternatives'):
+            # just pick best alternative
+            alt = result.get('alternatives')[0]
+            timestamps = alt['timestamps']
+            if timestamps: # for some reason, timestamps can be empty in some cases
+                word_confidences = alt['word_confidence']
+                for idx, tobject in enumerate(alt['timestamps']):
+                    txt, tstart, tend = tobject
+                    word = OrderedDict()
+                    word["start"] = tstart
+                    word["end"] = tend
+                    word['confidence'] = word_confidences[idx][1]
+                    word["text"] = txt
+                    words.append(word)
+    return words
+

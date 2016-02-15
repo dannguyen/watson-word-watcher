@@ -2,9 +2,9 @@
     "result_index": 0,
     "results": [
         {
+            "final": true,
             "alternatives": [
                 {
-                    "confidence": 0.969,
                     "word_confidence": [
                         [
                             "this",
@@ -59,7 +59,6 @@
                             0.9922666930770954
                         ]
                     ],
-                    "transcript": "this great slogan of the Hampshire live free or die means so much ",
                     "timestamps": [
                         [
                             "this",
@@ -126,97 +125,98 @@
                             9.67,
                             9.95
                         ]
-                    ]
+                    ],
+                    "transcript": "this great slogan of the Hampshire live free or die means so much ",
+                    "confidence": 0.969
                 }
             ],
             "word_alternatives": [
                 {
                     "alternatives": [
                         {
-                            "confidence": 1.0,
-                            "word": "this"
+                            "word": "this",
+                            "confidence": 1.0
                         }
                     ],
-                    "start_time": 0.61,
-                    "end_time": 3.6
+                    "end_time": 3.6,
+                    "start_time": 0.61
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.5104,
-                            "word": "great"
+                            "word": "great",
+                            "confidence": 0.5104
                         }
                     ],
-                    "start_time": 5.35,
-                    "end_time": 5.72
+                    "end_time": 5.72,
+                    "start_time": 5.35
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.5103,
-                            "word": "slogan"
+                            "word": "slogan",
+                            "confidence": 0.5103
                         }
                     ],
-                    "start_time": 5.72,
-                    "end_time": 6.27
+                    "end_time": 6.27,
+                    "start_time": 5.72
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.7889,
-                            "word": "or"
+                            "word": "or",
+                            "confidence": 0.7889
                         }
                     ],
-                    "start_time": 8.11,
-                    "end_time": 8.21
+                    "end_time": 8.21,
+                    "start_time": 8.11
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.8949,
-                            "word": "die"
+                            "word": "die",
+                            "confidence": 0.8949
                         }
                     ],
-                    "start_time": 8.21,
-                    "end_time": 8.67
+                    "end_time": 8.67,
+                    "start_time": 8.21
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.7871,
-                            "word": "means"
+                            "word": "means",
+                            "confidence": 0.7871
                         }
                     ],
-                    "start_time": 8.75,
-                    "end_time": 9.3
+                    "end_time": 9.3,
+                    "start_time": 8.75
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.8692,
-                            "word": "so"
+                            "word": "so",
+                            "confidence": 0.8692
                         }
                     ],
-                    "start_time": 9.34,
-                    "end_time": 9.67
+                    "end_time": 9.67,
+                    "start_time": 9.34
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.7256,
-                            "word": "much"
+                            "word": "much",
+                            "confidence": 0.7256
                         }
                     ],
-                    "start_time": 9.67,
-                    "end_time": 9.95
+                    "end_time": 9.95,
+                    "start_time": 9.67
                 }
-            ],
-            "final": true
+            ]
         },
         {
+            "final": true,
             "alternatives": [
                 {
-                    "confidence": 0.928,
                     "word_confidence": [
                         [
                             "so",
@@ -303,7 +303,6 @@
                             0.9962246747803437
                         ]
                     ],
-                    "transcript": "so many people all over the world they use that expression it means liberty it means freedom it means free enterprise ",
                     "timestamps": [
                         [
                             "so",
@@ -410,207 +409,208 @@
                             17.97,
                             18.92
                         ]
-                    ]
+                    ],
+                    "transcript": "so many people all over the world they use that expression it means liberty it means freedom it means free enterprise ",
+                    "confidence": 0.928
                 }
             ],
             "word_alternatives": [
                 {
                     "alternatives": [
                         {
-                            "confidence": 1.0,
-                            "word": "so"
+                            "word": "so",
+                            "confidence": 1.0
                         }
                     ],
-                    "start_time": 10.37,
-                    "end_time": 10.64
+                    "end_time": 10.64,
+                    "start_time": 10.37
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 1.0,
-                            "word": "many"
+                            "word": "many",
+                            "confidence": 1.0
                         }
                     ],
-                    "start_time": 10.64,
-                    "end_time": 10.87
+                    "end_time": 10.87,
+                    "start_time": 10.64
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.9993,
-                            "word": "people"
+                            "word": "people",
+                            "confidence": 0.9993
                         }
                     ],
-                    "start_time": 10.87,
-                    "end_time": 11.370000000000001
+                    "end_time": 11.370000000000001,
+                    "start_time": 10.87
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.9905,
-                            "word": "all"
+                            "word": "all",
+                            "confidence": 0.9905
                         }
                     ],
-                    "start_time": 11.64,
-                    "end_time": 11.95
+                    "end_time": 11.95,
+                    "start_time": 11.64
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.9905,
-                            "word": "over"
+                            "word": "over",
+                            "confidence": 0.9905
                         }
                     ],
-                    "start_time": 11.95,
-                    "end_time": 12.16
+                    "end_time": 12.16,
+                    "start_time": 11.95
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.9906,
-                            "word": "the"
+                            "word": "the",
+                            "confidence": 0.9906
                         }
                     ],
-                    "start_time": 12.16,
-                    "end_time": 12.26
+                    "end_time": 12.26,
+                    "start_time": 12.16
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.9524,
-                            "word": "world"
+                            "word": "world",
+                            "confidence": 0.9524
                         }
                     ],
-                    "start_time": 12.26,
-                    "end_time": 12.620000000000001
+                    "end_time": 12.620000000000001,
+                    "start_time": 12.26
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.9282,
-                            "word": "they"
+                            "word": "they",
+                            "confidence": 0.9282
                         }
                     ],
-                    "start_time": 12.620000000000001,
-                    "end_time": 12.74
+                    "end_time": 12.74,
+                    "start_time": 12.620000000000001
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.8184,
-                            "word": "use"
+                            "word": "use",
+                            "confidence": 0.8184
                         }
                     ],
-                    "start_time": 12.74,
-                    "end_time": 13.08
+                    "end_time": 13.08,
+                    "start_time": 12.74
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.8183,
-                            "word": "that"
+                            "word": "that",
+                            "confidence": 0.8183
                         }
                     ],
-                    "start_time": 13.08,
-                    "end_time": 13.29
+                    "end_time": 13.29,
+                    "start_time": 13.08
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.7674,
-                            "word": "expression"
+                            "word": "expression",
+                            "confidence": 0.7674
                         }
                     ],
-                    "start_time": 13.29,
-                    "end_time": 13.89
+                    "end_time": 13.89,
+                    "start_time": 13.29
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.5468,
-                            "word": "means"
+                            "word": "means",
+                            "confidence": 0.5468
                         }
                     ],
-                    "start_time": 14.39,
-                    "end_time": 14.71
+                    "end_time": 14.71,
+                    "start_time": 14.39
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.5342,
-                            "word": "liberty"
+                            "word": "liberty",
+                            "confidence": 0.5342
                         }
                     ],
-                    "start_time": 14.71,
-                    "end_time": 15.32
+                    "end_time": 15.32,
+                    "start_time": 14.71
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.895,
-                            "word": "it"
+                            "word": "it",
+                            "confidence": 0.895
                         }
                     ],
-                    "start_time": 15.48,
-                    "end_time": 15.68
+                    "end_time": 15.68,
+                    "start_time": 15.48
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.9264,
-                            "word": "means"
+                            "word": "means",
+                            "confidence": 0.9264
                         }
                     ],
-                    "start_time": 15.68,
-                    "end_time": 16.05
+                    "end_time": 16.05,
+                    "start_time": 15.68
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.9444,
-                            "word": "freedom"
+                            "word": "freedom",
+                            "confidence": 0.9444
                         }
                     ],
-                    "start_time": 16.05,
-                    "end_time": 16.6
+                    "end_time": 16.6,
+                    "start_time": 16.05
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.5959,
-                            "word": "it"
+                            "word": "it",
+                            "confidence": 0.5959
                         }
                     ],
-                    "start_time": 16.93,
-                    "end_time": 17.14
+                    "end_time": 17.14,
+                    "start_time": 16.93
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.597,
-                            "word": "means"
+                            "word": "means",
+                            "confidence": 0.597
                         }
                     ],
-                    "start_time": 17.14,
-                    "end_time": 17.62
+                    "end_time": 17.62,
+                    "start_time": 17.14
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.617,
-                            "word": "enterprise"
+                            "word": "enterprise",
+                            "confidence": 0.617
                         }
                     ],
-                    "start_time": 17.97,
-                    "end_time": 18.92
+                    "end_time": 18.92,
+                    "start_time": 17.97
                 }
-            ],
-            "final": true
+            ]
         },
         {
+            "final": true,
             "alternatives": [
                 {
-                    "confidence": 0.592,
                     "word_confidence": [
                         [
                             "mean",
@@ -621,7 +621,6 @@
                             0.5654149319351436
                         ]
                     ],
-                    "transcript": "mean safe ",
                     "timestamps": [
                         [
                             "mean",
@@ -633,27 +632,28 @@
                             19.54,
                             19.939999999999998
                         ]
-                    ]
+                    ],
+                    "transcript": "mean safe ",
+                    "confidence": 0.592
                 }
             ],
             "word_alternatives": [
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.9114,
-                            "word": "mean"
+                            "word": "mean",
+                            "confidence": 0.9114
                         }
                     ],
-                    "start_time": 19.29,
-                    "end_time": 19.54
+                    "end_time": 19.54,
+                    "start_time": 19.29
                 }
-            ],
-            "final": true
+            ]
         },
         {
+            "final": true,
             "alternatives": [
                 {
-                    "confidence": 0.869,
                     "word_confidence": [
                         [
                             "the",
@@ -752,7 +752,6 @@
                             0.9973183890265828
                         ]
                     ],
-                    "transcript": "the insecurity it means borders it means strong strong military where nobody's going to mess with us it means taking care of our vets ",
                     "timestamps": [
                         [
                             "the",
@@ -874,187 +873,188 @@
                             29.0,
                             29.560000000000002
                         ]
-                    ]
+                    ],
+                    "transcript": "the insecurity it means borders it means strong strong military where nobody's going to mess with us it means taking care of our vets ",
+                    "confidence": 0.869
                 }
             ],
             "word_alternatives": [
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.8624,
-                            "word": "the"
+                            "word": "the",
+                            "confidence": 0.8624
                         }
                     ],
-                    "start_time": 20.03,
-                    "end_time": 20.12
+                    "end_time": 20.12,
+                    "start_time": 20.03
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.7502,
-                            "word": "strong"
+                            "word": "strong",
+                            "confidence": 0.7502
                         }
                     ],
-                    "start_time": 23.92,
-                    "end_time": 24.43
+                    "end_time": 24.43,
+                    "start_time": 23.92
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.7682,
-                            "word": "military"
+                            "word": "military",
+                            "confidence": 0.7682
                         }
                     ],
-                    "start_time": 24.43,
-                    "end_time": 25.06
+                    "end_time": 25.06,
+                    "start_time": 24.43
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.9728,
-                            "word": "where"
+                            "word": "where",
+                            "confidence": 0.9728
                         }
                     ],
-                    "start_time": 25.06,
-                    "end_time": 25.28
+                    "end_time": 25.28,
+                    "start_time": 25.06
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.9314,
-                            "word": "nobody's"
+                            "word": "nobody's",
+                            "confidence": 0.9314
                         }
                     ],
-                    "start_time": 25.28,
-                    "end_time": 25.89
+                    "end_time": 25.89,
+                    "start_time": 25.28
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.924,
-                            "word": "going"
+                            "word": "going",
+                            "confidence": 0.924
                         }
                     ],
-                    "start_time": 25.89,
-                    "end_time": 26.05
+                    "end_time": 26.05,
+                    "start_time": 25.89
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.924,
-                            "word": "to"
+                            "word": "to",
+                            "confidence": 0.924
                         }
                     ],
-                    "start_time": 26.05,
-                    "end_time": 26.11
+                    "end_time": 26.11,
+                    "start_time": 26.05
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.9511,
-                            "word": "mess"
+                            "word": "mess",
+                            "confidence": 0.9511
                         }
                     ],
-                    "start_time": 26.11,
-                    "end_time": 26.4
+                    "end_time": 26.4,
+                    "start_time": 26.11
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.9743,
-                            "word": "with"
+                            "word": "with",
+                            "confidence": 0.9743
                         }
                     ],
-                    "start_time": 26.4,
-                    "end_time": 26.59
+                    "end_time": 26.59,
+                    "start_time": 26.4
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.973,
-                            "word": "us"
+                            "word": "us",
+                            "confidence": 0.973
                         }
                     ],
-                    "start_time": 26.59,
-                    "end_time": 26.94
+                    "end_time": 26.94,
+                    "start_time": 26.59
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.6127,
-                            "word": "it"
+                            "word": "it",
+                            "confidence": 0.6127
                         }
                     ],
-                    "start_time": 27.16,
-                    "end_time": 27.38
+                    "end_time": 27.38,
+                    "start_time": 27.16
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.6126,
-                            "word": "means"
+                            "word": "means",
+                            "confidence": 0.6126
                         }
                     ],
-                    "start_time": 27.38,
-                    "end_time": 27.81
+                    "end_time": 27.81,
+                    "start_time": 27.38
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.5887,
-                            "word": "taking"
+                            "word": "taking",
+                            "confidence": 0.5887
                         }
                     ],
-                    "start_time": 27.97,
-                    "end_time": 28.439999999999998
+                    "end_time": 28.439999999999998,
+                    "start_time": 27.97
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.9461,
-                            "word": "care"
+                            "word": "care",
+                            "confidence": 0.9461
                         }
                     ],
-                    "start_time": 28.439999999999998,
-                    "end_time": 28.740000000000002
+                    "end_time": 28.740000000000002,
+                    "start_time": 28.439999999999998
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.9462,
-                            "word": "of"
+                            "word": "of",
+                            "confidence": 0.9462
                         }
                     ],
-                    "start_time": 28.740000000000002,
-                    "end_time": 28.869999999999997
+                    "end_time": 28.869999999999997,
+                    "start_time": 28.740000000000002
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 1.0,
-                            "word": "our"
+                            "word": "our",
+                            "confidence": 1.0
                         }
                     ],
-                    "start_time": 28.869999999999997,
-                    "end_time": 29.0
+                    "end_time": 29.0,
+                    "start_time": 28.869999999999997
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.9536,
-                            "word": "vets"
+                            "word": "vets",
+                            "confidence": 0.9536
                         }
                     ],
-                    "start_time": 29.0,
-                    "end_time": 29.560000000000002
+                    "end_time": 29.560000000000002,
+                    "start_time": 29.0
                 }
-            ],
-            "final": true
+            ]
         },
         {
+            "final": true,
             "alternatives": [
                 {
-                    "confidence": 0.914,
                     "word_confidence": [
                         [
                             "what",
@@ -1085,7 +1085,6 @@
                             0.9845177369977128
                         ]
                     ],
-                    "transcript": "what a great slogan congradulations New Hampshire ",
                     "timestamps": [
                         [
                             "what",
@@ -1122,67 +1121,68 @@
                             32.84,
                             33.32
                         ]
-                    ]
+                    ],
+                    "transcript": "what a great slogan congradulations New Hampshire ",
+                    "confidence": 0.914
                 }
             ],
             "word_alternatives": [
                 {
                     "alternatives": [
                         {
-                            "confidence": 1.0,
-                            "word": "what"
+                            "word": "what",
+                            "confidence": 1.0
                         }
                     ],
-                    "start_time": 30.03,
-                    "end_time": 30.23
+                    "end_time": 30.23,
+                    "start_time": 30.03
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 1.0,
-                            "word": "a"
+                            "word": "a",
+                            "confidence": 1.0
                         }
                     ],
-                    "start_time": 30.23,
-                    "end_time": 30.32
+                    "end_time": 30.32,
+                    "start_time": 30.23
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 1.0,
-                            "word": "great"
+                            "word": "great",
+                            "confidence": 1.0
                         }
                     ],
-                    "start_time": 30.32,
-                    "end_time": 30.71
+                    "end_time": 30.71,
+                    "start_time": 30.32
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.8994,
-                            "word": "slogan"
+                            "word": "slogan",
+                            "confidence": 0.8994
                         }
                     ],
-                    "start_time": 30.71,
-                    "end_time": 31.27
+                    "end_time": 31.27,
+                    "start_time": 30.71
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.7722,
-                            "word": "Hampshire"
+                            "word": "Hampshire",
+                            "confidence": 0.7722
                         }
                     ],
-                    "start_time": 32.84,
-                    "end_time": 33.32
+                    "end_time": 33.32,
+                    "start_time": 32.84
                 }
-            ],
-            "final": true
+            ]
         },
         {
+            "final": true,
             "alternatives": [
                 {
-                    "confidence": 0.713,
                     "word_confidence": [
                         [
                             "wonderful",
@@ -1197,7 +1197,6 @@
                             0.6076952385681935
                         ]
                     ],
-                    "transcript": "wonderful job dnmt ",
                     "timestamps": [
                         [
                             "wonderful",
@@ -1214,54 +1213,55 @@
                             34.76,
                             37.07
                         ]
-                    ]
+                    ],
+                    "transcript": "wonderful job dnmt ",
+                    "confidence": 0.713
                 }
             ],
             "word_alternatives": [
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.9965,
-                            "word": "wonderful"
+                            "word": "wonderful",
+                            "confidence": 0.9965
                         }
                     ],
-                    "start_time": 33.72,
-                    "end_time": 34.24
+                    "end_time": 34.24,
+                    "start_time": 33.72
                 },
                 {
                     "alternatives": [
                         {
-                            "confidence": 0.993,
-                            "word": "job"
+                            "word": "job",
+                            "confidence": 0.993
                         }
                     ],
-                    "start_time": 34.24,
-                    "end_time": 34.58
+                    "end_time": 34.58,
+                    "start_time": 34.24
                 }
-            ],
-            "final": true
+            ]
         },
         {
+            "final": true,
             "alternatives": [
                 {
-                    "confidence": 0.0,
+                    "timestamps": [],
                     "transcript": "I ",
-                    "timestamps": []
+                    "confidence": 0.0
                 }
             ],
-            "word_alternatives": [],
-            "final": true
+            "word_alternatives": []
         },
         {
+            "final": true,
             "alternatives": [
                 {
-                    "confidence": 0.0,
+                    "timestamps": [],
                     "transcript": "and ",
-                    "timestamps": []
+                    "confidence": 0.0
                 }
             ],
-            "word_alternatives": [],
-            "final": true
+            "word_alternatives": []
         }
     ]
 }

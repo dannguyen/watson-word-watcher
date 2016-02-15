@@ -1,0 +1,422 @@
+[
+    {
+        "start": 0.61,
+        "end": 3.6,
+        "confidence": 0.9999999999999346,
+        "text": "this"
+    },
+    {
+        "start": 5.35,
+        "end": 5.72,
+        "confidence": 0.8032310670086996,
+        "text": "great"
+    },
+    {
+        "start": 5.72,
+        "end": 6.27,
+        "confidence": 0.9957876198552157,
+        "text": "slogan"
+    },
+    {
+        "start": 6.27,
+        "end": 6.4,
+        "confidence": 0.9999999999999359,
+        "text": "of"
+    },
+    {
+        "start": 6.4,
+        "end": 6.54,
+        "confidence": 0.23651311595476288,
+        "text": "the"
+    },
+    {
+        "start": 6.54,
+        "end": 7.12,
+        "confidence": 0.949708679545094,
+        "text": "Hampshire"
+    },
+    {
+        "start": 7.53,
+        "end": 7.84,
+        "confidence": 0.9999999999999297,
+        "text": "live"
+    },
+    {
+        "start": 7.84,
+        "end": 8.11,
+        "confidence": 0.99999999999991,
+        "text": "free"
+    },
+    {
+        "start": 8.11,
+        "end": 8.21,
+        "confidence": 0.999999999999897,
+        "text": "or"
+    },
+    {
+        "start": 8.21,
+        "end": 8.67,
+        "confidence": 0.995474576483371,
+        "text": "die"
+    },
+    {
+        "start": 8.75,
+        "end": 9.3,
+        "confidence": 0.9999999999999735,
+        "text": "means"
+    },
+    {
+        "start": 9.34,
+        "end": 9.67,
+        "confidence": 0.9999999999999828,
+        "text": "so"
+    },
+    {
+        "start": 9.67,
+        "end": 9.95,
+        "confidence": 0.9922666930770954,
+        "text": "much"
+    },
+    {
+        "start": 10.37,
+        "end": 10.64,
+        "confidence": 0.9999999999998691,
+        "text": "so"
+    },
+    {
+        "start": 10.64,
+        "end": 10.87,
+        "confidence": 0.9999999999999348,
+        "text": "many"
+    },
+    {
+        "start": 10.87,
+        "end": 11.370000000000001,
+        "confidence": 0.9999999999999457,
+        "text": "people"
+    },
+    {
+        "start": 11.64,
+        "end": 11.95,
+        "confidence": 0.9999999999999653,
+        "text": "all"
+    },
+    {
+        "start": 11.95,
+        "end": 12.16,
+        "confidence": 0.9999999999999689,
+        "text": "over"
+    },
+    {
+        "start": 12.16,
+        "end": 12.26,
+        "confidence": 0.9999999999999687,
+        "text": "the"
+    },
+    {
+        "start": 12.26,
+        "end": 12.620000000000001,
+        "confidence": 0.9884678010845143,
+        "text": "world"
+    },
+    {
+        "start": 12.620000000000001,
+        "end": 12.74,
+        "confidence": 0.6959436956619781,
+        "text": "they"
+    },
+    {
+        "start": 12.74,
+        "end": 13.08,
+        "confidence": 0.694420939914921,
+        "text": "use"
+    },
+    {
+        "start": 13.08,
+        "end": 13.29,
+        "confidence": 0.9445033916793543,
+        "text": "that"
+    },
+    {
+        "start": 13.29,
+        "end": 13.89,
+        "confidence": 1.0,
+        "text": "expression"
+    },
+    {
+        "start": 14.2,
+        "end": 14.39,
+        "confidence": 1.0,
+        "text": "it"
+    },
+    {
+        "start": 14.39,
+        "end": 14.71,
+        "confidence": 0.786477610687358,
+        "text": "means"
+    },
+    {
+        "start": 14.71,
+        "end": 15.32,
+        "confidence": 0.6406335371109504,
+        "text": "liberty"
+    },
+    {
+        "start": 15.48,
+        "end": 15.68,
+        "confidence": 0.8424664093460447,
+        "text": "it"
+    },
+    {
+        "start": 15.68,
+        "end": 16.05,
+        "confidence": 0.9907408030727033,
+        "text": "means"
+    },
+    {
+        "start": 16.05,
+        "end": 16.6,
+        "confidence": 0.9948820183798212,
+        "text": "freedom"
+    },
+    {
+        "start": 16.93,
+        "end": 17.14,
+        "confidence": 0.8207617257624914,
+        "text": "it"
+    },
+    {
+        "start": 17.14,
+        "end": 17.62,
+        "confidence": 0.9922957411820544,
+        "text": "means"
+    },
+    {
+        "start": 17.7,
+        "end": 17.97,
+        "confidence": 0.989492348976163,
+        "text": "free"
+    },
+    {
+        "start": 17.97,
+        "end": 18.92,
+        "confidence": 0.9962246747803437,
+        "text": "enterprise"
+    },
+    {
+        "start": 19.29,
+        "end": 19.54,
+        "confidence": 0.6333093451540622,
+        "text": "mean"
+    },
+    {
+        "start": 19.54,
+        "end": 19.939999999999998,
+        "confidence": 0.5654149319351436,
+        "text": "safe"
+    },
+    {
+        "start": 20.03,
+        "end": 20.12,
+        "confidence": 0.4675508417058286,
+        "text": "the"
+    },
+    {
+        "start": 20.12,
+        "end": 21.04,
+        "confidence": 0.5661170380704996,
+        "text": "insecurity"
+    },
+    {
+        "start": 21.21,
+        "end": 21.43,
+        "confidence": 0.4087468260302358,
+        "text": "it"
+    },
+    {
+        "start": 21.43,
+        "end": 21.76,
+        "confidence": 0.9983412871462157,
+        "text": "means"
+    },
+    {
+        "start": 21.76,
+        "end": 22.52,
+        "confidence": 0.9044328977612193,
+        "text": "borders"
+    },
+    {
+        "start": 22.63,
+        "end": 22.85,
+        "confidence": 0.5744919522577897,
+        "text": "it"
+    },
+    {
+        "start": 22.85,
+        "end": 23.2,
+        "confidence": 0.33034663689946736,
+        "text": "means"
+    },
+    {
+        "start": 23.2,
+        "end": 23.92,
+        "confidence": 0.9999999999999061,
+        "text": "strong"
+    },
+    {
+        "start": 23.92,
+        "end": 24.43,
+        "confidence": 0.9999999999998951,
+        "text": "strong"
+    },
+    {
+        "start": 24.43,
+        "end": 25.06,
+        "confidence": 0.9999999999999262,
+        "text": "military"
+    },
+    {
+        "start": 25.06,
+        "end": 25.28,
+        "confidence": 0.7718854291340211,
+        "text": "where"
+    },
+    {
+        "start": 25.28,
+        "end": 25.89,
+        "confidence": 0.8446522798516655,
+        "text": "nobody's"
+    },
+    {
+        "start": 25.89,
+        "end": 26.05,
+        "confidence": 0.8394988672815376,
+        "text": "going"
+    },
+    {
+        "start": 26.05,
+        "end": 26.11,
+        "confidence": 0.8394988672815326,
+        "text": "to"
+    },
+    {
+        "start": 26.11,
+        "end": 26.4,
+        "confidence": 0.9999999999999818,
+        "text": "mess"
+    },
+    {
+        "start": 26.4,
+        "end": 26.59,
+        "confidence": 0.9999999999999809,
+        "text": "with"
+    },
+    {
+        "start": 26.59,
+        "end": 26.94,
+        "confidence": 0.9999999999999961,
+        "text": "us"
+    },
+    {
+        "start": 27.16,
+        "end": 27.38,
+        "confidence": 0.9999999999999972,
+        "text": "it"
+    },
+    {
+        "start": 27.38,
+        "end": 27.81,
+        "confidence": 1.0,
+        "text": "means"
+    },
+    {
+        "start": 27.97,
+        "end": 28.439999999999998,
+        "confidence": 0.9999999999999594,
+        "text": "taking"
+    },
+    {
+        "start": 28.439999999999998,
+        "end": 28.740000000000002,
+        "confidence": 0.999999999999967,
+        "text": "care"
+    },
+    {
+        "start": 28.740000000000002,
+        "end": 28.869999999999997,
+        "confidence": 0.9999999999999942,
+        "text": "of"
+    },
+    {
+        "start": 28.869999999999997,
+        "end": 29.0,
+        "confidence": 1.0,
+        "text": "our"
+    },
+    {
+        "start": 29.0,
+        "end": 29.560000000000002,
+        "confidence": 0.9973183890265828,
+        "text": "vets"
+    },
+    {
+        "start": 30.03,
+        "end": 30.23,
+        "confidence": 0.9999999999999674,
+        "text": "what"
+    },
+    {
+        "start": 30.23,
+        "end": 30.32,
+        "confidence": 0.9999999999999672,
+        "text": "a"
+    },
+    {
+        "start": 30.32,
+        "end": 30.71,
+        "confidence": 0.999999999999967,
+        "text": "great"
+    },
+    {
+        "start": 30.71,
+        "end": 31.27,
+        "confidence": 0.9964234383591973,
+        "text": "slogan"
+    },
+    {
+        "start": 31.57,
+        "end": 32.69,
+        "confidence": 0.7798716606178608,
+        "text": "congradulations"
+    },
+    {
+        "start": 32.69,
+        "end": 32.84,
+        "confidence": 0.9999999999999933,
+        "text": "New"
+    },
+    {
+        "start": 32.84,
+        "end": 33.32,
+        "confidence": 0.9845177369977128,
+        "text": "Hampshire"
+    },
+    {
+        "start": 33.72,
+        "end": 34.24,
+        "confidence": 0.9999999999999402,
+        "text": "wonderful"
+    },
+    {
+        "start": 34.24,
+        "end": 34.58,
+        "confidence": 0.9896839728429401,
+        "text": "job"
+    },
+    {
+        "start": 34.76,
+        "end": 37.07,
+        "confidence": 0.6076952385681935,
+        "text": "dnmt"
+    }
+]

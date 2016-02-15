@@ -4,9 +4,37 @@ A demonstration of how to use Python and IBM Watson's Speech-to-Text API to do s
 
 
 
-Note: I don't actually know how to structure Python projects or do basic object-oriented programming. This code is not finalized and is not guaranteed at all to work for you.
+__Note:___ I'm just spit-balling code here, not making a user-friendly package. Don't think that the scripts/package organization is how I actually do things...(because normally I would do it in Ruby). I'm focused on making an automated workflow to create fun supercuts of "The Wire"...and will polish the scripts and implementaiton later.
 
-### How it works
+
+# Supercut fun
+
+You probably want to see the final product. I'm too lazy to document all the code and haven't organized it yet, but here's one result: making supercuts by grepping the Watson Speech to Text data for certain words. For example, to find all "fighting words", e.g. war, wars, warriors, fight, bomb, kill, threat, terror, death, murder, torture:
+
+~~~py
+ python supercut.py republican-debate-sc-2016-02-13 '\bwar(?:riors?|s)?\b|fight|bomb|kill|threat|terror|death|murder|tortur'
+~~~
+
+See the results on Youtube:
+
+#### Republican Debate, South Carolina, 2016-02-13:
+
+- [Obama, Clinton, and Bush](https://www.youtube.com/watch?v=enoYQEQXLjs&list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7&index=2)
+- [Fighting words (fight, bomb, kill)](https://www.youtube.com/watch?v=8H-kG-Vdkmo&list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7&index=4)
+- [Negative words (wrong, bad)](https://www.youtube.com/watch?v=4p3n-DHXiUs&index=1&list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7)
+- [Positive words (good, best)](https://www.youtube.com/watch?v=giglt01qTJE&index=3&list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7)
+
+#### Obama weekly address
+
+- [criminal, justice, reform](https://www.youtube.com/watch?v=if0wqXZ3sDo&index=5&list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7)
+
+
+------------
+
+# The technical details 
+
+
+## How it works
 
 After you've downloaded a video file to disk, the assorted scripts and commands in this repo will:
 
