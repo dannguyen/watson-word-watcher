@@ -1,5 +1,8 @@
 # Using IBM Watson's Speech-to-Text API to Transcribe Really Long, Talky Videos such as Presidential Debates
 
+A demonstration of how to use Python and IBM Watson's Speech-to-Text API to do some decently accurate transcription of real-world video and audio, at amazingly fast speeds.
+
+
 
 Note: I don't actually know how to structure Python projects or do basic object-oriented programming. This code is not finalized and is not guaranteed at all to work for you.
 
