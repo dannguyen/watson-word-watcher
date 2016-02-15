@@ -163,11 +163,13 @@ Here's a quick demonstration of Watson's accuracy given a weekly video address f
 Right now there's just a bunch of sloppy scripts that need to be refactored. There's a script named [go.py](go.py) that you can run from the command-line that will read an existing video file, create a project folder, cut up the audio, and do the transcriptions. It assumes that you have a file named `credsfile_watson.json` relative to `go.py`.
 
 
+Some code for the commandline, to download the file, then to run `go.py`:
+
 ~~~sh
-$ curl -o "/tmp/obama-weekly-address-2015-10-31.mp4" \
+curl -o "/tmp/obama-weekly-address-2015-10-31.mp4" \
   https://www.whitehouse.gov/WeeklyAddress/2015/103115-QREDSC/103115_WeeklyAddress.mp4
 
-$ python go.py /tmp/obama-weekly-address-2015-10-31.mp4
+python go.py /tmp/obama-weekly-address-2015-10-31.mp4
 ~~~
 
 
