@@ -1,0 +1,217 @@
+{
+   "results": [
+      {
+         "word_alternatives": [
+            {
+               "start_time": 0.03, 
+               "alternatives": [
+                  {
+                     "confidence": 1.0, 
+                     "word": "what"
+                  }
+               ], 
+               "end_time": 0.23
+            }, 
+            {
+               "start_time": 0.23, 
+               "alternatives": [
+                  {
+                     "confidence": 1.0, 
+                     "word": "a"
+                  }
+               ], 
+               "end_time": 0.32
+            }, 
+            {
+               "start_time": 0.32, 
+               "alternatives": [
+                  {
+                     "confidence": 1.0, 
+                     "word": "great"
+                  }
+               ], 
+               "end_time": 0.71
+            }, 
+            {
+               "start_time": 0.71, 
+               "alternatives": [
+                  {
+                     "confidence": 0.8994, 
+                     "word": "slogan"
+                  }
+               ], 
+               "end_time": 1.27
+            }, 
+            {
+               "start_time": 2.84, 
+               "alternatives": [
+                  {
+                     "confidence": 0.7722, 
+                     "word": "Hampshire"
+                  }
+               ], 
+               "end_time": 3.32
+            }
+         ], 
+         "alternatives": [
+            {
+               "word_confidence": [
+                  [
+                     "what", 
+                     0.9999999999999674
+                  ], 
+                  [
+                     "a", 
+                     0.9999999999999672
+                  ], 
+                  [
+                     "great", 
+                     0.999999999999967
+                  ], 
+                  [
+                     "slogan", 
+                     0.9964234383591973
+                  ], 
+                  [
+                     "congradulations", 
+                     0.7798716606178608
+                  ], 
+                  [
+                     "New", 
+                     0.9999999999999933
+                  ], 
+                  [
+                     "Hampshire", 
+                     0.9845177369977128
+                  ]
+               ], 
+               "confidence": 0.914, 
+               "transcript": "what a great slogan congradulations New Hampshire ", 
+               "timestamps": [
+                  [
+                     "what", 
+                     0.03, 
+                     0.23
+                  ], 
+                  [
+                     "a", 
+                     0.23, 
+                     0.32
+                  ], 
+                  [
+                     "great", 
+                     0.32, 
+                     0.71
+                  ], 
+                  [
+                     "slogan", 
+                     0.71, 
+                     1.27
+                  ], 
+                  [
+                     "congradulations", 
+                     1.57, 
+                     2.69
+                  ], 
+                  [
+                     "New", 
+                     2.69, 
+                     2.84
+                  ], 
+                  [
+                     "Hampshire", 
+                     2.84, 
+                     3.32
+                  ]
+               ]
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "word_alternatives": [
+            {
+               "start_time": 3.72, 
+               "alternatives": [
+                  {
+                     "confidence": 0.9965, 
+                     "word": "wonderful"
+                  }
+               ], 
+               "end_time": 4.24
+            }, 
+            {
+               "start_time": 4.24, 
+               "alternatives": [
+                  {
+                     "confidence": 0.993, 
+                     "word": "job"
+                  }
+               ], 
+               "end_time": 4.58
+            }
+         ], 
+         "alternatives": [
+            {
+               "word_confidence": [
+                  [
+                     "wonderful", 
+                     0.9999999999999402
+                  ], 
+                  [
+                     "job", 
+                     0.9896839728429401
+                  ], 
+                  [
+                     "dnmt", 
+                     0.6076952385681935
+                  ]
+               ], 
+               "confidence": 0.713, 
+               "transcript": "wonderful job dnmt ", 
+               "timestamps": [
+                  [
+                     "wonderful", 
+                     3.72, 
+                     4.24
+                  ], 
+                  [
+                     "job", 
+                     4.24, 
+                     4.58
+                  ], 
+                  [
+                     "dnmt", 
+                     4.76, 
+                     7.07
+                  ]
+               ]
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "word_alternatives": [], 
+         "alternatives": [
+            {
+               "timestamps": [], 
+               "confidence": 0.0, 
+               "transcript": "I "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "word_alternatives": [], 
+         "alternatives": [
+            {
+               "timestamps": [], 
+               "confidence": 0.0, 
+               "transcript": "and "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0
+}

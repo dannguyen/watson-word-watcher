@@ -1,0 +1,217 @@
+{
+   "results": [
+      {
+         "word_alternatives": [
+            {
+               "start_time": 0.61, 
+               "alternatives": [
+                  {
+                     "confidence": 1.0, 
+                     "word": "this"
+                  }
+               ], 
+               "end_time": 3.6
+            }, 
+            {
+               "start_time": 5.35, 
+               "alternatives": [
+                  {
+                     "confidence": 0.5104, 
+                     "word": "great"
+                  }
+               ], 
+               "end_time": 5.72
+            }, 
+            {
+               "start_time": 5.72, 
+               "alternatives": [
+                  {
+                     "confidence": 0.5103, 
+                     "word": "slogan"
+                  }
+               ], 
+               "end_time": 6.27
+            }, 
+            {
+               "start_time": 8.11, 
+               "alternatives": [
+                  {
+                     "confidence": 0.7889, 
+                     "word": "or"
+                  }
+               ], 
+               "end_time": 8.21
+            }, 
+            {
+               "start_time": 8.21, 
+               "alternatives": [
+                  {
+                     "confidence": 0.8949, 
+                     "word": "die"
+                  }
+               ], 
+               "end_time": 8.67
+            }, 
+            {
+               "start_time": 8.75, 
+               "alternatives": [
+                  {
+                     "confidence": 0.7871, 
+                     "word": "means"
+                  }
+               ], 
+               "end_time": 9.3
+            }, 
+            {
+               "start_time": 9.34, 
+               "alternatives": [
+                  {
+                     "confidence": 0.8692, 
+                     "word": "so"
+                  }
+               ], 
+               "end_time": 9.67
+            }, 
+            {
+               "start_time": 9.67, 
+               "alternatives": [
+                  {
+                     "confidence": 0.7256, 
+                     "word": "much"
+                  }
+               ], 
+               "end_time": 9.95
+            }
+         ], 
+         "alternatives": [
+            {
+               "word_confidence": [
+                  [
+                     "this", 
+                     0.9999999999999346
+                  ], 
+                  [
+                     "great", 
+                     0.8032310670086996
+                  ], 
+                  [
+                     "slogan", 
+                     0.9957876198552157
+                  ], 
+                  [
+                     "of", 
+                     0.9999999999999359
+                  ], 
+                  [
+                     "the", 
+                     0.23651311595476288
+                  ], 
+                  [
+                     "Hampshire", 
+                     0.949708679545094
+                  ], 
+                  [
+                     "live", 
+                     0.9999999999999297
+                  ], 
+                  [
+                     "free", 
+                     0.99999999999991
+                  ], 
+                  [
+                     "or", 
+                     0.999999999999897
+                  ], 
+                  [
+                     "die", 
+                     0.995474576483371
+                  ], 
+                  [
+                     "means", 
+                     0.9999999999999735
+                  ], 
+                  [
+                     "so", 
+                     0.9999999999999828
+                  ], 
+                  [
+                     "much", 
+                     0.9922666930770954
+                  ]
+               ], 
+               "confidence": 0.969, 
+               "transcript": "this great slogan of the Hampshire live free or die means so much ", 
+               "timestamps": [
+                  [
+                     "this", 
+                     0.61, 
+                     3.6
+                  ], 
+                  [
+                     "great", 
+                     5.35, 
+                     5.72
+                  ], 
+                  [
+                     "slogan", 
+                     5.72, 
+                     6.27
+                  ], 
+                  [
+                     "of", 
+                     6.27, 
+                     6.4
+                  ], 
+                  [
+                     "the", 
+                     6.4, 
+                     6.54
+                  ], 
+                  [
+                     "Hampshire", 
+                     6.54, 
+                     7.12
+                  ], 
+                  [
+                     "live", 
+                     7.53, 
+                     7.84
+                  ], 
+                  [
+                     "free", 
+                     7.84, 
+                     8.11
+                  ], 
+                  [
+                     "or", 
+                     8.11, 
+                     8.21
+                  ], 
+                  [
+                     "die", 
+                     8.21, 
+                     8.67
+                  ], 
+                  [
+                     "means", 
+                     8.75, 
+                     9.3
+                  ], 
+                  [
+                     "so", 
+                     9.34, 
+                     9.67
+                  ], 
+                  [
+                     "much", 
+                     9.67, 
+                     9.95
+                  ]
+               ]
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0
+}

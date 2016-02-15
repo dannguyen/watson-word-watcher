@@ -1,0 +1,442 @@
+{
+   "results": [
+      {
+         "word_alternatives": [
+            {
+               "start_time": 0.37, 
+               "alternatives": [
+                  {
+                     "confidence": 1.0, 
+                     "word": "so"
+                  }
+               ], 
+               "end_time": 0.64
+            }, 
+            {
+               "start_time": 0.64, 
+               "alternatives": [
+                  {
+                     "confidence": 1.0, 
+                     "word": "many"
+                  }
+               ], 
+               "end_time": 0.87
+            }, 
+            {
+               "start_time": 0.87, 
+               "alternatives": [
+                  {
+                     "confidence": 0.9993, 
+                     "word": "people"
+                  }
+               ], 
+               "end_time": 1.37
+            }, 
+            {
+               "start_time": 1.64, 
+               "alternatives": [
+                  {
+                     "confidence": 0.9905, 
+                     "word": "all"
+                  }
+               ], 
+               "end_time": 1.95
+            }, 
+            {
+               "start_time": 1.95, 
+               "alternatives": [
+                  {
+                     "confidence": 0.9905, 
+                     "word": "over"
+                  }
+               ], 
+               "end_time": 2.16
+            }, 
+            {
+               "start_time": 2.16, 
+               "alternatives": [
+                  {
+                     "confidence": 0.9906, 
+                     "word": "the"
+                  }
+               ], 
+               "end_time": 2.26
+            }, 
+            {
+               "start_time": 2.26, 
+               "alternatives": [
+                  {
+                     "confidence": 0.9524, 
+                     "word": "world"
+                  }
+               ], 
+               "end_time": 2.62
+            }, 
+            {
+               "start_time": 2.62, 
+               "alternatives": [
+                  {
+                     "confidence": 0.9282, 
+                     "word": "they"
+                  }
+               ], 
+               "end_time": 2.74
+            }, 
+            {
+               "start_time": 2.74, 
+               "alternatives": [
+                  {
+                     "confidence": 0.8184, 
+                     "word": "use"
+                  }
+               ], 
+               "end_time": 3.08
+            }, 
+            {
+               "start_time": 3.08, 
+               "alternatives": [
+                  {
+                     "confidence": 0.8183, 
+                     "word": "that"
+                  }
+               ], 
+               "end_time": 3.29
+            }, 
+            {
+               "start_time": 3.29, 
+               "alternatives": [
+                  {
+                     "confidence": 0.7674, 
+                     "word": "expression"
+                  }
+               ], 
+               "end_time": 3.89
+            }, 
+            {
+               "start_time": 4.39, 
+               "alternatives": [
+                  {
+                     "confidence": 0.5468, 
+                     "word": "means"
+                  }
+               ], 
+               "end_time": 4.71
+            }, 
+            {
+               "start_time": 4.71, 
+               "alternatives": [
+                  {
+                     "confidence": 0.5342, 
+                     "word": "liberty"
+                  }
+               ], 
+               "end_time": 5.32
+            }, 
+            {
+               "start_time": 5.48, 
+               "alternatives": [
+                  {
+                     "confidence": 0.895, 
+                     "word": "it"
+                  }
+               ], 
+               "end_time": 5.68
+            }, 
+            {
+               "start_time": 5.68, 
+               "alternatives": [
+                  {
+                     "confidence": 0.9264, 
+                     "word": "means"
+                  }
+               ], 
+               "end_time": 6.05
+            }, 
+            {
+               "start_time": 6.05, 
+               "alternatives": [
+                  {
+                     "confidence": 0.9444, 
+                     "word": "freedom"
+                  }
+               ], 
+               "end_time": 6.6
+            }, 
+            {
+               "start_time": 6.93, 
+               "alternatives": [
+                  {
+                     "confidence": 0.5959, 
+                     "word": "it"
+                  }
+               ], 
+               "end_time": 7.14
+            }, 
+            {
+               "start_time": 7.14, 
+               "alternatives": [
+                  {
+                     "confidence": 0.597, 
+                     "word": "means"
+                  }
+               ], 
+               "end_time": 7.62
+            }, 
+            {
+               "start_time": 7.97, 
+               "alternatives": [
+                  {
+                     "confidence": 0.617, 
+                     "word": "enterprise"
+                  }
+               ], 
+               "end_time": 8.92
+            }
+         ], 
+         "alternatives": [
+            {
+               "word_confidence": [
+                  [
+                     "so", 
+                     0.9999999999998691
+                  ], 
+                  [
+                     "many", 
+                     0.9999999999999348
+                  ], 
+                  [
+                     "people", 
+                     0.9999999999999457
+                  ], 
+                  [
+                     "all", 
+                     0.9999999999999653
+                  ], 
+                  [
+                     "over", 
+                     0.9999999999999689
+                  ], 
+                  [
+                     "the", 
+                     0.9999999999999687
+                  ], 
+                  [
+                     "world", 
+                     0.9884678010845143
+                  ], 
+                  [
+                     "they", 
+                     0.6959436956619781
+                  ], 
+                  [
+                     "use", 
+                     0.694420939914921
+                  ], 
+                  [
+                     "that", 
+                     0.9445033916793543
+                  ], 
+                  [
+                     "expression", 
+                     1.0
+                  ], 
+                  [
+                     "it", 
+                     1.0
+                  ], 
+                  [
+                     "means", 
+                     0.786477610687358
+                  ], 
+                  [
+                     "liberty", 
+                     0.6406335371109504
+                  ], 
+                  [
+                     "it", 
+                     0.8424664093460447
+                  ], 
+                  [
+                     "means", 
+                     0.9907408030727033
+                  ], 
+                  [
+                     "freedom", 
+                     0.9948820183798212
+                  ], 
+                  [
+                     "it", 
+                     0.8207617257624914
+                  ], 
+                  [
+                     "means", 
+                     0.9922957411820544
+                  ], 
+                  [
+                     "free", 
+                     0.989492348976163
+                  ], 
+                  [
+                     "enterprise", 
+                     0.9962246747803437
+                  ]
+               ], 
+               "confidence": 0.928, 
+               "transcript": "so many people all over the world they use that expression it means liberty it means freedom it means free enterprise ", 
+               "timestamps": [
+                  [
+                     "so", 
+                     0.37, 
+                     0.64
+                  ], 
+                  [
+                     "many", 
+                     0.64, 
+                     0.87
+                  ], 
+                  [
+                     "people", 
+                     0.87, 
+                     1.37
+                  ], 
+                  [
+                     "all", 
+                     1.64, 
+                     1.95
+                  ], 
+                  [
+                     "over", 
+                     1.95, 
+                     2.16
+                  ], 
+                  [
+                     "the", 
+                     2.16, 
+                     2.26
+                  ], 
+                  [
+                     "world", 
+                     2.26, 
+                     2.62
+                  ], 
+                  [
+                     "they", 
+                     2.62, 
+                     2.74
+                  ], 
+                  [
+                     "use", 
+                     2.74, 
+                     3.08
+                  ], 
+                  [
+                     "that", 
+                     3.08, 
+                     3.29
+                  ], 
+                  [
+                     "expression", 
+                     3.29, 
+                     3.89
+                  ], 
+                  [
+                     "it", 
+                     4.2, 
+                     4.39
+                  ], 
+                  [
+                     "means", 
+                     4.39, 
+                     4.71
+                  ], 
+                  [
+                     "liberty", 
+                     4.71, 
+                     5.32
+                  ], 
+                  [
+                     "it", 
+                     5.48, 
+                     5.68
+                  ], 
+                  [
+                     "means", 
+                     5.68, 
+                     6.05
+                  ], 
+                  [
+                     "freedom", 
+                     6.05, 
+                     6.6
+                  ], 
+                  [
+                     "it", 
+                     6.93, 
+                     7.14
+                  ], 
+                  [
+                     "means", 
+                     7.14, 
+                     7.62
+                  ], 
+                  [
+                     "free", 
+                     7.7, 
+                     7.97
+                  ], 
+                  [
+                     "enterprise", 
+                     7.97, 
+                     8.92
+                  ]
+               ]
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "word_alternatives": [
+            {
+               "start_time": 9.29, 
+               "alternatives": [
+                  {
+                     "confidence": 0.9114, 
+                     "word": "mean"
+                  }
+               ], 
+               "end_time": 9.54
+            }
+         ], 
+         "alternatives": [
+            {
+               "word_confidence": [
+                  [
+                     "mean", 
+                     0.6333093451540622
+                  ], 
+                  [
+                     "safe", 
+                     0.5654149319351436
+                  ]
+               ], 
+               "confidence": 0.592, 
+               "transcript": "mean safe ", 
+               "timestamps": [
+                  [
+                     "mean", 
+                     9.29, 
+                     9.54
+                  ], 
+                  [
+                     "safe", 
+                     9.54, 
+                     9.94
+                  ]
+               ]
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0
+}

@@ -7,7 +7,8 @@ Also, this repo doesn't yet have the (relatively trivial) code to parse the Wats
 
 Later in this README, there's a demonstration involving a 3-minute video address from President Obama and the transcript from the compiled JSON.
 
-Check out the [projects/republican-debate-sc-2016-02-13 folder](projects/republican-debate-sc-2016-02-13) in this repo to see the raw JSON response files and their corresponding .WAV audio, as extracted from the [Feb. 13, 2016 Republican Presidential Candidate debate in South Carolina](https://www.youtube.com/watch?v=OkSRfYeD7cQ)
+
+
 
 
 
@@ -42,7 +43,105 @@ This project uses:
 - [moviepy](https://github.com/Zulko/moviepy) - currently, just being used as a very nice wrapper around ffmpeg, to do audio-video conversion and extraction. But has a lot of potential for laughter and games via programmatic editing.
   - moviepy will install __ffmpeg__ if you don't already have it installed
 
-# Demonstration
+# Demonstrations
+
+## Republican Debate in South Carolina, Feb. 13, 2016
+
+
+Check out the [projects/republican-debate-sc-2016-02-13 folder](projects/republican-debate-sc-2016-02-13) in this repo to see the raw JSON response files and their corresponding .WAV audio, as extracted from the [Feb. 13, 2016 Republican Presidential Candidate debate in South Carolina](https://www.youtube.com/watch?v=OkSRfYeD7cQ):
+
+<a href="https://www.youtube.com/watch?v=OkSRfYeD7cQ">
+  <img src="https://i.ytimg.com/vi/OkSRfYeD7cQ/maxresdefault.jpg"
+  alt="debate video on youtube">
+</a>
+
+
+
+
+## Donald Trump "Live Free or Die" commercial (39 seconds)
+
+The commercial can be seen [here on YouTube](https://www.youtube.com/watch?v=bb4TxjvQlh0):
+
+<a href="https://www.youtube.com/watch?v=bb4TxjvQlh0">
+  <img src="https://i.ytimg.com/vi/bb4TxjvQlh0/maxresdefault.jpg" alt="trumpvideo">
+</a>
+
+The project directory generated: [projects/trump-nh/](projects/trump-nh/)
+
+Because the video is so short, the directory includes the video file, the extracted audio, as well as the segmented audio and raw Watson JSON responses. For this example, I made the segments __10 seconds__ long.
+
+To compile the transcript text:
+
+~~~py
+import json
+from glob import glob
+filenames = glob("./projects/trump-nh/transcripts/*.json")
+
+for fn in filenames:
+  with open(fn, 'r') as t:
+      data = json.loads(t.read())
+      for x in data['results']:
+          best_alt = x['alternatives'][0]
+          print(best_alt['transcript'])
+~~~
+
+The result:
+
+> this great slogan of the Hampshire live free or die means so much 
+>
+> so many people all over the world they use that expression it means liberty it means freedom it means free enterprise 
+>
+>mean safe 
+>
+> the insecurity it means borders it means strong strong military where nobody's going to mess with us it means taking care of our vets 
+>
+> what a great slogan congradulations New Hampshire 
+
+> wonderful job dnmt 
+> I 
+> and 
+
+Note that the last 3 tokens, `dmnt I and`, are a result of the Watson API getting confused by the dramatic music that closes the commercial. Luckily, the JSON response includes, among timestamp data for each work, a confidence level as well.
+
+It actually is spot on for Trump's full closing sentence (not sure why "congradulations" is used...)...the confidence levels for `dmnt I and` were very low comparatively...I think `dmnt` is some kind of code word used by the API to indicate something, not that Watson thought that `dmnt` was actually said (see the [full JSON response here](projects/trump-nh/transcripts/00030-00040.json))
+
+~~~json
+{
+    "word_confidence": [
+        [
+            "what",
+            0.9999999999999674
+        ],
+        [
+            "a",
+            0.9999999999999672
+        ],
+        [
+            "great",
+            0.999999999999967
+        ],
+        [
+            "slogan",
+            0.9964234383591973
+        ],
+        [
+            "congradulations",
+            0.7798716606178608
+        ],
+        [
+            "New",
+            0.9999999999999933
+        ],
+        [
+            "Hampshire",
+            0.9845177369977128
+        ]
+    ]
+}
+~~~
+
+
+## President Obama weekly address for October 31, 2015 (3 minutes)
 
 Here's a quick demonstration of Watson's accuracy given a weekly video address from President Obama (~3 minutes):
 
@@ -170,3 +269,6 @@ The output:
 > thanks everybody have a great weekend and have a safe and happy Halloween 
 
 You [can compare it to the transcript here](https://www.whitehouse.gov/the-press-office/2015/10/31/weekly-address-its-time-reform-our-criminal-justice-system).
+
+
+

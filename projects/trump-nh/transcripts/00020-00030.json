@@ -1,0 +1,406 @@
+{
+   "results": [
+      {
+         "word_alternatives": [
+            {
+               "start_time": 0.03, 
+               "alternatives": [
+                  {
+                     "confidence": 0.8624, 
+                     "word": "the"
+                  }
+               ], 
+               "end_time": 0.12
+            }, 
+            {
+               "start_time": 3.92, 
+               "alternatives": [
+                  {
+                     "confidence": 0.7502, 
+                     "word": "strong"
+                  }
+               ], 
+               "end_time": 4.43
+            }, 
+            {
+               "start_time": 4.43, 
+               "alternatives": [
+                  {
+                     "confidence": 0.7682, 
+                     "word": "military"
+                  }
+               ], 
+               "end_time": 5.06
+            }, 
+            {
+               "start_time": 5.06, 
+               "alternatives": [
+                  {
+                     "confidence": 0.9728, 
+                     "word": "where"
+                  }
+               ], 
+               "end_time": 5.28
+            }, 
+            {
+               "start_time": 5.28, 
+               "alternatives": [
+                  {
+                     "confidence": 0.9314, 
+                     "word": "nobody's"
+                  }
+               ], 
+               "end_time": 5.89
+            }, 
+            {
+               "start_time": 5.89, 
+               "alternatives": [
+                  {
+                     "confidence": 0.924, 
+                     "word": "going"
+                  }
+               ], 
+               "end_time": 6.05
+            }, 
+            {
+               "start_time": 6.05, 
+               "alternatives": [
+                  {
+                     "confidence": 0.924, 
+                     "word": "to"
+                  }
+               ], 
+               "end_time": 6.11
+            }, 
+            {
+               "start_time": 6.11, 
+               "alternatives": [
+                  {
+                     "confidence": 0.9511, 
+                     "word": "mess"
+                  }
+               ], 
+               "end_time": 6.4
+            }, 
+            {
+               "start_time": 6.4, 
+               "alternatives": [
+                  {
+                     "confidence": 0.9743, 
+                     "word": "with"
+                  }
+               ], 
+               "end_time": 6.59
+            }, 
+            {
+               "start_time": 6.59, 
+               "alternatives": [
+                  {
+                     "confidence": 0.973, 
+                     "word": "us"
+                  }
+               ], 
+               "end_time": 6.94
+            }, 
+            {
+               "start_time": 7.16, 
+               "alternatives": [
+                  {
+                     "confidence": 0.6127, 
+                     "word": "it"
+                  }
+               ], 
+               "end_time": 7.38
+            }, 
+            {
+               "start_time": 7.38, 
+               "alternatives": [
+                  {
+                     "confidence": 0.6126, 
+                     "word": "means"
+                  }
+               ], 
+               "end_time": 7.81
+            }, 
+            {
+               "start_time": 7.97, 
+               "alternatives": [
+                  {
+                     "confidence": 0.5887, 
+                     "word": "taking"
+                  }
+               ], 
+               "end_time": 8.44
+            }, 
+            {
+               "start_time": 8.44, 
+               "alternatives": [
+                  {
+                     "confidence": 0.9461, 
+                     "word": "care"
+                  }
+               ], 
+               "end_time": 8.74
+            }, 
+            {
+               "start_time": 8.74, 
+               "alternatives": [
+                  {
+                     "confidence": 0.9462, 
+                     "word": "of"
+                  }
+               ], 
+               "end_time": 8.87
+            }, 
+            {
+               "start_time": 8.87, 
+               "alternatives": [
+                  {
+                     "confidence": 1.0, 
+                     "word": "our"
+                  }
+               ], 
+               "end_time": 9.0
+            }, 
+            {
+               "start_time": 9.0, 
+               "alternatives": [
+                  {
+                     "confidence": 0.9536, 
+                     "word": "vets"
+                  }
+               ], 
+               "end_time": 9.56
+            }
+         ], 
+         "alternatives": [
+            {
+               "word_confidence": [
+                  [
+                     "the", 
+                     0.4675508417058286
+                  ], 
+                  [
+                     "insecurity", 
+                     0.5661170380704996
+                  ], 
+                  [
+                     "it", 
+                     0.4087468260302358
+                  ], 
+                  [
+                     "means", 
+                     0.9983412871462157
+                  ], 
+                  [
+                     "borders", 
+                     0.9044328977612193
+                  ], 
+                  [
+                     "it", 
+                     0.5744919522577897
+                  ], 
+                  [
+                     "means", 
+                     0.33034663689946736
+                  ], 
+                  [
+                     "strong", 
+                     0.9999999999999061
+                  ], 
+                  [
+                     "strong", 
+                     0.9999999999998951
+                  ], 
+                  [
+                     "military", 
+                     0.9999999999999262
+                  ], 
+                  [
+                     "where", 
+                     0.7718854291340211
+                  ], 
+                  [
+                     "nobody's", 
+                     0.8446522798516655
+                  ], 
+                  [
+                     "going", 
+                     0.8394988672815376
+                  ], 
+                  [
+                     "to", 
+                     0.8394988672815326
+                  ], 
+                  [
+                     "mess", 
+                     0.9999999999999818
+                  ], 
+                  [
+                     "with", 
+                     0.9999999999999809
+                  ], 
+                  [
+                     "us", 
+                     0.9999999999999961
+                  ], 
+                  [
+                     "it", 
+                     0.9999999999999972
+                  ], 
+                  [
+                     "means", 
+                     1.0
+                  ], 
+                  [
+                     "taking", 
+                     0.9999999999999594
+                  ], 
+                  [
+                     "care", 
+                     0.999999999999967
+                  ], 
+                  [
+                     "of", 
+                     0.9999999999999942
+                  ], 
+                  [
+                     "our", 
+                     1.0
+                  ], 
+                  [
+                     "vets", 
+                     0.9973183890265828
+                  ]
+               ], 
+               "confidence": 0.869, 
+               "transcript": "the insecurity it means borders it means strong strong military where nobody's going to mess with us it means taking care of our vets ", 
+               "timestamps": [
+                  [
+                     "the", 
+                     0.03, 
+                     0.12
+                  ], 
+                  [
+                     "insecurity", 
+                     0.12, 
+                     1.04
+                  ], 
+                  [
+                     "it", 
+                     1.21, 
+                     1.43
+                  ], 
+                  [
+                     "means", 
+                     1.43, 
+                     1.76
+                  ], 
+                  [
+                     "borders", 
+                     1.76, 
+                     2.52
+                  ], 
+                  [
+                     "it", 
+                     2.63, 
+                     2.85
+                  ], 
+                  [
+                     "means", 
+                     2.85, 
+                     3.2
+                  ], 
+                  [
+                     "strong", 
+                     3.2, 
+                     3.92
+                  ], 
+                  [
+                     "strong", 
+                     3.92, 
+                     4.43
+                  ], 
+                  [
+                     "military", 
+                     4.43, 
+                     5.06
+                  ], 
+                  [
+                     "where", 
+                     5.06, 
+                     5.28
+                  ], 
+                  [
+                     "nobody's", 
+                     5.28, 
+                     5.89
+                  ], 
+                  [
+                     "going", 
+                     5.89, 
+                     6.05
+                  ], 
+                  [
+                     "to", 
+                     6.05, 
+                     6.11
+                  ], 
+                  [
+                     "mess", 
+                     6.11, 
+                     6.4
+                  ], 
+                  [
+                     "with", 
+                     6.4, 
+                     6.59
+                  ], 
+                  [
+                     "us", 
+                     6.59, 
+                     6.94
+                  ], 
+                  [
+                     "it", 
+                     7.16, 
+                     7.38
+                  ], 
+                  [
+                     "means", 
+                     7.38, 
+                     7.81
+                  ], 
+                  [
+                     "taking", 
+                     7.97, 
+                     8.44
+                  ], 
+                  [
+                     "care", 
+                     8.44, 
+                     8.74
+                  ], 
+                  [
+                     "of", 
+                     8.74, 
+                     8.87
+                  ], 
+                  [
+                     "our", 
+                     8.87, 
+                     9.0
+                  ], 
+                  [
+                     "vets", 
+                     9.0, 
+                     9.56
+                  ]
+               ]
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0
+}
