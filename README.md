@@ -1,4 +1,4 @@
-# Using IBM Watson's Speech-to-Text API to Transcribe Really Long, Talky Videos such as Presidential Debates
+# Using IBM Watson's Speech-to-Text API to do Multi-Threaded Transcription of Really Long and Talky Videos, Such as Presidential Debates
 
 A demonstration of how to use Python and IBM Watson's Speech-to-Text API to do some decently accurate transcription of real-world video and audio, at amazingly fast speeds.
 
@@ -6,9 +6,26 @@ A demonstration of how to use Python and IBM Watson's Speech-to-Text API to do s
 
 Note: I don't actually know how to structure Python projects or do basic object-oriented programming. This code is not finalized and is not guaranteed at all to work for you.
 
-Also, this repo doesn't yet have the (relatively trivial) code to parse the Watson API's JSON responses. Or to make hilarious supercuts from the data.
+### How it works
 
-But here are some sample results in the [projects/](projects/) folder:
+After you've downloaded a video file to disk, the assorted scripts and commands in this repo will:
+
+1. Convert the file to mp4 if necessary
+2. Create a project subfolder to store the video file and all derived audio and transcripts file
+3. Extract the audio from as 16-bit, 16khz WAV files
+4. Split the audio into segments (300 seconds each, by default)
+5. Send each of those segments to Watson's API to be analyzed and transcribed.
+6. Saves the raw responses from Watson's API for each audio file
+7. Compiles all of the resulting responses into one data file, as if you had sent the entire audio file to be analyzed in a single go.
+
+The advantages of splitting up the audio is that it allows the transcription to be done in parallel. An hour-long audio track would take probably an hour to get a response back (if your internet connection doesn't fail), whereas 60 parallel requests to analyze 1-minute each will take roughly...1 minute to complete.
+
+I haven't tested the upper-bounds in concurrent requests to Watson's API, though I was able to send around 30 5-minute requests all at once without getting an errors.
+
+
+TODO: This repo doesn't yet have the (relatively trivial) code to parse the Watson API's JSON responses and create interesting visualizations. Or to make hilarious supercuts from the data. 
+
+Here are some sample results in the [projects/](projects/) folder:
 
 - [The Republican Presidential Debate, South Carolina, Feb. 13, 2016](#republican-debate-in-south-carolina-feb-13-2016)
 - [Donald Trump's "Live Free or Die" commercial](#donald-trump-live-free-or-die-commercial-39-seconds)
