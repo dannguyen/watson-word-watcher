@@ -19,6 +19,7 @@ See the results on Youtube:
 
 #### Republican Debate, South Carolina, 2016-02-13:
 
+- [America, and other geopolitical words](https://www.youtube.com/watch?v=d5X5EVPQSpY&index=6&list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7)
 - [Obama, Clinton, and Bush](https://www.youtube.com/watch?v=enoYQEQXLjs&list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7&index=2)
 - [Fighting words (fight, bomb, kill)](https://www.youtube.com/watch?v=8H-kG-Vdkmo&list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7&index=4)
 - [Negative words (wrong, bad)](https://www.youtube.com/watch?v=4p3n-DHXiUs&index=1&list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7)
