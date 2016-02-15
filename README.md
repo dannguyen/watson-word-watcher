@@ -54,6 +54,54 @@ After signing up for Bluemix, you can find the console page for the speech-to-te
 The [pricing is pretty generous, in terms of testing things out](http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/speech-to-text.html#pricing-block): 1,000 minutes free __each month__. Every additional minute is __$0.02__ -- i.e. transcribing an hour's worth of audio will cost $1.20.
 
 
+## Quickie Watson Testy!
+
+Before you get into the Python stuff, you should see if you are properly initialized with Watson.
+
+If you don't have a WAV file at hand, you can install the [youtube-dl](https://rg3.github.io/youtube-dl/):
+
+    $ pip install youtube-dl
+
+And download [Trump's Live Free or Die commercial](https://www.youtube.com/watch?v=bb4TxjvQlh0):
+
+~~~sh
+youtube-dl "https://www.youtube.com/watch?v=bb4TxjvQlh0" \
+  --keep-video \
+  --extract-audio \
+  --audio-format wav \
+  --audio-quality 16K \
+  --id
+~~~
+
+The following action downloads a movie file and extracts a WAV file named `bb4TxjvQlh0.wav`.
+
+In the next step, I assume you have a file named `bb4TxjvQlh0.wav`, but you are free to use any WAV audio file. 
+
+*(Note: the whole movie-file thing is totally ancillary...Watson doesn't care if the audio file comes from a movie or you recording into your microphone or whatever. But people like to transcribe videos, which is why I include the step.)**
+
+This next step is what contacts Watson's API. Replace `USERNAME` and `PASSWORD` with whatever credentials you got from the IBM Bluemix Developer Panel.
+
+The `--data-binary` flag wants a file name (prepended with `@`).
+
+When the audio file is uploaded and Watson returns a response, it will be saved to `transcript.json`
+
+~~~sh
+curl -X POST \
+     -u USERNAME:PASSWORD     \
+     -o transcript.json        \
+     --header "Content-Type: audio/wav"    \
+     --header "Transfer-Encoding: chunked" \
+     --data-binary "@bb4TxjvQlh0.wav"        \
+     "https://stream.watsonplatform.net/speech-to-text/api/v1/recognize?continuous=true&timestamps=true&word_confidence=true&profanity_filter=false"
+~~~
+
+If this doesn't work for you, then either your Internet is down, Watson is down, or you don't have the proper user/password credentials.
+
+
+
+
+
+
 
 ## Python stuff
 
