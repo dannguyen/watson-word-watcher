@@ -45,3 +45,5 @@ if __name__ == '__main__':
     # Wait for all jobs to end
     for job in watson_jobs:
         job.join()
+
+

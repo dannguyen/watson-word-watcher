@@ -1,0 +1,1267 @@
+{
+    "result_index": 0,
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.969,
+                    "word_confidence": [
+                        [
+                            "this",
+                            0.9999999999999346
+                        ],
+                        [
+                            "great",
+                            0.8032310670086996
+                        ],
+                        [
+                            "slogan",
+                            0.9957876198552157
+                        ],
+                        [
+                            "of",
+                            0.9999999999999359
+                        ],
+                        [
+                            "the",
+                            0.23651311595476288
+                        ],
+                        [
+                            "Hampshire",
+                            0.949708679545094
+                        ],
+                        [
+                            "live",
+                            0.9999999999999297
+                        ],
+                        [
+                            "free",
+                            0.99999999999991
+                        ],
+                        [
+                            "or",
+                            0.999999999999897
+                        ],
+                        [
+                            "die",
+                            0.995474576483371
+                        ],
+                        [
+                            "means",
+                            0.9999999999999735
+                        ],
+                        [
+                            "so",
+                            0.9999999999999828
+                        ],
+                        [
+                            "much",
+                            0.9922666930770954
+                        ]
+                    ],
+                    "transcript": "this great slogan of the Hampshire live free or die means so much ",
+                    "timestamps": [
+                        [
+                            "this",
+                            0.61,
+                            3.6
+                        ],
+                        [
+                            "great",
+                            5.35,
+                            5.72
+                        ],
+                        [
+                            "slogan",
+                            5.72,
+                            6.27
+                        ],
+                        [
+                            "of",
+                            6.27,
+                            6.4
+                        ],
+                        [
+                            "the",
+                            6.4,
+                            6.54
+                        ],
+                        [
+                            "Hampshire",
+                            6.54,
+                            7.12
+                        ],
+                        [
+                            "live",
+                            7.53,
+                            7.84
+                        ],
+                        [
+                            "free",
+                            7.84,
+                            8.11
+                        ],
+                        [
+                            "or",
+                            8.11,
+                            8.21
+                        ],
+                        [
+                            "die",
+                            8.21,
+                            8.67
+                        ],
+                        [
+                            "means",
+                            8.75,
+                            9.3
+                        ],
+                        [
+                            "so",
+                            9.34,
+                            9.67
+                        ],
+                        [
+                            "much",
+                            9.67,
+                            9.95
+                        ]
+                    ]
+                }
+            ],
+            "word_alternatives": [
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 1.0,
+                            "word": "this"
+                        }
+                    ],
+                    "start_time": 0.61,
+                    "end_time": 3.6
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.5104,
+                            "word": "great"
+                        }
+                    ],
+                    "start_time": 5.35,
+                    "end_time": 5.72
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.5103,
+                            "word": "slogan"
+                        }
+                    ],
+                    "start_time": 5.72,
+                    "end_time": 6.27
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.7889,
+                            "word": "or"
+                        }
+                    ],
+                    "start_time": 8.11,
+                    "end_time": 8.21
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.8949,
+                            "word": "die"
+                        }
+                    ],
+                    "start_time": 8.21,
+                    "end_time": 8.67
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.7871,
+                            "word": "means"
+                        }
+                    ],
+                    "start_time": 8.75,
+                    "end_time": 9.3
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.8692,
+                            "word": "so"
+                        }
+                    ],
+                    "start_time": 9.34,
+                    "end_time": 9.67
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.7256,
+                            "word": "much"
+                        }
+                    ],
+                    "start_time": 9.67,
+                    "end_time": 9.95
+                }
+            ],
+            "final": true
+        },
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.928,
+                    "word_confidence": [
+                        [
+                            "so",
+                            0.9999999999998691
+                        ],
+                        [
+                            "many",
+                            0.9999999999999348
+                        ],
+                        [
+                            "people",
+                            0.9999999999999457
+                        ],
+                        [
+                            "all",
+                            0.9999999999999653
+                        ],
+                        [
+                            "over",
+                            0.9999999999999689
+                        ],
+                        [
+                            "the",
+                            0.9999999999999687
+                        ],
+                        [
+                            "world",
+                            0.9884678010845143
+                        ],
+                        [
+                            "they",
+                            0.6959436956619781
+                        ],
+                        [
+                            "use",
+                            0.694420939914921
+                        ],
+                        [
+                            "that",
+                            0.9445033916793543
+                        ],
+                        [
+                            "expression",
+                            1.0
+                        ],
+                        [
+                            "it",
+                            1.0
+                        ],
+                        [
+                            "means",
+                            0.786477610687358
+                        ],
+                        [
+                            "liberty",
+                            0.6406335371109504
+                        ],
+                        [
+                            "it",
+                            0.8424664093460447
+                        ],
+                        [
+                            "means",
+                            0.9907408030727033
+                        ],
+                        [
+                            "freedom",
+                            0.9948820183798212
+                        ],
+                        [
+                            "it",
+                            0.8207617257624914
+                        ],
+                        [
+                            "means",
+                            0.9922957411820544
+                        ],
+                        [
+                            "free",
+                            0.989492348976163
+                        ],
+                        [
+                            "enterprise",
+                            0.9962246747803437
+                        ]
+                    ],
+                    "transcript": "so many people all over the world they use that expression it means liberty it means freedom it means free enterprise ",
+                    "timestamps": [
+                        [
+                            "so",
+                            10.37,
+                            10.64
+                        ],
+                        [
+                            "many",
+                            10.64,
+                            10.87
+                        ],
+                        [
+                            "people",
+                            10.87,
+                            11.370000000000001
+                        ],
+                        [
+                            "all",
+                            11.64,
+                            11.95
+                        ],
+                        [
+                            "over",
+                            11.95,
+                            12.16
+                        ],
+                        [
+                            "the",
+                            12.16,
+                            12.26
+                        ],
+                        [
+                            "world",
+                            12.26,
+                            12.620000000000001
+                        ],
+                        [
+                            "they",
+                            12.620000000000001,
+                            12.74
+                        ],
+                        [
+                            "use",
+                            12.74,
+                            13.08
+                        ],
+                        [
+                            "that",
+                            13.08,
+                            13.29
+                        ],
+                        [
+                            "expression",
+                            13.29,
+                            13.89
+                        ],
+                        [
+                            "it",
+                            14.2,
+                            14.39
+                        ],
+                        [
+                            "means",
+                            14.39,
+                            14.71
+                        ],
+                        [
+                            "liberty",
+                            14.71,
+                            15.32
+                        ],
+                        [
+                            "it",
+                            15.48,
+                            15.68
+                        ],
+                        [
+                            "means",
+                            15.68,
+                            16.05
+                        ],
+                        [
+                            "freedom",
+                            16.05,
+                            16.6
+                        ],
+                        [
+                            "it",
+                            16.93,
+                            17.14
+                        ],
+                        [
+                            "means",
+                            17.14,
+                            17.62
+                        ],
+                        [
+                            "free",
+                            17.7,
+                            17.97
+                        ],
+                        [
+                            "enterprise",
+                            17.97,
+                            18.92
+                        ]
+                    ]
+                }
+            ],
+            "word_alternatives": [
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 1.0,
+                            "word": "so"
+                        }
+                    ],
+                    "start_time": 10.37,
+                    "end_time": 10.64
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 1.0,
+                            "word": "many"
+                        }
+                    ],
+                    "start_time": 10.64,
+                    "end_time": 10.87
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9993,
+                            "word": "people"
+                        }
+                    ],
+                    "start_time": 10.87,
+                    "end_time": 11.370000000000001
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9905,
+                            "word": "all"
+                        }
+                    ],
+                    "start_time": 11.64,
+                    "end_time": 11.95
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9905,
+                            "word": "over"
+                        }
+                    ],
+                    "start_time": 11.95,
+                    "end_time": 12.16
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9906,
+                            "word": "the"
+                        }
+                    ],
+                    "start_time": 12.16,
+                    "end_time": 12.26
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9524,
+                            "word": "world"
+                        }
+                    ],
+                    "start_time": 12.26,
+                    "end_time": 12.620000000000001
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9282,
+                            "word": "they"
+                        }
+                    ],
+                    "start_time": 12.620000000000001,
+                    "end_time": 12.74
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.8184,
+                            "word": "use"
+                        }
+                    ],
+                    "start_time": 12.74,
+                    "end_time": 13.08
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.8183,
+                            "word": "that"
+                        }
+                    ],
+                    "start_time": 13.08,
+                    "end_time": 13.29
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.7674,
+                            "word": "expression"
+                        }
+                    ],
+                    "start_time": 13.29,
+                    "end_time": 13.89
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.5468,
+                            "word": "means"
+                        }
+                    ],
+                    "start_time": 14.39,
+                    "end_time": 14.71
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.5342,
+                            "word": "liberty"
+                        }
+                    ],
+                    "start_time": 14.71,
+                    "end_time": 15.32
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.895,
+                            "word": "it"
+                        }
+                    ],
+                    "start_time": 15.48,
+                    "end_time": 15.68
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9264,
+                            "word": "means"
+                        }
+                    ],
+                    "start_time": 15.68,
+                    "end_time": 16.05
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9444,
+                            "word": "freedom"
+                        }
+                    ],
+                    "start_time": 16.05,
+                    "end_time": 16.6
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.5959,
+                            "word": "it"
+                        }
+                    ],
+                    "start_time": 16.93,
+                    "end_time": 17.14
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.597,
+                            "word": "means"
+                        }
+                    ],
+                    "start_time": 17.14,
+                    "end_time": 17.62
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.617,
+                            "word": "enterprise"
+                        }
+                    ],
+                    "start_time": 17.97,
+                    "end_time": 18.92
+                }
+            ],
+            "final": true
+        },
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.592,
+                    "word_confidence": [
+                        [
+                            "mean",
+                            0.6333093451540622
+                        ],
+                        [
+                            "safe",
+                            0.5654149319351436
+                        ]
+                    ],
+                    "transcript": "mean safe ",
+                    "timestamps": [
+                        [
+                            "mean",
+                            19.29,
+                            19.54
+                        ],
+                        [
+                            "safe",
+                            19.54,
+                            19.939999999999998
+                        ]
+                    ]
+                }
+            ],
+            "word_alternatives": [
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9114,
+                            "word": "mean"
+                        }
+                    ],
+                    "start_time": 19.29,
+                    "end_time": 19.54
+                }
+            ],
+            "final": true
+        },
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.869,
+                    "word_confidence": [
+                        [
+                            "the",
+                            0.4675508417058286
+                        ],
+                        [
+                            "insecurity",
+                            0.5661170380704996
+                        ],
+                        [
+                            "it",
+                            0.4087468260302358
+                        ],
+                        [
+                            "means",
+                            0.9983412871462157
+                        ],
+                        [
+                            "borders",
+                            0.9044328977612193
+                        ],
+                        [
+                            "it",
+                            0.5744919522577897
+                        ],
+                        [
+                            "means",
+                            0.33034663689946736
+                        ],
+                        [
+                            "strong",
+                            0.9999999999999061
+                        ],
+                        [
+                            "strong",
+                            0.9999999999998951
+                        ],
+                        [
+                            "military",
+                            0.9999999999999262
+                        ],
+                        [
+                            "where",
+                            0.7718854291340211
+                        ],
+                        [
+                            "nobody's",
+                            0.8446522798516655
+                        ],
+                        [
+                            "going",
+                            0.8394988672815376
+                        ],
+                        [
+                            "to",
+                            0.8394988672815326
+                        ],
+                        [
+                            "mess",
+                            0.9999999999999818
+                        ],
+                        [
+                            "with",
+                            0.9999999999999809
+                        ],
+                        [
+                            "us",
+                            0.9999999999999961
+                        ],
+                        [
+                            "it",
+                            0.9999999999999972
+                        ],
+                        [
+                            "means",
+                            1.0
+                        ],
+                        [
+                            "taking",
+                            0.9999999999999594
+                        ],
+                        [
+                            "care",
+                            0.999999999999967
+                        ],
+                        [
+                            "of",
+                            0.9999999999999942
+                        ],
+                        [
+                            "our",
+                            1.0
+                        ],
+                        [
+                            "vets",
+                            0.9973183890265828
+                        ]
+                    ],
+                    "transcript": "the insecurity it means borders it means strong strong military where nobody's going to mess with us it means taking care of our vets ",
+                    "timestamps": [
+                        [
+                            "the",
+                            20.03,
+                            20.12
+                        ],
+                        [
+                            "insecurity",
+                            20.12,
+                            21.04
+                        ],
+                        [
+                            "it",
+                            21.21,
+                            21.43
+                        ],
+                        [
+                            "means",
+                            21.43,
+                            21.76
+                        ],
+                        [
+                            "borders",
+                            21.76,
+                            22.52
+                        ],
+                        [
+                            "it",
+                            22.63,
+                            22.85
+                        ],
+                        [
+                            "means",
+                            22.85,
+                            23.2
+                        ],
+                        [
+                            "strong",
+                            23.2,
+                            23.92
+                        ],
+                        [
+                            "strong",
+                            23.92,
+                            24.43
+                        ],
+                        [
+                            "military",
+                            24.43,
+                            25.06
+                        ],
+                        [
+                            "where",
+                            25.06,
+                            25.28
+                        ],
+                        [
+                            "nobody's",
+                            25.28,
+                            25.89
+                        ],
+                        [
+                            "going",
+                            25.89,
+                            26.05
+                        ],
+                        [
+                            "to",
+                            26.05,
+                            26.11
+                        ],
+                        [
+                            "mess",
+                            26.11,
+                            26.4
+                        ],
+                        [
+                            "with",
+                            26.4,
+                            26.59
+                        ],
+                        [
+                            "us",
+                            26.59,
+                            26.94
+                        ],
+                        [
+                            "it",
+                            27.16,
+                            27.38
+                        ],
+                        [
+                            "means",
+                            27.38,
+                            27.81
+                        ],
+                        [
+                            "taking",
+                            27.97,
+                            28.439999999999998
+                        ],
+                        [
+                            "care",
+                            28.439999999999998,
+                            28.740000000000002
+                        ],
+                        [
+                            "of",
+                            28.740000000000002,
+                            28.869999999999997
+                        ],
+                        [
+                            "our",
+                            28.869999999999997,
+                            29.0
+                        ],
+                        [
+                            "vets",
+                            29.0,
+                            29.560000000000002
+                        ]
+                    ]
+                }
+            ],
+            "word_alternatives": [
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.8624,
+                            "word": "the"
+                        }
+                    ],
+                    "start_time": 20.03,
+                    "end_time": 20.12
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.7502,
+                            "word": "strong"
+                        }
+                    ],
+                    "start_time": 23.92,
+                    "end_time": 24.43
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.7682,
+                            "word": "military"
+                        }
+                    ],
+                    "start_time": 24.43,
+                    "end_time": 25.06
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9728,
+                            "word": "where"
+                        }
+                    ],
+                    "start_time": 25.06,
+                    "end_time": 25.28
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9314,
+                            "word": "nobody's"
+                        }
+                    ],
+                    "start_time": 25.28,
+                    "end_time": 25.89
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.924,
+                            "word": "going"
+                        }
+                    ],
+                    "start_time": 25.89,
+                    "end_time": 26.05
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.924,
+                            "word": "to"
+                        }
+                    ],
+                    "start_time": 26.05,
+                    "end_time": 26.11
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9511,
+                            "word": "mess"
+                        }
+                    ],
+                    "start_time": 26.11,
+                    "end_time": 26.4
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9743,
+                            "word": "with"
+                        }
+                    ],
+                    "start_time": 26.4,
+                    "end_time": 26.59
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.973,
+                            "word": "us"
+                        }
+                    ],
+                    "start_time": 26.59,
+                    "end_time": 26.94
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.6127,
+                            "word": "it"
+                        }
+                    ],
+                    "start_time": 27.16,
+                    "end_time": 27.38
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.6126,
+                            "word": "means"
+                        }
+                    ],
+                    "start_time": 27.38,
+                    "end_time": 27.81
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.5887,
+                            "word": "taking"
+                        }
+                    ],
+                    "start_time": 27.97,
+                    "end_time": 28.439999999999998
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9461,
+                            "word": "care"
+                        }
+                    ],
+                    "start_time": 28.439999999999998,
+                    "end_time": 28.740000000000002
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9462,
+                            "word": "of"
+                        }
+                    ],
+                    "start_time": 28.740000000000002,
+                    "end_time": 28.869999999999997
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 1.0,
+                            "word": "our"
+                        }
+                    ],
+                    "start_time": 28.869999999999997,
+                    "end_time": 29.0
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9536,
+                            "word": "vets"
+                        }
+                    ],
+                    "start_time": 29.0,
+                    "end_time": 29.560000000000002
+                }
+            ],
+            "final": true
+        },
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.914,
+                    "word_confidence": [
+                        [
+                            "what",
+                            0.9999999999999674
+                        ],
+                        [
+                            "a",
+                            0.9999999999999672
+                        ],
+                        [
+                            "great",
+                            0.999999999999967
+                        ],
+                        [
+                            "slogan",
+                            0.9964234383591973
+                        ],
+                        [
+                            "congradulations",
+                            0.7798716606178608
+                        ],
+                        [
+                            "New",
+                            0.9999999999999933
+                        ],
+                        [
+                            "Hampshire",
+                            0.9845177369977128
+                        ]
+                    ],
+                    "transcript": "what a great slogan congradulations New Hampshire ",
+                    "timestamps": [
+                        [
+                            "what",
+                            30.03,
+                            30.23
+                        ],
+                        [
+                            "a",
+                            30.23,
+                            30.32
+                        ],
+                        [
+                            "great",
+                            30.32,
+                            30.71
+                        ],
+                        [
+                            "slogan",
+                            30.71,
+                            31.27
+                        ],
+                        [
+                            "congradulations",
+                            31.57,
+                            32.69
+                        ],
+                        [
+                            "New",
+                            32.69,
+                            32.84
+                        ],
+                        [
+                            "Hampshire",
+                            32.84,
+                            33.32
+                        ]
+                    ]
+                }
+            ],
+            "word_alternatives": [
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 1.0,
+                            "word": "what"
+                        }
+                    ],
+                    "start_time": 30.03,
+                    "end_time": 30.23
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 1.0,
+                            "word": "a"
+                        }
+                    ],
+                    "start_time": 30.23,
+                    "end_time": 30.32
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 1.0,
+                            "word": "great"
+                        }
+                    ],
+                    "start_time": 30.32,
+                    "end_time": 30.71
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.8994,
+                            "word": "slogan"
+                        }
+                    ],
+                    "start_time": 30.71,
+                    "end_time": 31.27
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.7722,
+                            "word": "Hampshire"
+                        }
+                    ],
+                    "start_time": 32.84,
+                    "end_time": 33.32
+                }
+            ],
+            "final": true
+        },
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.713,
+                    "word_confidence": [
+                        [
+                            "wonderful",
+                            0.9999999999999402
+                        ],
+                        [
+                            "job",
+                            0.9896839728429401
+                        ],
+                        [
+                            "dnmt",
+                            0.6076952385681935
+                        ]
+                    ],
+                    "transcript": "wonderful job dnmt ",
+                    "timestamps": [
+                        [
+                            "wonderful",
+                            33.72,
+                            34.24
+                        ],
+                        [
+                            "job",
+                            34.24,
+                            34.58
+                        ],
+                        [
+                            "dnmt",
+                            34.76,
+                            37.07
+                        ]
+                    ]
+                }
+            ],
+            "word_alternatives": [
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9965,
+                            "word": "wonderful"
+                        }
+                    ],
+                    "start_time": 33.72,
+                    "end_time": 34.24
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.993,
+                            "word": "job"
+                        }
+                    ],
+                    "start_time": 34.24,
+                    "end_time": 34.58
+                }
+            ],
+            "final": true
+        },
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.0,
+                    "transcript": "I ",
+                    "timestamps": []
+                }
+            ],
+            "word_alternatives": [],
+            "final": true
+        },
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.0,
+                    "transcript": "and ",
+                    "timestamps": []
+                }
+            ],
+            "word_alternatives": [],
+            "final": true
+        }
+    ]
+}

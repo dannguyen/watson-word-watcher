@@ -10,6 +10,7 @@ PROJECTS_MAIN_DIR = join(".", "projects")
 FULL_AUDIO_BASENAME = 'full-audio.wav'
 FULL_VIDEO_BASENAME = 'full-video.mp4'
 FULL_TRANSCRIPT_BASENAME = 'full-transcript.json'
+LINES_TRANSCRIPT_BASENAME = 'lines-transcript.json'
 WATSON_CREDS_FILENAME = "credsfile_watson.json"
 
 def get_watson_creds(fname=WATSON_CREDS_FILENAME):
@@ -101,7 +102,7 @@ def audio_segments_filenames(slug):
     and that it is filled with JSON formatted transcripts,
     this returns a list of globbed JSON files
     """
-    glob(join(audio_segments_dir(slug), '*.wav'))
+    return glob(join(audio_segments_dir(slug), '*.wav'))
 
 def transcripts_dir(slug):
     """
@@ -123,7 +124,7 @@ def transcripts_filenames(slug):
     and that it is filled with JSON formatted transcripts,
     this returns a list of globbed JSON files
     """
-    glob(join(transcripts_dir(slug), '*.json'))
+    return glob(join(transcripts_dir(slug), '*.json'))
 
 
 
@@ -158,3 +159,8 @@ def full_transcript_path(slug):
     p = join(project_dir(slug), FULL_TRANSCRIPT_BASENAME)
     return p
 
+
+
+def lines_transcript_path(slug):
+    p = join(project_dir(slug), LINES_TRANSCRIPT_BASENAME)
+    return p
