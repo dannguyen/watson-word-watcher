@@ -5,6 +5,12 @@ Note: I don't actually know how to structure Python projects or do basic object-
 
 Also, this repo doesn't yet have the (relatively trivial) code to parse the Watson API's JSON responses. Or to make hilarious supercuts from the data.
 
+Later in this README, there's a demonstration involving a 3-minute video address from President Obama and the transcript from the compiled JSON.
+
+Check out the [projects/republican-debate-sc-2016-02-13 folder](projects/republican-debate-sc-2016-02-13) in this repo to see the raw JSON response files and their corresponding .WAV audio, as extracted from the [Feb. 13, 2016 Republican Presidential Candidate debate in South Carolina](https://www.youtube.com/watch?v=OkSRfYeD7cQ)
+
+
+
 # Requirements
 
 
