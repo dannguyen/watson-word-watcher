@@ -1,13 +1,15 @@
 # Using IBM Watson's Speech-to-Text API to Transcribe Really Long, Talky Videos such as Presidential Debates
 
 
-Note: I don't actually know how to structure Python projects or do basic object-oriented programming. This code is not finalized and may not make any sense.
+Note: I don't actually know how to structure Python projects or do basic object-oriented programming. This code is not finalized and is not guaranteed at all to work for you.
 
 Also, this repo doesn't yet have the (relatively trivial) code to parse the Watson API's JSON responses. Or to make hilarious supercuts from the data.
 
-Later in this README, there's a demonstration involving a 3-minute video address from President Obama and the transcript from the compiled JSON.
+But here are some sample results in the [projects/](projects/) folder:
 
-
+- [The Republican Presidential Debate, South Carolina, Feb. 13, 2016](#republican-debate-in-south-carolina-feb-13-2016)
+- [Donald Trump's "Live Free or Die" commercial](#donald-trump-live-free-or-die-commercial-39-seconds)
+- [President Obama's Weekly Video Address, Oct. 31, 2015](#president-obama-weekly-address-for-october-31-2015-3-minutes)
 
 
 
