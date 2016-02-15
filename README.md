@@ -56,13 +56,14 @@ The [pricing is pretty generous, in terms of testing things out](http://www.ibm.
 
 ## Quickie Watson Testy!
 
-Before you get into the Python stuff, you should see if you are properly initialized with Watson.
+Before you get into the Python stuff, you should see if you are properly initialized with Watson by making contact with it from the __command-line__ (i.e. __bash__, i.e. uh not sure if it will work on Windows like this):
 
-If you don't have a WAV file at hand, you can install the [youtube-dl](https://rg3.github.io/youtube-dl/):
+If you don't have a WAV file at hand, you can install the [youtube-dl](https://rg3.github.io/youtube-dl/) command-line tool:
 
     $ pip install youtube-dl
 
-And download [Trump's Live Free or Die commercial](https://www.youtube.com/watch?v=bb4TxjvQlh0):
+And then download [Trump's Live Free or Die commercial](https://www.youtube.com/watch?v=bb4TxjvQlh0). The following command downloads a movie file, `bb4TxjvQlh0.mkv`, and extracts a WAV file named `bb4TxjvQlh0.wav`:
+
 
 ~~~sh
 youtube-dl "https://www.youtube.com/watch?v=bb4TxjvQlh0" \
@@ -73,11 +74,10 @@ youtube-dl "https://www.youtube.com/watch?v=bb4TxjvQlh0" \
   --id
 ~~~
 
-The following action downloads a movie file and extracts a WAV file named `bb4TxjvQlh0.wav`.
 
 In the next step, I assume you have a file named `bb4TxjvQlh0.wav`, but you are free to use any WAV audio file. 
 
-*(Note: the whole movie-file thing is totally ancillary...Watson doesn't care if the audio file comes from a movie or you recording into your microphone or whatever. But people like to transcribe videos, which is why I include the step.)**
+*(Note: the whole movie-file thing is totally ancillary...Watson doesn't care if the audio file comes from a movie or you recording into your microphone or whatever. But people like to transcribe videos, which is why I include the step.)*
 
 This next step is what contacts Watson's API. Replace `USERNAME` and `PASSWORD` with whatever credentials you got from the IBM Bluemix Developer Panel.
 
