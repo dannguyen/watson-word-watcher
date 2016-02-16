@@ -14,13 +14,13 @@ Before you look at the scary Python framework I've built for myself, you might a
 
 # Supercut fun
 
-You probably want to see the final product. I'm too lazy to document all the code and haven't organized it yet, but here's one result: making supercuts by grepping the Watson Speech to Text data for certain words. For example, to find all "fighting words", e.g. war, wars, warriors, fight, bomb, kill, threat, terror, death, murder, torture:
+You probably want to see the final product. I'm too lazy to document all the code and haven't organized it yet, but here's one result: [making supercuts by grepping the Watson Speech to Text data for certain words](https://www.youtube.com/playlist?list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7). For example, to find all "fighting words", e.g. war, wars, warriors, fight, bomb, kill, threat, terror, death, murder, torture:
 
 ~~~py
  python supercut.py republican-debate-sc-2016-02-13 '\bwar(?:riors?|s)?\b|fight|bomb|kill|threat|terror|death|murder|tortur'
 ~~~
 
-See the results on Youtube:
+Here's [a playlist of sample supercuts of presidential people](https://www.youtube.com/playlist?list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7):
 
 #### Republican Debate, South Carolina, 2016-02-13:
 
@@ -30,6 +30,14 @@ See the results on Youtube:
 - [Fighting words (fight, bomb, kill)](https://www.youtube.com/watch?v=8H-kG-Vdkmo&list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7&index=4)
 - [Negative words (wrong, bad)](https://www.youtube.com/watch?v=4p3n-DHXiUs&index=1&list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7)
 - [Positive words (good, best)](https://www.youtube.com/watch?v=giglt01qTJE&index=3&list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7)
+
+#### Democratic Debate, Wisconsin, 2016-02-11:
+
+- [PEOPLE](https://www.youtube.com/watch?v=ETrQmvLfCOU&list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7&index=12)
+- [America, and other geopolitical words](https://www.youtube.com/watch?v=qJNUI_OW-kA&index=16&list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7)
+- [Obama, Clinton, and Bush](https://www.youtube.com/watch?v=4R91hZA7lVc&list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7&index=11)
+- [Fighting words (fight, bomb, kill)](https://www.youtube.com/watch?v=VbXUUSFat9w&index=14&list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7)
+- [But, Why, Not, Yes, Now](https://www.youtube.com/watch?v=nJA4xEjZPLU&list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7&index=13)
 
 #### Obama weekly address
 
@@ -57,8 +65,6 @@ The advantages of splitting up the audio is that it allows the transcription to 
 
 I haven't tested the upper-bounds in concurrent requests to Watson's API, though I was able to send around 30 5-minute requests all at once without getting an errors.
 
-
-TODO: This repo doesn't yet have the (relatively trivial) code to parse the Watson API's JSON responses and create interesting visualizations. Or to make hilarious supercuts from the data. 
 
 Here are some sample results in the [projects/](projects/) folder:
 
