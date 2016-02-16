@@ -45,6 +45,8 @@ def does_project_exist(slug):
 
 def init_project_from_video_file(src_path):
     """
+    TODO: this should be moved into foo.high
+
     Given `src_path`, a video filename on the local disk:
         ~/Downloads/myvideo.mp4
 

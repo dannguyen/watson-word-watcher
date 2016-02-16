@@ -3,6 +3,14 @@ from foo.transcribe import *
 import sys
 import json
 
+
+"""
+TODO
+refactor into separate CLI-subcommands
+"""
+
+
+
 def compile_project(slug):
     tsdata =  compile_timestamped_transcript_files(transcripts_filenames(slug))
     # save to disk

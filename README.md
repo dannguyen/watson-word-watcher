@@ -4,7 +4,10 @@ A demonstration of how to use Python and IBM Watson's Speech-to-Text API to do s
 
 
 
-__Note:___ I'm just spit-balling code here, not making a user-friendly package. Don't think that the scripts/package organization is how I actually do things...(because normally I would do it in Ruby). I'm focused on making an automated workflow to create fun supercuts of "The Wire"...and will polish the scripts and implementaiton later.
+__Note:___ I'm just spit-balling code here, not making a user-friendly package. Don't think that the scripts/package organization is how I actually do things...(because normally I would do it in Ruby). I'm focused on making an automated workflow to create fun supercuts of "The Wire"...and will polish the scripts and implementation later.
+
+
+Before you look at the scary Python framework I've built for myself, you might as well see if you can work with movie/audio files and connect to Watson, using nothing but Unix tools, ffmpeg, and good ol' curl: check out this brief walkthrough: [examples/obama-shell/](examples/obama-shell/)
 
 
 # Supercut fun

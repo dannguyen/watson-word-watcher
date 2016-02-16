@@ -4,6 +4,13 @@ import sys
 import json
 import re
 
+"""
+TODO
+refactor into separate CLI-subcommands
+"""
+
+
+
 if __name__ == '__main__':
     """
     usage:
