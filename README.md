@@ -7,7 +7,9 @@ A demonstration of how to use Python and IBM Watson's Speech-to-Text API to do s
 __Note:___ I'm just spit-balling code here, not making a user-friendly package. Don't think that the scripts/package organization is how I actually do things...(because normally I would do it in Ruby). I'm focused on making an automated workflow to create fun supercuts of "The Wire"...and will polish the scripts and implementation later.
 
 
-Before you look at the scary Python framework I've built for myself, you might as well see if you can work with movie/audio files and connect to Watson, using nothing but Unix tools, ffmpeg, and good ol' curl: check out this brief walkthrough: [examples/obama-shell/](examples/obama-shell/)
+Before you look at the scary Python framework I've built for myself, you might as well see if you can work with movie/audio files and connect to Watson, using nothing but Unix tools, ffmpeg, and good ol' curl: check out this brief walkthrough: 
+
+[examples/obama-shell/](examples/obama-shell/)
 
 
 # Supercut fun
@@ -22,6 +24,7 @@ See the results on Youtube:
 
 #### Republican Debate, South Carolina, 2016-02-13:
 
+- [PEOPLE](https://www.youtube.com/watch?v=K41miubs1eE&index=1&list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7)
 - [America, and other geopolitical words](https://www.youtube.com/watch?v=d5X5EVPQSpY&index=6&list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7)
 - [Obama, Clinton, and Bush](https://www.youtube.com/watch?v=enoYQEQXLjs&list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7&index=2)
 - [Fighting words (fight, bomb, kill)](https://www.youtube.com/watch?v=8H-kG-Vdkmo&list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7&index=4)
@@ -31,7 +34,7 @@ See the results on Youtube:
 #### Obama weekly address
 
 - [criminal, justice, reform](https://www.youtube.com/watch?v=if0wqXZ3sDo&index=5&list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7)
-
+- [who, what, when, where, why, how](https://youtu.be/D-zWC_tc3Tk) (original [video](https://www.whitehouse.gov/the-press-office/weekly-address-president-obama-says-we-must-move-forward-wall-street-reform))
 
 ------------
 

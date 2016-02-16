@@ -1,0 +1,4526 @@
+[
+    {
+        "start": 5.85,
+        "end": 5.97,
+        "confidence": 0.9999999999999732,
+        "text": "there"
+    },
+    {
+        "start": 5.97,
+        "end": 6.06,
+        "confidence": 0.6334779115163,
+        "text": "were"
+    },
+    {
+        "start": 6.06,
+        "end": 6.28,
+        "confidence": 1.0,
+        "text": "many"
+    },
+    {
+        "start": 6.28,
+        "end": 6.77,
+        "confidence": 0.9031943527531582,
+        "text": "causes"
+    },
+    {
+        "start": 6.77,
+        "end": 6.95,
+        "confidence": 0.8749198710135524,
+        "text": "the"
+    },
+    {
+        "start": 6.95,
+        "end": 7.42,
+        "confidence": 0.9999999999999836,
+        "text": "turmoil"
+    },
+    {
+        "start": 7.42,
+        "end": 7.56,
+        "confidence": 0.9999999999999828,
+        "text": "that"
+    },
+    {
+        "start": 7.56,
+        "end": 7.8,
+        "confidence": 0.7312789941096826,
+        "text": "ripped"
+    },
+    {
+        "start": 7.8,
+        "end": 8.01,
+        "confidence": 0.9999999999999619,
+        "text": "through"
+    },
+    {
+        "start": 8.01,
+        "end": 8.16,
+        "confidence": 0.9999999999999747,
+        "text": "our"
+    },
+    {
+        "start": 8.16,
+        "end": 8.6,
+        "confidence": 0.9999999999999779,
+        "text": "economy"
+    },
+    {
+        "start": 8.6,
+        "end": 8.75,
+        "confidence": 0.9999999999999676,
+        "text": "over"
+    },
+    {
+        "start": 8.75,
+        "end": 8.83,
+        "confidence": 0.9999999999999672,
+        "text": "the"
+    },
+    {
+        "start": 8.83,
+        "end": 9.17,
+        "confidence": 0.9999999999999756,
+        "text": "past"
+    },
+    {
+        "start": 9.17,
+        "end": 9.28,
+        "confidence": 0.9999999999999839,
+        "text": "two"
+    },
+    {
+        "start": 9.28,
+        "end": 9.67,
+        "confidence": 0.9999999999999767,
+        "text": "years"
+    },
+    {
+        "start": 10.35,
+        "end": 10.46,
+        "confidence": 1.0,
+        "text": "but"
+    },
+    {
+        "start": 10.46,
+        "end": 10.77,
+        "confidence": 1.0,
+        "text": "above"
+    },
+    {
+        "start": 10.77,
+        "end": 11.08,
+        "confidence": 1.0,
+        "text": "all"
+    },
+    {
+        "start": 11.32,
+        "end": 11.51,
+        "confidence": 1.0,
+        "text": "this"
+    },
+    {
+        "start": 11.51,
+        "end": 11.95,
+        "confidence": 1.0,
+        "text": "crisis"
+    },
+    {
+        "start": 11.95,
+        "end": 12.11,
+        "confidence": 0.9999999999999925,
+        "text": "was"
+    },
+    {
+        "start": 12.11,
+        "end": 12.59,
+        "confidence": 0.9999999999999668,
+        "text": "caused"
+    },
+    {
+        "start": 12.59,
+        "end": 12.7,
+        "confidence": 0.9999999999999839,
+        "text": "by"
+    },
+    {
+        "start": 12.7,
+        "end": 12.8,
+        "confidence": 0.9999999999999838,
+        "text": "the"
+    },
+    {
+        "start": 12.8,
+        "end": 13.44,
+        "confidence": 0.9999999999999837,
+        "text": "failures"
+    },
+    {
+        "start": 13.47,
+        "end": 13.58,
+        "confidence": 0.99999999999998,
+        "text": "in"
+    },
+    {
+        "start": 13.58,
+        "end": 13.64,
+        "confidence": 0.9999999999999799,
+        "text": "the"
+    },
+    {
+        "start": 13.64,
+        "end": 14.14,
+        "confidence": 0.9999999999999942,
+        "text": "financial"
+    },
+    {
+        "start": 14.14,
+        "end": 14.62,
+        "confidence": 0.9880642965578387,
+        "text": "industry"
+    },
+    {
+        "start": 15.48,
+        "end": 15.67,
+        "confidence": 1.0,
+        "text": "what's"
+    },
+    {
+        "start": 15.67,
+        "end": 16.02,
+        "confidence": 1.0,
+        "text": "clear"
+    },
+    {
+        "start": 16.02,
+        "end": 16.17,
+        "confidence": 1.0,
+        "text": "is"
+    },
+    {
+        "start": 16.17,
+        "end": 16.36,
+        "confidence": 1.0,
+        "text": "that"
+    },
+    {
+        "start": 16.36,
+        "end": 16.52,
+        "confidence": 1.0,
+        "text": "this"
+    },
+    {
+        "start": 16.52,
+        "end": 17.12,
+        "confidence": 1.0,
+        "text": "crisis"
+    },
+    {
+        "start": 17.44,
+        "end": 17.65,
+        "confidence": 0.8129395294446915,
+        "text": "could"
+    },
+    {
+        "start": 17.65,
+        "end": 17.74,
+        "confidence": 0.7087397843625687,
+        "text": "have"
+    },
+    {
+        "start": 17.74,
+        "end": 17.87,
+        "confidence": 1.0,
+        "text": "been"
+    },
+    {
+        "start": 17.87,
+        "end": 18.27,
+        "confidence": 0.4328284362982262,
+        "text": "avoided"
+    },
+    {
+        "start": 18.72,
+        "end": 18.84,
+        "confidence": 1.0,
+        "text": "if"
+    },
+    {
+        "start": 18.84,
+        "end": 19.05,
+        "confidence": 0.6786647497504923,
+        "text": "Wall"
+    },
+    {
+        "start": 19.05,
+        "end": 19.37,
+        "confidence": 0.6786647497504812,
+        "text": "Street"
+    },
+    {
+        "start": 19.37,
+        "end": 19.81,
+        "confidence": 1.0,
+        "text": "firms"
+    },
+    {
+        "start": 19.81,
+        "end": 20.05,
+        "confidence": 0.9999999999999959,
+        "text": "were"
+    },
+    {
+        "start": 20.05,
+        "end": 20.29,
+        "confidence": 0.9999999999999997,
+        "text": "more"
+    },
+    {
+        "start": 20.29,
+        "end": 20.8,
+        "confidence": 0.8112970215943051,
+        "text": "accountable"
+    },
+    {
+        "start": 21.49,
+        "end": 21.59,
+        "confidence": 0.3522910899836439,
+        "text": "if"
+    },
+    {
+        "start": 21.59,
+        "end": 22.08,
+        "confidence": 1.0,
+        "text": "financial"
+    },
+    {
+        "start": 22.08,
+        "end": 22.41,
+        "confidence": 1.0,
+        "text": "dealings"
+    },
+    {
+        "start": 22.41,
+        "end": 22.51,
+        "confidence": 0.6871365697005496,
+        "text": "were"
+    },
+    {
+        "start": 22.51,
+        "end": 22.69,
+        "confidence": 0.9740673356628354,
+        "text": "more"
+    },
+    {
+        "start": 22.69,
+        "end": 23.35,
+        "confidence": 0.997214098737014,
+        "text": "transparent"
+    },
+    {
+        "start": 24.03,
+        "end": 24.12,
+        "confidence": 1.0,
+        "text": "if"
+    },
+    {
+        "start": 24.12,
+        "end": 24.78,
+        "confidence": 1.0,
+        "text": "consumers"
+    },
+    {
+        "start": 24.78,
+        "end": 24.89,
+        "confidence": 1.0,
+        "text": "and"
+    },
+    {
+        "start": 24.89,
+        "end": 25.57,
+        "confidence": 1.0,
+        "text": "shareholders"
+    },
+    {
+        "start": 25.57,
+        "end": 25.76,
+        "confidence": 1.0,
+        "text": "were"
+    },
+    {
+        "start": 25.76,
+        "end": 26.0,
+        "confidence": 1.0,
+        "text": "given"
+    },
+    {
+        "start": 26.0,
+        "end": 26.25,
+        "confidence": 1.0,
+        "text": "more"
+    },
+    {
+        "start": 26.25,
+        "end": 26.91,
+        "confidence": 1.0,
+        "text": "information"
+    },
+    {
+        "start": 27.11,
+        "end": 27.33,
+        "confidence": 0.9999999999999997,
+        "text": "and"
+    },
+    {
+        "start": 27.33,
+        "end": 27.77,
+        "confidence": 1.0,
+        "text": "authority"
+    },
+    {
+        "start": 27.77,
+        "end": 27.86,
+        "confidence": 1.0,
+        "text": "to"
+    },
+    {
+        "start": 27.86,
+        "end": 28.05,
+        "confidence": 0.999999999999992,
+        "text": "make"
+    },
+    {
+        "start": 28.05,
+        "end": 28.64,
+        "confidence": 0.9974784510847148,
+        "text": "decisions"
+    },
+    {
+        "start": 29.47,
+        "end": 29.59,
+        "confidence": 0.7892679376702395,
+        "text": "but"
+    },
+    {
+        "start": 29.59,
+        "end": 29.76,
+        "confidence": 1.0,
+        "text": "that"
+    },
+    {
+        "start": 29.76,
+        "end": 29.95,
+        "confidence": 1.0,
+        "text": "didn't"
+    },
+    {
+        "start": 29.95,
+        "end": 30.28,
+        "confidence": 0.988519532184223,
+        "text": "happen"
+    },
+    {
+        "start": 31.06,
+        "end": 31.19,
+        "confidence": 0.7079759458392274,
+        "text": "and"
+    },
+    {
+        "start": 31.19,
+        "end": 31.37,
+        "confidence": 0.9999999999999896,
+        "text": "that's"
+    },
+    {
+        "start": 31.37,
+        "end": 31.68,
+        "confidence": 0.999999999999962,
+        "text": "because"
+    },
+    {
+        "start": 31.68,
+        "end": 32.1,
+        "confidence": 1.0,
+        "text": "special"
+    },
+    {
+        "start": 32.1,
+        "end": 32.47,
+        "confidence": 0.9999999999999861,
+        "text": "interests"
+    },
+    {
+        "start": 32.47,
+        "end": 32.59,
+        "confidence": 0.7236437544924462,
+        "text": "have"
+    },
+    {
+        "start": 32.59,
+        "end": 33.1,
+        "confidence": 0.999999999999948,
+        "text": "waged"
+    },
+    {
+        "start": 33.13,
+        "end": 33.21,
+        "confidence": 0.9999999999999478,
+        "text": "a"
+    },
+    {
+        "start": 33.21,
+        "end": 33.83,
+        "confidence": 0.9999999999999387,
+        "text": "relentless"
+    },
+    {
+        "start": 33.83,
+        "end": 34.37,
+        "confidence": 0.9999999999999347,
+        "text": "campaign"
+    },
+    {
+        "start": 34.37,
+        "end": 34.48,
+        "confidence": 0.9999999999999255,
+        "text": "to"
+    },
+    {
+        "start": 34.48,
+        "end": 34.96,
+        "confidence": 0.7022220475461696,
+        "text": "thwart"
+    },
+    {
+        "start": 35.2,
+        "end": 35.52,
+        "confidence": 0.9999999999999237,
+        "text": "even"
+    },
+    {
+        "start": 35.52,
+        "end": 36.04,
+        "confidence": 0.9999999999999131,
+        "text": "basic"
+    },
+    {
+        "start": 36.08,
+        "end": 36.45,
+        "confidence": 0.9999999999999445,
+        "text": "common"
+    },
+    {
+        "start": 36.45,
+        "end": 36.78,
+        "confidence": 0.9999999999999805,
+        "text": "sense"
+    },
+    {
+        "start": 36.78,
+        "end": 37.33,
+        "confidence": 0.9981870719530699,
+        "text": "rules"
+    },
+    {
+        "start": 37.78,
+        "end": 38.07,
+        "confidence": 0.4612467789488186,
+        "text": "rules"
+    },
+    {
+        "start": 38.07,
+        "end": 38.18,
+        "confidence": 0.9999999999999709,
+        "text": "to"
+    },
+    {
+        "start": 38.18,
+        "end": 38.49,
+        "confidence": 0.9999999999999677,
+        "text": "prevent"
+    },
+    {
+        "start": 38.49,
+        "end": 38.92,
+        "confidence": 0.7258743457632515,
+        "text": "abuse"
+    },
+    {
+        "start": 38.92,
+        "end": 39.05,
+        "confidence": 0.999999999999965,
+        "text": "and"
+    },
+    {
+        "start": 39.05,
+        "end": 39.39,
+        "confidence": 0.9999999999999593,
+        "text": "protect"
+    },
+    {
+        "start": 39.39,
+        "end": 40.02,
+        "confidence": 0.9983190161629902,
+        "text": "consumers"
+    },
+    {
+        "start": 40.78,
+        "end": 40.85,
+        "confidence": 0.9999999999998037,
+        "text": "in"
+    },
+    {
+        "start": 40.85,
+        "end": 41.26,
+        "confidence": 0.9999999999998693,
+        "text": "fact"
+    },
+    {
+        "start": 41.31,
+        "end": 41.46,
+        "confidence": 0.9999999999999042,
+        "text": "the"
+    },
+    {
+        "start": 41.46,
+        "end": 41.96,
+        "confidence": 0.9999999999999044,
+        "text": "financial"
+    },
+    {
+        "start": 41.96,
+        "end": 42.59,
+        "confidence": 0.9942101058751278,
+        "text": "industry"
+    },
+    {
+        "start": 42.62,
+        "end": 42.75,
+        "confidence": 0.9361875445553346,
+        "text": "and"
+    },
+    {
+        "start": 42.75,
+        "end": 42.85,
+        "confidence": 0.5478777354117155,
+        "text": "its"
+    },
+    {
+        "start": 42.85,
+        "end": 43.34,
+        "confidence": 0.9899223697240334,
+        "text": "powerful"
+    },
+    {
+        "start": 43.34,
+        "end": 43.81,
+        "confidence": 0.9949866878024565,
+        "text": "lobby"
+    },
+    {
+        "start": 44.08,
+        "end": 44.28,
+        "confidence": 0.9999999999998769,
+        "text": "have"
+    },
+    {
+        "start": 44.28,
+        "end": 44.84,
+        "confidence": 0.9669799939106906,
+        "text": "opposed"
+    },
+    {
+        "start": 44.84,
+        "end": 45.31,
+        "confidence": 0.9973010904566061,
+        "text": "modest"
+    },
+    {
+        "start": 45.31,
+        "end": 45.9,
+        "confidence": 0.9999999999999377,
+        "text": "safeguards"
+    },
+    {
+        "start": 45.9,
+        "end": 46.22,
+        "confidence": 0.9999999999999709,
+        "text": "against"
+    },
+    {
+        "start": 46.22,
+        "end": 46.29,
+        "confidence": 0.9999999999999345,
+        "text": "the"
+    },
+    {
+        "start": 46.29,
+        "end": 46.66,
+        "confidence": 0.9999999999999508,
+        "text": "kinds"
+    },
+    {
+        "start": 46.66,
+        "end": 46.77,
+        "confidence": 0.9999999999999182,
+        "text": "of"
+    },
+    {
+        "start": 46.77,
+        "end": 47.21,
+        "confidence": 0.9999999999999486,
+        "text": "reckless"
+    },
+    {
+        "start": 47.21,
+        "end": 47.64,
+        "confidence": 0.853961220269328,
+        "text": "risks"
+    },
+    {
+        "start": 47.64,
+        "end": 47.78,
+        "confidence": 0.5592831466032334,
+        "text": "and"
+    },
+    {
+        "start": 47.78,
+        "end": 48.02,
+        "confidence": 0.9137313120631841,
+        "text": "bad"
+    },
+    {
+        "start": 48.02,
+        "end": 48.6,
+        "confidence": 0.9978818584236968,
+        "text": "practices"
+    },
+    {
+        "start": 49.01,
+        "end": 49.17,
+        "confidence": 1.0,
+        "text": "that"
+    },
+    {
+        "start": 49.17,
+        "end": 49.55,
+        "confidence": 0.9999999999999938,
+        "text": "led"
+    },
+    {
+        "start": 49.55,
+        "end": 49.66,
+        "confidence": 0.9999999999999993,
+        "text": "to"
+    },
+    {
+        "start": 49.66,
+        "end": 49.83,
+        "confidence": 1.0,
+        "text": "this"
+    },
+    {
+        "start": 49.83,
+        "end": 50.09,
+        "confidence": 1.0,
+        "text": "very"
+    },
+    {
+        "start": 50.09,
+        "end": 50.67,
+        "confidence": 0.9940125571706544,
+        "text": "crisis"
+    },
+    {
+        "start": 51.66,
+        "end": 51.73,
+        "confidence": 0.7923005312575591,
+        "text": "the"
+    },
+    {
+        "start": 51.73,
+        "end": 52.38,
+        "confidence": 1.0,
+        "text": "consequences"
+    },
+    {
+        "start": 52.38,
+        "end": 52.48,
+        "confidence": 1.0,
+        "text": "of"
+    },
+    {
+        "start": 52.48,
+        "end": 52.64,
+        "confidence": 0.7623895974683114,
+        "text": "this"
+    },
+    {
+        "start": 52.64,
+        "end": 53.14,
+        "confidence": 0.4794842582710496,
+        "text": "failure"
+    },
+    {
+        "start": 53.53,
+        "end": 54.28,
+        "confidence": 1.0,
+        "text": "responsibility"
+    },
+    {
+        "start": 54.28,
+        "end": 54.6,
+        "confidence": 0.3663686350063335,
+        "text": "from"
+    },
+    {
+        "start": 54.92,
+        "end": 55.45,
+        "confidence": 0.6425258448438487,
+        "text": "wallstreet"
+    },
+    {
+        "start": 55.45,
+        "end": 55.52,
+        "confidence": 1.0,
+        "text": "to"
+    },
+    {
+        "start": 55.52,
+        "end": 56.11,
+        "confidence": 0.9950449138047887,
+        "text": "Washington"
+    },
+    {
+        "start": 56.4,
+        "end": 56.52,
+        "confidence": 0.29445896659889564,
+        "text": "are"
+    },
+    {
+        "start": 56.52,
+        "end": 56.7,
+        "confidence": 0.9999999999999994,
+        "text": "all"
+    },
+    {
+        "start": 56.7,
+        "end": 56.99,
+        "confidence": 0.9999999999999928,
+        "text": "around"
+    },
+    {
+        "start": 56.99,
+        "end": 57.22,
+        "confidence": 0.9736397807187113,
+        "text": "us"
+    },
+    {
+        "start": 57.63,
+        "end": 57.76,
+        "confidence": 0.6811683740933604,
+        "text": "a"
+    },
+    {
+        "start": 57.76,
+        "end": 58.12,
+        "confidence": 0.9468613956822209,
+        "text": "million"
+    },
+    {
+        "start": 58.12,
+        "end": 58.43,
+        "confidence": 1.0,
+        "text": "jobs"
+    },
+    {
+        "start": 58.43,
+        "end": 58.92,
+        "confidence": 0.9930287896080303,
+        "text": "lost"
+    },
+    {
+        "start": 59.18,
+        "end": 59.72,
+        "confidence": 1.0,
+        "text": "trillions"
+    },
+    {
+        "start": 59.72,
+        "end": 59.85,
+        "confidence": 0.5960899606557006,
+        "text": "and"
+    },
+    {
+        "start": 59.85,
+        "end": 60.32,
+        "confidence": 1.0,
+        "text": "savings"
+    },
+    {
+        "start": 60.32,
+        "end": 60.83,
+        "confidence": 0.19084482181547444,
+        "text": "erased"
+    },
+    {
+        "start": 61.17,
+        "end": 61.64,
+        "confidence": 0.999999999999984,
+        "text": "countless"
+    },
+    {
+        "start": 61.64,
+        "end": 62.02,
+        "confidence": 0.9999999999999837,
+        "text": "dreams"
+    },
+    {
+        "start": 62.02,
+        "end": 62.53,
+        "confidence": 0.7531993881651092,
+        "text": "diminished"
+    },
+    {
+        "start": 62.53,
+        "end": 62.66,
+        "confidence": 0.9999999999999906,
+        "text": "or"
+    },
+    {
+        "start": 62.66,
+        "end": 63.1,
+        "confidence": 0.9925818793173327,
+        "text": "denied"
+    },
+    {
+        "start": 63.74,
+        "end": 63.88,
+        "confidence": 1.0,
+        "text": "I"
+    },
+    {
+        "start": 63.88,
+        "end": 64.16,
+        "confidence": 1.0,
+        "text": "believe"
+    },
+    {
+        "start": 64.16,
+        "end": 64.27,
+        "confidence": 1.0,
+        "text": "we"
+    },
+    {
+        "start": 64.27,
+        "end": 64.41,
+        "confidence": 1.0,
+        "text": "have"
+    },
+    {
+        "start": 64.41,
+        "end": 64.52,
+        "confidence": 1.0,
+        "text": "to"
+    },
+    {
+        "start": 64.52,
+        "end": 64.7,
+        "confidence": 1.0,
+        "text": "do"
+    },
+    {
+        "start": 64.75,
+        "end": 65.2,
+        "confidence": 1.0,
+        "text": "everything"
+    },
+    {
+        "start": 65.2,
+        "end": 65.32,
+        "confidence": 1.0,
+        "text": "we"
+    },
+    {
+        "start": 65.32,
+        "end": 65.62,
+        "confidence": 1.0,
+        "text": "can"
+    },
+    {
+        "start": 65.62,
+        "end": 65.73,
+        "confidence": 1.0,
+        "text": "to"
+    },
+    {
+        "start": 65.73,
+        "end": 66.26,
+        "confidence": 0.7325619733488204,
+        "text": "ensure"
+    },
+    {
+        "start": 66.46,
+        "end": 66.61,
+        "confidence": 0.9999999999999912,
+        "text": "that"
+    },
+    {
+        "start": 66.61,
+        "end": 66.76,
+        "confidence": 0.9999999999999912,
+        "text": "no"
+    },
+    {
+        "start": 66.76,
+        "end": 67.21,
+        "confidence": 1.0,
+        "text": "crisis"
+    },
+    {
+        "start": 67.21,
+        "end": 67.44,
+        "confidence": 1.0,
+        "text": "like"
+    },
+    {
+        "start": 67.44,
+        "end": 67.74,
+        "confidence": 1.0,
+        "text": "this"
+    },
+    {
+        "start": 67.88,
+        "end": 68.1,
+        "confidence": 0.806880236355772,
+        "text": "ever"
+    },
+    {
+        "start": 68.1,
+        "end": 68.45,
+        "confidence": 0.9999999999999875,
+        "text": "happens"
+    },
+    {
+        "start": 68.45,
+        "end": 68.72,
+        "confidence": 0.9544465579130178,
+        "text": "again"
+    },
+    {
+        "start": 69.34,
+        "end": 69.48,
+        "confidence": 0.9999999999999344,
+        "text": "and"
+    },
+    {
+        "start": 69.48,
+        "end": 69.65,
+        "confidence": 0.9999999999999346,
+        "text": "that's"
+    },
+    {
+        "start": 69.65,
+        "end": 69.82,
+        "confidence": 0.97245113565498,
+        "text": "why"
+    },
+    {
+        "start": 69.82,
+        "end": 69.89,
+        "confidence": 0.8438897687117171,
+        "text": "I'm"
+    },
+    {
+        "start": 69.89,
+        "end": 70.2,
+        "confidence": 0.9999999999999546,
+        "text": "fighting"
+    },
+    {
+        "start": 70.2,
+        "end": 70.45,
+        "confidence": 0.999999999999965,
+        "text": "so"
+    },
+    {
+        "start": 70.45,
+        "end": 70.73,
+        "confidence": 0.999999999999965,
+        "text": "hard"
+    },
+    {
+        "start": 70.73,
+        "end": 70.79,
+        "confidence": 0.9999999999999672,
+        "text": "to"
+    },
+    {
+        "start": 70.79,
+        "end": 71.18,
+        "confidence": 0.999999999999967,
+        "text": "pass"
+    },
+    {
+        "start": 71.18,
+        "end": 71.26,
+        "confidence": 1.0,
+        "text": "a"
+    },
+    {
+        "start": 71.26,
+        "end": 71.58,
+        "confidence": 0.9999999999999672,
+        "text": "set"
+    },
+    {
+        "start": 71.58,
+        "end": 71.69,
+        "confidence": 0.9999999999999674,
+        "text": "of"
+    },
+    {
+        "start": 71.69,
+        "end": 71.93,
+        "confidence": 0.6553266899479644,
+        "text": "Wall"
+    },
+    {
+        "start": 71.93,
+        "end": 72.27,
+        "confidence": 0.6553266899479646,
+        "text": "Street"
+    },
+    {
+        "start": 72.27,
+        "end": 72.87,
+        "confidence": 0.999999999999966,
+        "text": "reforms"
+    },
+    {
+        "start": 73.11,
+        "end": 73.39,
+        "confidence": 0.9999999999999599,
+        "text": "and"
+    },
+    {
+        "start": 73.39,
+        "end": 73.82,
+        "confidence": 0.99999999999996,
+        "text": "consumer"
+    },
+    {
+        "start": 73.82,
+        "end": 74.48,
+        "confidence": 0.998152541505544,
+        "text": "protections"
+    },
+    {
+        "start": 75.17,
+        "end": 75.21,
+        "confidence": 0.5424976046579716,
+        "text": "a"
+    },
+    {
+        "start": 75.21,
+        "end": 75.51,
+        "confidence": 0.8048249820880531,
+        "text": "plan"
+    },
+    {
+        "start": 75.51,
+        "end": 75.64,
+        "confidence": 0.9567694681414236,
+        "text": "for"
+    },
+    {
+        "start": 75.64,
+        "end": 76.06,
+        "confidence": 1.0,
+        "text": "reform"
+    },
+    {
+        "start": 76.06,
+        "end": 76.15,
+        "confidence": 0.8211905386173619,
+        "text": "is"
+    },
+    {
+        "start": 76.15,
+        "end": 76.53,
+        "confidence": 1.0,
+        "text": "currently"
+    },
+    {
+        "start": 76.53,
+        "end": 76.82,
+        "confidence": 1.0,
+        "text": "moving"
+    },
+    {
+        "start": 76.82,
+        "end": 76.99,
+        "confidence": 1.0,
+        "text": "through"
+    },
+    {
+        "start": 76.99,
+        "end": 77.55,
+        "confidence": 0.9973907411230314,
+        "text": "Congress"
+    },
+    {
+        "start": 77.96,
+        "end": 78.15,
+        "confidence": 0.7407626945241151,
+        "text": "here's"
+    },
+    {
+        "start": 78.15,
+        "end": 78.3,
+        "confidence": 1.0,
+        "text": "what"
+    },
+    {
+        "start": 78.3,
+        "end": 78.42,
+        "confidence": 1.0,
+        "text": "this"
+    },
+    {
+        "start": 78.42,
+        "end": 78.68,
+        "confidence": 1.0,
+        "text": "plan"
+    },
+    {
+        "start": 78.68,
+        "end": 78.84,
+        "confidence": 0.8580490551529836,
+        "text": "would"
+    },
+    {
+        "start": 78.84,
+        "end": 79.03,
+        "confidence": 0.9941207376061275,
+        "text": "do"
+    },
+    {
+        "start": 79.76,
+        "end": 80.27,
+        "confidence": 1.0,
+        "text": "first"
+    },
+    {
+        "start": 80.3,
+        "end": 80.42,
+        "confidence": 1.0,
+        "text": "it"
+    },
+    {
+        "start": 80.42,
+        "end": 80.55,
+        "confidence": 1.0,
+        "text": "would"
+    },
+    {
+        "start": 80.55,
+        "end": 80.95,
+        "confidence": 1.0,
+        "text": "enact"
+    },
+    {
+        "start": 80.95,
+        "end": 81.03,
+        "confidence": 1.0,
+        "text": "the"
+    },
+    {
+        "start": 81.03,
+        "end": 81.63,
+        "confidence": 1.0,
+        "text": "strongest"
+    },
+    {
+        "start": 81.63,
+        "end": 82.05,
+        "confidence": 1.0,
+        "text": "consumer"
+    },
+    {
+        "start": 82.05,
+        "end": 82.52,
+        "confidence": 1.0,
+        "text": "financial"
+    },
+    {
+        "start": 82.52,
+        "end": 83.17,
+        "confidence": 0.8632596509025997,
+        "text": "protections"
+    },
+    {
+        "start": 83.24,
+        "end": 83.55,
+        "confidence": 0.9495602052624721,
+        "text": "ever"
+    },
+    {
+        "start": 84.16,
+        "end": 84.26,
+        "confidence": 0.14171237146956459,
+        "text": "it"
+    },
+    {
+        "start": 84.26,
+        "end": 84.38,
+        "confidence": 1.0,
+        "text": "would"
+    },
+    {
+        "start": 84.38,
+        "end": 84.56,
+        "confidence": 1.0,
+        "text": "put"
+    },
+    {
+        "start": 84.56,
+        "end": 85.08,
+        "confidence": 1.0,
+        "text": "consumers"
+    },
+    {
+        "start": 85.08,
+        "end": 85.41,
+        "confidence": 1.0,
+        "text": "back"
+    },
+    {
+        "start": 85.41,
+        "end": 85.48,
+        "confidence": 1.0,
+        "text": "in"
+    },
+    {
+        "start": 85.48,
+        "end": 85.56,
+        "confidence": 1.0,
+        "text": "the"
+    },
+    {
+        "start": 85.56,
+        "end": 85.95,
+        "confidence": 0.8353853574947698,
+        "text": "driver's"
+    },
+    {
+        "start": 85.95,
+        "end": 86.16,
+        "confidence": 1.0,
+        "text": "seat"
+    },
+    {
+        "start": 86.29,
+        "end": 86.43,
+        "confidence": 1.0,
+        "text": "by"
+    },
+    {
+        "start": 86.43,
+        "end": 86.81,
+        "confidence": 0.7879516041773161,
+        "text": "forcing"
+    },
+    {
+        "start": 86.81,
+        "end": 87.03,
+        "confidence": 0.9614457462140898,
+        "text": "big"
+    },
+    {
+        "start": 87.03,
+        "end": 87.51,
+        "confidence": 1.0,
+        "text": "banks"
+    },
+    {
+        "start": 87.71,
+        "end": 87.96,
+        "confidence": 1.0,
+        "text": "and"
+    },
+    {
+        "start": 87.96,
+        "end": 88.23,
+        "confidence": 1.0,
+        "text": "credit"
+    },
+    {
+        "start": 88.23,
+        "end": 88.45,
+        "confidence": 1.0,
+        "text": "card"
+    },
+    {
+        "start": 88.45,
+        "end": 88.88,
+        "confidence": 1.0,
+        "text": "companies"
+    },
+    {
+        "start": 88.88,
+        "end": 88.99,
+        "confidence": 1.0,
+        "text": "to"
+    },
+    {
+        "start": 88.99,
+        "end": 89.35,
+        "confidence": 0.9845855666740264,
+        "text": "provide"
+    },
+    {
+        "start": 89.35,
+        "end": 89.82,
+        "confidence": 1.0,
+        "text": "clear"
+    },
+    {
+        "start": 90.14,
+        "end": 90.84,
+        "confidence": 1.0,
+        "text": "understandable"
+    },
+    {
+        "start": 90.84,
+        "end": 91.5,
+        "confidence": 0.9951377595947131,
+        "text": "information"
+    },
+    {
+        "start": 91.82,
+        "end": 91.94,
+        "confidence": 0.6258778815017759,
+        "text": "that"
+    },
+    {
+        "start": 91.94,
+        "end": 92.5,
+        "confidence": 0.9999999999999922,
+        "text": "Americans"
+    },
+    {
+        "start": 92.5,
+        "end": 92.65,
+        "confidence": 0.9999999999999857,
+        "text": "can"
+    },
+    {
+        "start": 92.65,
+        "end": 92.87,
+        "confidence": 0.9999999999999851,
+        "text": "make"
+    },
+    {
+        "start": 92.87,
+        "end": 93.33,
+        "confidence": 1.0,
+        "text": "financial"
+    },
+    {
+        "start": 93.33,
+        "end": 93.9,
+        "confidence": 1.0,
+        "text": "decisions"
+    },
+    {
+        "start": 94.11,
+        "end": 94.29,
+        "confidence": 1.0,
+        "text": "that"
+    },
+    {
+        "start": 94.29,
+        "end": 94.57,
+        "confidence": 0.7283090070358995,
+        "text": "work"
+    },
+    {
+        "start": 94.57,
+        "end": 94.95,
+        "confidence": 0.9869259728531987,
+        "text": "best"
+    },
+    {
+        "start": 94.95,
+        "end": 95.1,
+        "confidence": 1.0,
+        "text": "for"
+    },
+    {
+        "start": 95.1,
+        "end": 95.39,
+        "confidence": 0.9891233530883546,
+        "text": "them"
+    },
+    {
+        "start": 96.43,
+        "end": 96.97,
+        "confidence": 1.0,
+        "text": "next"
+    },
+    {
+        "start": 97.15,
+        "end": 97.39,
+        "confidence": 0.9999999999999997,
+        "text": "these"
+    },
+    {
+        "start": 97.39,
+        "end": 97.94,
+        "confidence": 1.0,
+        "text": "reforms"
+    },
+    {
+        "start": 97.94,
+        "end": 98.11,
+        "confidence": 0.7174464217774039,
+        "text": "would"
+    },
+    {
+        "start": 98.11,
+        "end": 98.4,
+        "confidence": 0.9787471434418996,
+        "text": "bring"
+    },
+    {
+        "start": 98.4,
+        "end": 98.58,
+        "confidence": 0.9999999999999944,
+        "text": "new"
+    },
+    {
+        "start": 98.58,
+        "end": 99.36,
+        "confidence": 0.9999999999999998,
+        "text": "transparency"
+    },
+    {
+        "start": 99.36,
+        "end": 99.45,
+        "confidence": 1.0,
+        "text": "to"
+    },
+    {
+        "start": 99.45,
+        "end": 99.94,
+        "confidence": 0.9999999999999918,
+        "text": "financial"
+    },
+    {
+        "start": 99.94,
+        "end": 100.42,
+        "confidence": 0.9972714320782722,
+        "text": "dealings"
+    },
+    {
+        "start": 101.05,
+        "end": 101.26,
+        "confidence": 0.9999999999998691,
+        "text": "part"
+    },
+    {
+        "start": 101.26,
+        "end": 101.32,
+        "confidence": 0.9999999999998691,
+        "text": "of"
+    },
+    {
+        "start": 101.32,
+        "end": 101.47,
+        "confidence": 0.9999999999999271,
+        "text": "what"
+    },
+    {
+        "start": 101.47,
+        "end": 101.76,
+        "confidence": 0.9999999999998891,
+        "text": "led"
+    },
+    {
+        "start": 101.76,
+        "end": 101.86,
+        "confidence": 0.9999999999999345,
+        "text": "to"
+    },
+    {
+        "start": 101.86,
+        "end": 102.0,
+        "confidence": 0.9999999999999344,
+        "text": "this"
+    },
+    {
+        "start": 102.0,
+        "end": 102.43,
+        "confidence": 0.9999999999999347,
+        "text": "crisis"
+    },
+    {
+        "start": 102.43,
+        "end": 102.59,
+        "confidence": 0.9999999999999283,
+        "text": "was"
+    },
+    {
+        "start": 102.59,
+        "end": 102.96,
+        "confidence": 0.6602930186464722,
+        "text": "firms"
+    },
+    {
+        "start": 102.96,
+        "end": 103.21,
+        "confidence": 0.9999999999999466,
+        "text": "like"
+    },
+    {
+        "start": 103.31,
+        "end": 103.47,
+        "confidence": 0.6353227739559089,
+        "text": "a"
+    },
+    {
+        "start": 103.47,
+        "end": 103.95,
+        "confidence": 0.5542834827667726,
+        "text": "IG"
+    },
+    {
+        "start": 103.95,
+        "end": 104.08,
+        "confidence": 0.5481208484961221,
+        "text": "and"
+    },
+    {
+        "start": 104.08,
+        "end": 104.49,
+        "confidence": 0.863905129635494,
+        "text": "others"
+    },
+    {
+        "start": 104.74,
+        "end": 105.06,
+        "confidence": 0.989002536761104,
+        "text": "making"
+    },
+    {
+        "start": 105.06,
+        "end": 105.51,
+        "confidence": 0.9960897908483745,
+        "text": "huge"
+    },
+    {
+        "start": 105.51,
+        "end": 105.63,
+        "confidence": 0.614497178742819,
+        "text": "and"
+    },
+    {
+        "start": 105.63,
+        "end": 105.92,
+        "confidence": 0.9999999999999611,
+        "text": "risky"
+    },
+    {
+        "start": 105.92,
+        "end": 106.36,
+        "confidence": 1.0,
+        "text": "bets"
+    },
+    {
+        "start": 106.54,
+        "end": 106.83,
+        "confidence": 1.0,
+        "text": "using"
+    },
+    {
+        "start": 106.83,
+        "end": 107.08,
+        "confidence": 1.0,
+        "text": "things"
+    },
+    {
+        "start": 107.08,
+        "end": 107.36,
+        "confidence": 0.9280567779927192,
+        "text": "like"
+    },
+    {
+        "start": 107.36,
+        "end": 108.05,
+        "confidence": 0.9888449080886302,
+        "text": "derivatives"
+    },
+    {
+        "start": 108.38,
+        "end": 108.75,
+        "confidence": 1.0,
+        "text": "without"
+    },
+    {
+        "start": 108.78,
+        "end": 109.55,
+        "confidence": 0.9923488255178942,
+        "text": "accountability"
+    },
+    {
+        "start": 110.29,
+        "end": 110.56,
+        "confidence": 1.0,
+        "text": "Warren"
+    },
+    {
+        "start": 110.56,
+        "end": 110.82,
+        "confidence": 1.0,
+        "text": "Buffett"
+    },
+    {
+        "start": 110.82,
+        "end": 111.28,
+        "confidence": 0.9874732911418193,
+        "text": "himself"
+    },
+    {
+        "start": 111.28,
+        "end": 111.51,
+        "confidence": 0.8532328897304164,
+        "text": "once"
+    },
+    {
+        "start": 111.51,
+        "end": 111.99,
+        "confidence": 1.0,
+        "text": "described"
+    },
+    {
+        "start": 111.99,
+        "end": 112.51,
+        "confidence": 1.0,
+        "text": "derivatives"
+    },
+    {
+        "start": 112.51,
+        "end": 112.82,
+        "confidence": 0.9999999999999785,
+        "text": "bought"
+    },
+    {
+        "start": 112.82,
+        "end": 112.94,
+        "confidence": 1.0,
+        "text": "and"
+    },
+    {
+        "start": 112.94,
+        "end": 113.38,
+        "confidence": 0.9878119274752604,
+        "text": "sold"
+    },
+    {
+        "start": 113.38,
+        "end": 113.51,
+        "confidence": 0.5339438392135007,
+        "text": "with"
+    },
+    {
+        "start": 113.51,
+        "end": 113.74,
+        "confidence": 0.9919898806574355,
+        "text": "little"
+    },
+    {
+        "start": 113.74,
+        "end": 114.28,
+        "confidence": 0.9970297140914086,
+        "text": "oversight"
+    },
+    {
+        "start": 114.28,
+        "end": 114.5,
+        "confidence": 0.4950867787908119,
+        "text": "as"
+    },
+    {
+        "start": 114.69,
+        "end": 115.35,
+        "confidence": 1.0,
+        "text": "financial"
+    },
+    {
+        "start": 115.35,
+        "end": 115.77,
+        "confidence": 1.0,
+        "text": "weapons"
+    },
+    {
+        "start": 115.77,
+        "end": 115.87,
+        "confidence": 1.0,
+        "text": "of"
+    },
+    {
+        "start": 115.87,
+        "end": 116.16,
+        "confidence": 1.0,
+        "text": "mass"
+    },
+    {
+        "start": 116.16,
+        "end": 116.73,
+        "confidence": 1.0,
+        "text": "destruction"
+    },
+    {
+        "start": 117.48,
+        "end": 117.71,
+        "confidence": 1.0,
+        "text": "that's"
+    },
+    {
+        "start": 117.71,
+        "end": 118.15,
+        "confidence": 0.8761505079637314,
+        "text": "why"
+    },
+    {
+        "start": 118.41,
+        "end": 118.66,
+        "confidence": 0.4452086805805838,
+        "text": "through"
+    },
+    {
+        "start": 118.66,
+        "end": 119.24,
+        "confidence": 0.4319950226567613,
+        "text": "form"
+    },
+    {
+        "start": 119.42,
+        "end": 119.7,
+        "confidence": 0.7676586276321183,
+        "text": "we'd"
+    },
+    {
+        "start": 119.7,
+        "end": 120.0,
+        "confidence": 0.8120433172033441,
+        "text": "help"
+    },
+    {
+        "start": 120.0,
+        "end": 120.43,
+        "confidence": 0.6763517872479299,
+        "text": "ensure"
+    },
+    {
+        "start": 120.43,
+        "end": 120.6,
+        "confidence": 0.4949388218771026,
+        "text": "that"
+    },
+    {
+        "start": 120.6,
+        "end": 120.79,
+        "confidence": 0.49493882187710325,
+        "text": "these"
+    },
+    {
+        "start": 120.79,
+        "end": 121.01,
+        "confidence": 0.9805689995350417,
+        "text": "kind"
+    },
+    {
+        "start": 121.01,
+        "end": 121.1,
+        "confidence": 1.0,
+        "text": "of"
+    },
+    {
+        "start": 121.1,
+        "end": 121.7,
+        "confidence": 1.0,
+        "text": "complicated"
+    },
+    {
+        "start": 121.7,
+        "end": 122.16,
+        "confidence": 1.0,
+        "text": "financial"
+    },
+    {
+        "start": 122.16,
+        "end": 122.89,
+        "confidence": 0.9962749228230089,
+        "text": "transactions"
+    },
+    {
+        "start": 123.06,
+        "end": 123.33,
+        "confidence": 0.8122033320412406,
+        "text": "take"
+    },
+    {
+        "start": 123.33,
+        "end": 123.76,
+        "confidence": 1.0,
+        "text": "place"
+    },
+    {
+        "start": 123.92,
+        "end": 124.1,
+        "confidence": 1.0,
+        "text": "on"
+    },
+    {
+        "start": 124.1,
+        "end": 124.2,
+        "confidence": 1.0,
+        "text": "an"
+    },
+    {
+        "start": 124.2,
+        "end": 124.49,
+        "confidence": 1.0,
+        "text": "open"
+    },
+    {
+        "start": 124.49,
+        "end": 124.84,
+        "confidence": 1.0,
+        "text": "market"
+    },
+    {
+        "start": 125.5,
+        "end": 125.77,
+        "confidence": 1.0,
+        "text": "because"
+    },
+    {
+        "start": 125.77,
+        "end": 126.4,
+        "confidence": 1.0,
+        "text": "ultimately"
+    },
+    {
+        "start": 126.56,
+        "end": 126.71,
+        "confidence": 0.8577001930796672,
+        "text": "it"
+    },
+    {
+        "start": 126.71,
+        "end": 126.83,
+        "confidence": 0.7627035211341296,
+        "text": "is"
+    },
+    {
+        "start": 126.83,
+        "end": 126.89,
+        "confidence": 1.0,
+        "text": "a"
+    },
+    {
+        "start": 126.89,
+        "end": 127.62,
+        "confidence": 0.6922457734657537,
+        "text": "marketplace"
+    },
+    {
+        "start": 127.62,
+        "end": 127.75,
+        "confidence": 0.9999999999999593,
+        "text": "that"
+    },
+    {
+        "start": 127.75,
+        "end": 127.88,
+        "confidence": 0.9999999999999579,
+        "text": "is"
+    },
+    {
+        "start": 127.88,
+        "end": 128.28,
+        "confidence": 0.9932409931215446,
+        "text": "open"
+    },
+    {
+        "start": 128.46,
+        "end": 128.88,
+        "confidence": 0.9999999999999619,
+        "text": "free"
+    },
+    {
+        "start": 128.88,
+        "end": 129.1,
+        "confidence": 0.9999999999999631,
+        "text": "and"
+    },
+    {
+        "start": 129.1,
+        "end": 129.53,
+        "confidence": 0.993070153060303,
+        "text": "fair"
+    },
+    {
+        "start": 129.73,
+        "end": 129.84,
+        "confidence": 0.376225685424676,
+        "text": "that"
+    },
+    {
+        "start": 129.84,
+        "end": 129.97,
+        "confidence": 0.9999999999999395,
+        "text": "will"
+    },
+    {
+        "start": 129.97,
+        "end": 130.3,
+        "confidence": 0.9999999999999369,
+        "text": "allow"
+    },
+    {
+        "start": 130.3,
+        "end": 130.48,
+        "confidence": 0.9999999999999655,
+        "text": "our"
+    },
+    {
+        "start": 130.48,
+        "end": 130.89,
+        "confidence": 0.9999999999999508,
+        "text": "economy"
+    },
+    {
+        "start": 130.89,
+        "end": 130.97,
+        "confidence": 0.9999999999999672,
+        "text": "to"
+    },
+    {
+        "start": 130.97,
+        "end": 131.49,
+        "confidence": 0.997673673091181,
+        "text": "flourish"
+    },
+    {
+        "start": 132.37,
+        "end": 132.51,
+        "confidence": 0.5405748578203762,
+        "text": "we"
+    },
+    {
+        "start": 132.51,
+        "end": 132.83,
+        "confidence": 0.9321735927162478,
+        "text": "also"
+    },
+    {
+        "start": 132.83,
+        "end": 133.38,
+        "confidence": 0.8754348354443948,
+        "text": "close"
+    },
+    {
+        "start": 133.41,
+        "end": 133.9,
+        "confidence": 0.6978583401217889,
+        "text": "loopholes"
+    },
+    {
+        "start": 133.9,
+        "end": 134.02,
+        "confidence": 1.0,
+        "text": "to"
+    },
+    {
+        "start": 134.02,
+        "end": 134.32,
+        "confidence": 0.9999999999999958,
+        "text": "stop"
+    },
+    {
+        "start": 134.32,
+        "end": 134.39,
+        "confidence": 0.5934536570486627,
+        "text": "the"
+    },
+    {
+        "start": 134.39,
+        "end": 134.58,
+        "confidence": 0.9879050755501723,
+        "text": "kind"
+    },
+    {
+        "start": 134.58,
+        "end": 134.65,
+        "confidence": 1.0,
+        "text": "of"
+    },
+    {
+        "start": 134.65,
+        "end": 135.36,
+        "confidence": 0.9992996443807554,
+        "text": "recklessness"
+    },
+    {
+        "start": 135.36,
+        "end": 135.54,
+        "confidence": 0.9502747510332612,
+        "text": "and"
+    },
+    {
+        "start": 135.58,
+        "end": 136.41,
+        "confidence": 0.7301723380279385,
+        "text": "irresponsibility"
+    },
+    {
+        "start": 136.41,
+        "end": 136.56,
+        "confidence": 0.5756205993616337,
+        "text": "but"
+    },
+    {
+        "start": 136.56,
+        "end": 136.72,
+        "confidence": 0.8759217633254595,
+        "text": "we've"
+    },
+    {
+        "start": 136.72,
+        "end": 137.01,
+        "confidence": 0.8526809476056265,
+        "text": "seen"
+    },
+    {
+        "start": 137.72,
+        "end": 137.81,
+        "confidence": 0.4646983241125207,
+        "text": "it's"
+    },
+    {
+        "start": 137.81,
+        "end": 138.05,
+        "confidence": 1.0,
+        "text": "these"
+    },
+    {
+        "start": 138.05,
+        "end": 138.55,
+        "confidence": 0.8255582160108829,
+        "text": "loopholes"
+    },
+    {
+        "start": 138.55,
+        "end": 138.69,
+        "confidence": 1.0,
+        "text": "that"
+    },
+    {
+        "start": 138.69,
+        "end": 138.97,
+        "confidence": 1.0,
+        "text": "allowed"
+    },
+    {
+        "start": 138.97,
+        "end": 139.47,
+        "confidence": 1.0,
+        "text": "executives"
+    },
+    {
+        "start": 139.47,
+        "end": 139.59,
+        "confidence": 1.0,
+        "text": "to"
+    },
+    {
+        "start": 139.59,
+        "end": 139.82,
+        "confidence": 1.0,
+        "text": "take"
+    },
+    {
+        "start": 139.82,
+        "end": 140.3,
+        "confidence": 1.0,
+        "text": "risks"
+    },
+    {
+        "start": 140.5,
+        "end": 140.63,
+        "confidence": 0.23712206297171468,
+        "text": "that"
+    },
+    {
+        "start": 140.63,
+        "end": 140.83,
+        "confidence": 0.9911277778473451,
+        "text": "not"
+    },
+    {
+        "start": 140.83,
+        "end": 141.04,
+        "confidence": 1.0,
+        "text": "only"
+    },
+    {
+        "start": 141.04,
+        "end": 141.49,
+        "confidence": 0.5828171227515081,
+        "text": "endangered"
+    },
+    {
+        "start": 141.49,
+        "end": 141.61,
+        "confidence": 0.9164336863832504,
+        "text": "their"
+    },
+    {
+        "start": 141.61,
+        "end": 142.25,
+        "confidence": 0.9909105908276221,
+        "text": "companies"
+    },
+    {
+        "start": 142.46,
+        "end": 142.59,
+        "confidence": 0.9999999999999981,
+        "text": "but"
+    },
+    {
+        "start": 142.59,
+        "end": 143.0,
+        "confidence": 1.0,
+        "text": "also"
+    },
+    {
+        "start": 143.0,
+        "end": 143.22,
+        "confidence": 0.9194205516428571,
+        "text": "our"
+    },
+    {
+        "start": 143.22,
+        "end": 143.57,
+        "confidence": 1.0,
+        "text": "entire"
+    },
+    {
+        "start": 143.57,
+        "end": 144.11,
+        "confidence": 0.9954484796029086,
+        "text": "economy"
+    },
+    {
+        "start": 144.7,
+        "end": 144.83,
+        "confidence": 0.5586377442138682,
+        "text": "and"
+    },
+    {
+        "start": 144.83,
+        "end": 144.92,
+        "confidence": 1.0,
+        "text": "we're"
+    },
+    {
+        "start": 144.92,
+        "end": 145.04,
+        "confidence": 0.6283173783333025,
+        "text": "going"
+    },
+    {
+        "start": 145.04,
+        "end": 145.1,
+        "confidence": 0.6283173783332842,
+        "text": "to"
+    },
+    {
+        "start": 145.1,
+        "end": 145.27,
+        "confidence": 1.0,
+        "text": "put"
+    },
+    {
+        "start": 145.27,
+        "end": 145.34,
+        "confidence": 1.0,
+        "text": "in"
+    },
+    {
+        "start": 145.34,
+        "end": 145.76,
+        "confidence": 1.0,
+        "text": "place"
+    },
+    {
+        "start": 145.76,
+        "end": 145.96,
+        "confidence": 0.9894122192959702,
+        "text": "new"
+    },
+    {
+        "start": 145.96,
+        "end": 146.34,
+        "confidence": 0.7609720966587643,
+        "text": "rules"
+    },
+    {
+        "start": 146.34,
+        "end": 146.48,
+        "confidence": 0.5380369127833199,
+        "text": "so"
+    },
+    {
+        "start": 146.48,
+        "end": 146.68,
+        "confidence": 0.9855065171555519,
+        "text": "that"
+    },
+    {
+        "start": 146.93,
+        "end": 147.18,
+        "confidence": 1.0,
+        "text": "big"
+    },
+    {
+        "start": 147.18,
+        "end": 147.53,
+        "confidence": 1.0,
+        "text": "banks"
+    },
+    {
+        "start": 147.53,
+        "end": 147.64,
+        "confidence": 1.0,
+        "text": "and"
+    },
+    {
+        "start": 147.64,
+        "end": 148.1,
+        "confidence": 1.0,
+        "text": "financial"
+    },
+    {
+        "start": 148.1,
+        "end": 148.69,
+        "confidence": 1.0,
+        "text": "institutions"
+    },
+    {
+        "start": 148.69,
+        "end": 148.84,
+        "confidence": 1.0,
+        "text": "will"
+    },
+    {
+        "start": 148.84,
+        "end": 149.17,
+        "confidence": 1.0,
+        "text": "pay"
+    },
+    {
+        "start": 149.17,
+        "end": 149.33,
+        "confidence": 1.0,
+        "text": "for"
+    },
+    {
+        "start": 149.33,
+        "end": 149.41,
+        "confidence": 1.0,
+        "text": "the"
+    },
+    {
+        "start": 149.41,
+        "end": 149.68,
+        "confidence": 0.9999999999999674,
+        "text": "bad"
+    },
+    {
+        "start": 149.68,
+        "end": 150.12,
+        "confidence": 0.9999999999999347,
+        "text": "decisions"
+    },
+    {
+        "start": 150.12,
+        "end": 150.24,
+        "confidence": 0.9999999999999022,
+        "text": "they"
+    },
+    {
+        "start": 150.24,
+        "end": 150.64,
+        "confidence": 0.9852471763558188,
+        "text": "make"
+    },
+    {
+        "start": 150.96,
+        "end": 151.2,
+        "confidence": 0.9999999999999171,
+        "text": "not"
+    },
+    {
+        "start": 151.2,
+        "end": 151.9,
+        "confidence": 0.9980700564755255,
+        "text": "taxpayers"
+    },
+    {
+        "start": 152.6,
+        "end": 152.96,
+        "confidence": 1.0,
+        "text": "simply"
+    },
+    {
+        "start": 152.96,
+        "end": 153.25,
+        "confidence": 1.0,
+        "text": "put"
+    },
+    {
+        "start": 153.25,
+        "end": 153.41,
+        "confidence": 1.0,
+        "text": "this"
+    },
+    {
+        "start": 153.41,
+        "end": 153.76,
+        "confidence": 1.0,
+        "text": "means"
+    },
+    {
+        "start": 153.81,
+        "end": 154.09,
+        "confidence": 1.0,
+        "text": "no"
+    },
+    {
+        "start": 154.09,
+        "end": 154.49,
+        "confidence": 0.9832411423806906,
+        "text": "more"
+    },
+    {
+        "start": 154.52,
+        "end": 155.01,
+        "confidence": 0.9999999999999905,
+        "text": "taxpayer"
+    },
+    {
+        "start": 155.01,
+        "end": 155.6,
+        "confidence": 0.9982431302901518,
+        "text": "bailouts"
+    },
+    {
+        "start": 156.23,
+        "end": 156.5,
+        "confidence": 1.0,
+        "text": "never"
+    },
+    {
+        "start": 156.5,
+        "end": 156.83,
+        "confidence": 1.0,
+        "text": "again"
+    },
+    {
+        "start": 156.83,
+        "end": 157.01,
+        "confidence": 1.0,
+        "text": "will"
+    },
+    {
+        "start": 157.01,
+        "end": 157.62,
+        "confidence": 1.0,
+        "text": "taxpayers"
+    },
+    {
+        "start": 157.62,
+        "end": 157.73,
+        "confidence": 1.0,
+        "text": "be"
+    },
+    {
+        "start": 157.73,
+        "end": 157.86,
+        "confidence": 1.0,
+        "text": "on"
+    },
+    {
+        "start": 157.86,
+        "end": 157.92,
+        "confidence": 1.0,
+        "text": "the"
+    },
+    {
+        "start": 157.92,
+        "end": 158.34,
+        "confidence": 0.9931238134681836,
+        "text": "hook"
+    },
+    {
+        "start": 158.56,
+        "end": 158.85,
+        "confidence": 0.9980498376590511,
+        "text": "because"
+    },
+    {
+        "start": 158.85,
+        "end": 158.9,
+        "confidence": 0.6567890102489753,
+        "text": "a"
+    },
+    {
+        "start": 158.9,
+        "end": 159.41,
+        "confidence": 0.9814744920115163,
+        "text": "financial"
+    },
+    {
+        "start": 159.41,
+        "end": 159.77,
+        "confidence": 0.8025651644667479,
+        "text": "company"
+    },
+    {
+        "start": 159.77,
+        "end": 159.9,
+        "confidence": 0.5109441444224385,
+        "text": "is"
+    },
+    {
+        "start": 159.9,
+        "end": 160.29,
+        "confidence": 1.0,
+        "text": "deemed"
+    },
+    {
+        "start": 160.49,
+        "end": 160.72,
+        "confidence": 1.0,
+        "text": "too"
+    },
+    {
+        "start": 160.72,
+        "end": 160.95,
+        "confidence": 1.0,
+        "text": "big"
+    },
+    {
+        "start": 160.95,
+        "end": 161.07,
+        "confidence": 1.0,
+        "text": "to"
+    },
+    {
+        "start": 161.07,
+        "end": 161.46,
+        "confidence": 0.9924652140545825,
+        "text": "fail"
+    },
+    {
+        "start": 168.49,
+        "end": 168.65,
+        "confidence": 0.14089429059040365,
+        "text": "they'll"
+    },
+    {
+        "start": 168.65,
+        "end": 168.77,
+        "confidence": 0.761525251037423,
+        "text": "get"
+    },
+    {
+        "start": 168.77,
+        "end": 168.81,
+        "confidence": 0.6576549375233924,
+        "text": "a"
+    },
+    {
+        "start": 168.81,
+        "end": 169.05,
+        "confidence": 0.9472611058403774,
+        "text": "say"
+    },
+    {
+        "start": 169.05,
+        "end": 169.22,
+        "confidence": 0.9999999999999956,
+        "text": "on"
+    },
+    {
+        "start": 169.22,
+        "end": 169.56,
+        "confidence": 0.5203184406910086,
+        "text": "pay"
+    },
+    {
+        "start": 170.0,
+        "end": 170.06,
+        "confidence": 0.49789802652927534,
+        "text": "a"
+    },
+    {
+        "start": 170.06,
+        "end": 170.33,
+        "confidence": 0.9999999999999881,
+        "text": "vote"
+    },
+    {
+        "start": 170.33,
+        "end": 170.46,
+        "confidence": 0.9999999999999966,
+        "text": "on"
+    },
+    {
+        "start": 170.46,
+        "end": 170.98,
+        "confidence": 0.9999999999999875,
+        "text": "salaries"
+    },
+    {
+        "start": 170.98,
+        "end": 171.14,
+        "confidence": 1.0,
+        "text": "and"
+    },
+    {
+        "start": 171.14,
+        "end": 171.62,
+        "confidence": 1.0,
+        "text": "bonuses"
+    },
+    {
+        "start": 171.62,
+        "end": 171.99,
+        "confidence": 1.0,
+        "text": "awarded"
+    },
+    {
+        "start": 171.99,
+        "end": 172.11,
+        "confidence": 0.9764973278386576,
+        "text": "to"
+    },
+    {
+        "start": 172.11,
+        "end": 172.38,
+        "confidence": 0.9421623245910533,
+        "text": "top"
+    },
+    {
+        "start": 172.38,
+        "end": 173.01,
+        "confidence": 0.9906030124864121,
+        "text": "executives"
+    },
+    {
+        "start": 173.49,
+        "end": 173.65,
+        "confidence": 0.9999999999999344,
+        "text": "and"
+    },
+    {
+        "start": 173.65,
+        "end": 173.74,
+        "confidence": 0.9999999999999345,
+        "text": "the"
+    },
+    {
+        "start": 173.74,
+        "end": 174.38,
+        "confidence": 0.6641448131363058,
+        "text": "SEC"
+    },
+    {
+        "start": 174.38,
+        "end": 174.57,
+        "confidence": 0.9999999999999263,
+        "text": "will"
+    },
+    {
+        "start": 174.57,
+        "end": 175.02,
+        "confidence": 0.5880275251806023,
+        "text": "ensure"
+    },
+    {
+        "start": 175.02,
+        "end": 175.19,
+        "confidence": 0.9999999999999143,
+        "text": "that"
+    },
+    {
+        "start": 175.19,
+        "end": 175.79,
+        "confidence": 0.8316441593967411,
+        "text": "shareholders"
+    },
+    {
+        "start": 175.79,
+        "end": 175.97,
+        "confidence": 0.9999999999999226,
+        "text": "have"
+    },
+    {
+        "start": 175.97,
+        "end": 176.2,
+        "confidence": 0.9999999999999158,
+        "text": "more"
+    },
+    {
+        "start": 176.2,
+        "end": 176.6,
+        "confidence": 0.9999999999999488,
+        "text": "power"
+    },
+    {
+        "start": 176.6,
+        "end": 176.71,
+        "confidence": 0.5404149280491811,
+        "text": "and"
+    },
+    {
+        "start": 176.71,
+        "end": 177.05,
+        "confidence": 0.9999999999999583,
+        "text": "corporate"
+    },
+    {
+        "start": 177.05,
+        "end": 177.61,
+        "confidence": 0.9954800188674519,
+        "text": "elections"
+    },
+    {
+        "start": 177.9,
+        "end": 178.05,
+        "confidence": 0.9999999999999676,
+        "text": "so"
+    },
+    {
+        "start": 178.05,
+        "end": 178.18,
+        "confidence": 0.9999999999999508,
+        "text": "that"
+    },
+    {
+        "start": 178.18,
+        "end": 178.84,
+        "confidence": 0.9999999999999672,
+        "text": "investors"
+    },
+    {
+        "start": 178.84,
+        "end": 178.97,
+        "confidence": 0.6796998925255575,
+        "text": "and"
+    },
+    {
+        "start": 178.97,
+        "end": 179.32,
+        "confidence": 0.9999999999999655,
+        "text": "pension"
+    },
+    {
+        "start": 179.32,
+        "end": 179.78,
+        "confidence": 0.9963366657918379,
+        "text": "holders"
+    },
+    {
+        "start": 180.22,
+        "end": 180.65,
+        "confidence": 0.9748999260936917,
+        "text": "stronger"
+    },
+    {
+        "start": 180.65,
+        "end": 181.08,
+        "confidence": 0.994244042102039,
+        "text": "voice"
+    },
+    {
+        "start": 181.08,
+        "end": 181.14,
+        "confidence": 0.7524938103909006,
+        "text": "in"
+    },
+    {
+        "start": 181.14,
+        "end": 181.66,
+        "confidence": 0.9904805311688144,
+        "text": "determining"
+    },
+    {
+        "start": 181.66,
+        "end": 181.82,
+        "confidence": 0.9999999999999365,
+        "text": "what"
+    },
+    {
+        "start": 181.82,
+        "end": 182.24,
+        "confidence": 0.9999999999999367,
+        "text": "happens"
+    },
+    {
+        "start": 182.24,
+        "end": 182.42,
+        "confidence": 0.999999999999951,
+        "text": "with"
+    },
+    {
+        "start": 182.42,
+        "end": 182.68,
+        "confidence": 0.9999999999999672,
+        "text": "their"
+    },
+    {
+        "start": 182.68,
+        "end": 182.96,
+        "confidence": 0.7776094480743115,
+        "text": "life"
+    },
+    {
+        "start": 182.96,
+        "end": 183.5,
+        "confidence": 0.9699385148239004,
+        "text": "savings"
+    },
+    {
+        "start": 184.4,
+        "end": 184.69,
+        "confidence": 0.7863869906251738,
+        "text": "now"
+    },
+    {
+        "start": 185.25,
+        "end": 185.39,
+        "confidence": 0.5964027319967549,
+        "text": "I'm"
+    },
+    {
+        "start": 185.39,
+        "end": 186.15,
+        "confidence": 0.7118359317481919,
+        "text": "surprisingly"
+    },
+    {
+        "start": 186.32,
+        "end": 186.53,
+        "confidence": 1.0,
+        "text": "these"
+    },
+    {
+        "start": 186.53,
+        "end": 187.02,
+        "confidence": 1.0,
+        "text": "reforms"
+    },
+    {
+        "start": 187.02,
+        "end": 187.16,
+        "confidence": 0.6460223822878746,
+        "text": "have"
+    },
+    {
+        "start": 187.16,
+        "end": 187.36,
+        "confidence": 1.0,
+        "text": "not"
+    },
+    {
+        "start": 187.36,
+        "end": 187.78,
+        "confidence": 1.0,
+        "text": "exactly"
+    },
+    {
+        "start": 187.78,
+        "end": 187.9,
+        "confidence": 1.0,
+        "text": "been"
+    },
+    {
+        "start": 187.9,
+        "end": 188.38,
+        "confidence": 1.0,
+        "text": "welcomed"
+    },
+    {
+        "start": 188.38,
+        "end": 188.51,
+        "confidence": 1.0,
+        "text": "by"
+    },
+    {
+        "start": 188.51,
+        "end": 188.6,
+        "confidence": 1.0,
+        "text": "the"
+    },
+    {
+        "start": 188.6,
+        "end": 188.87,
+        "confidence": 1.0,
+        "text": "people"
+    },
+    {
+        "start": 188.87,
+        "end": 188.98,
+        "confidence": 1.0,
+        "text": "who"
+    },
+    {
+        "start": 188.98,
+        "end": 189.43,
+        "confidence": 1.0,
+        "text": "profit"
+    },
+    {
+        "start": 189.43,
+        "end": 189.62,
+        "confidence": 1.0,
+        "text": "from"
+    },
+    {
+        "start": 189.62,
+        "end": 189.7,
+        "confidence": 0.9999999999999838,
+        "text": "the"
+    },
+    {
+        "start": 189.7,
+        "end": 190.06,
+        "confidence": 1.0,
+        "text": "status"
+    },
+    {
+        "start": 190.06,
+        "end": 190.49,
+        "confidence": 0.9913023354938184,
+        "text": "quo"
+    },
+    {
+        "start": 190.97,
+        "end": 191.1,
+        "confidence": 1.0,
+        "text": "as"
+    },
+    {
+        "start": 191.1,
+        "end": 191.26,
+        "confidence": 1.0,
+        "text": "well"
+    },
+    {
+        "start": 191.26,
+        "end": 191.36,
+        "confidence": 1.0,
+        "text": "as"
+    },
+    {
+        "start": 191.36,
+        "end": 191.47,
+        "confidence": 1.0,
+        "text": "their"
+    },
+    {
+        "start": 191.47,
+        "end": 191.9,
+        "confidence": 1.0,
+        "text": "allies"
+    },
+    {
+        "start": 191.9,
+        "end": 191.97,
+        "confidence": 0.5753283916400306,
+        "text": "in"
+    },
+    {
+        "start": 191.97,
+        "end": 192.53,
+        "confidence": 0.9808690583736709,
+        "text": "Washington"
+    },
+    {
+        "start": 193.37,
+        "end": 193.43,
+        "confidence": 0.6695554277086974,
+        "text": "it's"
+    },
+    {
+        "start": 193.43,
+        "end": 193.78,
+        "confidence": 0.9846423365427873,
+        "text": "probably"
+    },
+    {
+        "start": 193.78,
+        "end": 193.98,
+        "confidence": 0.9999999999999669,
+        "text": "why"
+    },
+    {
+        "start": 193.98,
+        "end": 194.1,
+        "confidence": 0.999999999999945,
+        "text": "the"
+    },
+    {
+        "start": 194.1,
+        "end": 194.53,
+        "confidence": 0.9999999999999669,
+        "text": "special"
+    },
+    {
+        "start": 194.53,
+        "end": 194.85,
+        "confidence": 0.8678663122950118,
+        "text": "interests"
+    },
+    {
+        "start": 194.85,
+        "end": 194.94,
+        "confidence": 0.2951869479111502,
+        "text": "have"
+    },
+    {
+        "start": 194.94,
+        "end": 195.33,
+        "confidence": 0.9159479200967635,
+        "text": "spent"
+    },
+    {
+        "start": 195.37,
+        "end": 195.47,
+        "confidence": 0.983266310933316,
+        "text": "a"
+    },
+    {
+        "start": 195.47,
+        "end": 195.69,
+        "confidence": 0.9999999999999695,
+        "text": "lot"
+    },
+    {
+        "start": 195.69,
+        "end": 195.76,
+        "confidence": 0.9999999999999715,
+        "text": "of"
+    },
+    {
+        "start": 195.76,
+        "end": 196.16,
+        "confidence": 0.9963721593786868,
+        "text": "time"
+    },
+    {
+        "start": 196.68,
+        "end": 196.78,
+        "confidence": 0.7591845139049372,
+        "text": "and"
+    },
+    {
+        "start": 196.78,
+        "end": 196.82,
+        "confidence": 0.8759510021446889,
+        "text": "a"
+    },
+    {
+        "start": 196.82,
+        "end": 197.03,
+        "confidence": 1.0,
+        "text": "lot"
+    },
+    {
+        "start": 197.03,
+        "end": 197.09,
+        "confidence": 1.0,
+        "text": "of"
+    },
+    {
+        "start": 197.09,
+        "end": 197.4,
+        "confidence": 1.0,
+        "text": "money"
+    },
+    {
+        "start": 197.82,
+        "end": 198.28,
+        "confidence": 0.8095683719234105,
+        "text": "lobbying"
+    },
+    {
+        "start": 198.28,
+        "end": 198.36,
+        "confidence": 1.0,
+        "text": "to"
+    },
+    {
+        "start": 198.36,
+        "end": 198.74,
+        "confidence": 1.0,
+        "text": "kill"
+    },
+    {
+        "start": 198.74,
+        "end": 198.93,
+        "confidence": 1.0,
+        "text": "or"
+    },
+    {
+        "start": 198.93,
+        "end": 199.26,
+        "confidence": 0.48207993617550565,
+        "text": "weaken"
+    },
+    {
+        "start": 199.26,
+        "end": 199.35,
+        "confidence": 0.9145032955857837,
+        "text": "the"
+    },
+    {
+        "start": 199.35,
+        "end": 199.61,
+        "confidence": 0.7406059266265955,
+        "text": "bill"
+    },
+    {
+        "start": 200.48,
+        "end": 200.64,
+        "confidence": 1.0,
+        "text": "just"
+    },
+    {
+        "start": 200.64,
+        "end": 200.7,
+        "confidence": 1.0,
+        "text": "the"
+    },
+    {
+        "start": 200.7,
+        "end": 200.89,
+        "confidence": 1.0,
+        "text": "other"
+    },
+    {
+        "start": 200.89,
+        "end": 201.11,
+        "confidence": 1.0,
+        "text": "day"
+    },
+    {
+        "start": 201.11,
+        "end": 201.2,
+        "confidence": 1.0,
+        "text": "in"
+    },
+    {
+        "start": 201.2,
+        "end": 201.61,
+        "confidence": 0.9914099415280772,
+        "text": "fact"
+    },
+    {
+        "start": 202.05,
+        "end": 202.16,
+        "confidence": 0.9999999999999344,
+        "text": "the"
+    },
+    {
+        "start": 202.16,
+        "end": 202.5,
+        "confidence": 0.9999999999999671,
+        "text": "leader"
+    },
+    {
+        "start": 202.5,
+        "end": 202.59,
+        "confidence": 0.9999999999999345,
+        "text": "of"
+    },
+    {
+        "start": 202.59,
+        "end": 202.68,
+        "confidence": 0.9999999999999345,
+        "text": "the"
+    },
+    {
+        "start": 202.68,
+        "end": 202.94,
+        "confidence": 0.9999999999999348,
+        "text": "Senate"
+    },
+    {
+        "start": 202.94,
+        "end": 203.64,
+        "confidence": 0.9999999999999344,
+        "text": "Republicans"
+    },
+    {
+        "start": 203.73,
+        "end": 203.96,
+        "confidence": 0.9999999999999387,
+        "text": "and"
+    },
+    {
+        "start": 203.96,
+        "end": 204.04,
+        "confidence": 0.9999999999999386,
+        "text": "the"
+    },
+    {
+        "start": 204.04,
+        "end": 204.66,
+        "confidence": 0.9999999999999383,
+        "text": "chair"
+    },
+    {
+        "start": 204.7,
+        "end": 204.84,
+        "confidence": 0.9999999999999344,
+        "text": "of"
+    },
+    {
+        "start": 204.84,
+        "end": 204.93,
+        "confidence": 0.9999999999999345,
+        "text": "the"
+    },
+    {
+        "start": 204.93,
+        "end": 205.52,
+        "confidence": 0.9999999999999507,
+        "text": "Republican"
+    },
+    {
+        "start": 205.52,
+        "end": 205.89,
+        "confidence": 0.9999999999999508,
+        "text": "Senate"
+    },
+    {
+        "start": 205.89,
+        "end": 206.35,
+        "confidence": 0.9999999999999509,
+        "text": "campaign"
+    },
+    {
+        "start": 206.35,
+        "end": 206.62,
+        "confidence": 0.9999999999999533,
+        "text": "committee"
+    },
+    {
+        "start": 206.76,
+        "end": 207.02,
+        "confidence": 0.9999999999999348,
+        "text": "met"
+    },
+    {
+        "start": 207.02,
+        "end": 207.25,
+        "confidence": 0.9506873580985051,
+        "text": "with"
+    },
+    {
+        "start": 207.25,
+        "end": 207.47,
+        "confidence": 0.995179954987571,
+        "text": "two"
+    },
+    {
+        "start": 207.47,
+        "end": 207.99,
+        "confidence": 0.9999999999999862,
+        "text": "dozen"
+    },
+    {
+        "start": 208.2,
+        "end": 208.51,
+        "confidence": 0.9999999999999927,
+        "text": "top"
+    },
+    {
+        "start": 208.51,
+        "end": 208.72,
+        "confidence": 0.8102740837591644,
+        "text": "Wall"
+    },
+    {
+        "start": 208.72,
+        "end": 208.97,
+        "confidence": 0.8102740837591645,
+        "text": "Street"
+    },
+    {
+        "start": 208.97,
+        "end": 209.59,
+        "confidence": 0.9951578711018675,
+        "text": "executives"
+    },
+    {
+        "start": 209.96,
+        "end": 210.03,
+        "confidence": 0.7194314155280387,
+        "text": "to"
+    },
+    {
+        "start": 210.03,
+        "end": 210.31,
+        "confidence": 0.9824295329296798,
+        "text": "talk"
+    },
+    {
+        "start": 210.31,
+        "end": 210.6,
+        "confidence": 0.9999999999999647,
+        "text": "about"
+    },
+    {
+        "start": 210.6,
+        "end": 210.81,
+        "confidence": 0.9999999999999851,
+        "text": "how"
+    },
+    {
+        "start": 210.81,
+        "end": 210.89,
+        "confidence": 1.0,
+        "text": "to"
+    },
+    {
+        "start": 210.89,
+        "end": 211.41,
+        "confidence": 0.9950284192124812,
+        "text": "block"
+    },
+    {
+        "start": 211.41,
+        "end": 211.94,
+        "confidence": 0.9902444452471105,
+        "text": "progress"
+    },
+    {
+        "start": 211.94,
+        "end": 212.05,
+        "confidence": 0.9999999999999823,
+        "text": "on"
+    },
+    {
+        "start": 212.05,
+        "end": 212.22,
+        "confidence": 0.9999999999999946,
+        "text": "this"
+    },
+    {
+        "start": 212.22,
+        "end": 212.48,
+        "confidence": 0.9950996477697037,
+        "text": "issue"
+    },
+    {
+        "start": 213.58,
+        "end": 213.76,
+        "confidence": 1.0,
+        "text": "lo"
+    },
+    {
+        "start": 213.76,
+        "end": 213.87,
+        "confidence": 0.9546471135795541,
+        "text": "and"
+    },
+    {
+        "start": 213.87,
+        "end": 214.34,
+        "confidence": 0.9878121225953378,
+        "text": "behold"
+    },
+    {
+        "start": 214.45,
+        "end": 214.63,
+        "confidence": 0.9999999999999929,
+        "text": "when"
+    },
+    {
+        "start": 214.63,
+        "end": 214.69,
+        "confidence": 0.6375506589653512,
+        "text": "he"
+    },
+    {
+        "start": 214.69,
+        "end": 215.07,
+        "confidence": 0.4783738170618193,
+        "text": "returned"
+    },
+    {
+        "start": 215.07,
+        "end": 215.13,
+        "confidence": 0.7755852624678726,
+        "text": "to"
+    },
+    {
+        "start": 215.13,
+        "end": 215.71,
+        "confidence": 0.997257093891985,
+        "text": "Washington"
+    },
+    {
+        "start": 215.86,
+        "end": 215.99,
+        "confidence": 0.9999999999999828,
+        "text": "the"
+    },
+    {
+        "start": 215.99,
+        "end": 216.24,
+        "confidence": 0.9999999999999721,
+        "text": "Senate"
+    },
+    {
+        "start": 216.24,
+        "end": 216.67,
+        "confidence": 0.9999999999999837,
+        "text": "Republican"
+    },
+    {
+        "start": 216.67,
+        "end": 216.91,
+        "confidence": 0.9999999999999672,
+        "text": "leader"
+    },
+    {
+        "start": 216.91,
+        "end": 217.2,
+        "confidence": 0.9999999999999674,
+        "text": "came"
+    },
+    {
+        "start": 217.2,
+        "end": 217.41,
+        "confidence": 0.9999999999999674,
+        "text": "out"
+    },
+    {
+        "start": 217.48,
+        "end": 218.1,
+        "confidence": 0.9961767586397995,
+        "text": "against"
+    },
+    {
+        "start": 218.33,
+        "end": 218.62,
+        "confidence": 0.9999999999999674,
+        "text": "common"
+    },
+    {
+        "start": 218.62,
+        "end": 218.88,
+        "confidence": 0.9999999999999674,
+        "text": "sense"
+    },
+    {
+        "start": 218.88,
+        "end": 219.34,
+        "confidence": 0.9999999999999759,
+        "text": "reforms"
+    },
+    {
+        "start": 219.34,
+        "end": 219.45,
+        "confidence": 0.9999999999999752,
+        "text": "that"
+    },
+    {
+        "start": 219.45,
+        "end": 219.62,
+        "confidence": 0.7258278687418308,
+        "text": "we've"
+    },
+    {
+        "start": 219.62,
+        "end": 220.17,
+        "confidence": 0.9957218715132503,
+        "text": "proposed"
+    },
+    {
+        "start": 220.81,
+        "end": 220.96,
+        "confidence": 1.0,
+        "text": "in"
+    },
+    {
+        "start": 220.96,
+        "end": 221.22,
+        "confidence": 1.0,
+        "text": "doing"
+    },
+    {
+        "start": 221.22,
+        "end": 221.42,
+        "confidence": 1.0,
+        "text": "so"
+    },
+    {
+        "start": 221.42,
+        "end": 221.57,
+        "confidence": 0.8003032831382307,
+        "text": "he"
+    },
+    {
+        "start": 221.57,
+        "end": 221.84,
+        "confidence": 0.9778114759042827,
+        "text": "made"
+    },
+    {
+        "start": 221.84,
+        "end": 221.94,
+        "confidence": 1.0,
+        "text": "the"
+    },
+    {
+        "start": 221.94,
+        "end": 222.53,
+        "confidence": 0.3096083602974511,
+        "text": "semicolon"
+    },
+    {
+        "start": 222.53,
+        "end": 223.01,
+        "confidence": 0.9914914083273674,
+        "text": "deceptive"
+    },
+    {
+        "start": 223.01,
+        "end": 223.5,
+        "confidence": 0.7772329439913984,
+        "text": "assertion"
+    },
+    {
+        "start": 223.5,
+        "end": 223.69,
+        "confidence": 0.9765508362096661,
+        "text": "that"
+    },
+    {
+        "start": 223.86,
+        "end": 224.28,
+        "confidence": 0.7522557939248092,
+        "text": "reform"
+    },
+    {
+        "start": 224.28,
+        "end": 224.41,
+        "confidence": 1.0,
+        "text": "would"
+    },
+    {
+        "start": 224.41,
+        "end": 224.73,
+        "confidence": 1.0,
+        "text": "somehow"
+    },
+    {
+        "start": 224.73,
+        "end": 225.03,
+        "confidence": 0.8113309669700155,
+        "text": "enable"
+    },
+    {
+        "start": 225.03,
+        "end": 225.36,
+        "confidence": 0.9828482697245975,
+        "text": "future"
+    },
+    {
+        "start": 225.36,
+        "end": 225.93,
+        "confidence": 0.993505940795805,
+        "text": "bailouts"
+    },
+    {
+        "start": 226.31,
+        "end": 226.45,
+        "confidence": 0.6892676979435979,
+        "text": "when"
+    },
+    {
+        "start": 226.45,
+        "end": 226.52,
+        "confidence": 1.0,
+        "text": "he"
+    },
+    {
+        "start": 226.52,
+        "end": 226.9,
+        "confidence": 1.0,
+        "text": "knows"
+    },
+    {
+        "start": 226.9,
+        "end": 227.01,
+        "confidence": 0.9746610372687052,
+        "text": "that"
+    },
+    {
+        "start": 227.01,
+        "end": 227.04,
+        "confidence": 0.3128054569649,
+        "text": "I"
+    },
+    {
+        "start": 227.04,
+        "end": 227.18,
+        "confidence": 0.9268694606416467,
+        "text": "would"
+    },
+    {
+        "start": 227.18,
+        "end": 227.46,
+        "confidence": 1.0,
+        "text": "do"
+    },
+    {
+        "start": 227.49,
+        "end": 228.0,
+        "confidence": 1.0,
+        "text": "exactly"
+    },
+    {
+        "start": 228.0,
+        "end": 228.09,
+        "confidence": 1.0,
+        "text": "the"
+    },
+    {
+        "start": 228.09,
+        "end": 228.51,
+        "confidence": 0.9935706261828765,
+        "text": "opposite"
+    },
+    {
+        "start": 229.53,
+        "end": 229.77,
+        "confidence": 0.6692247803029957,
+        "text": "every"
+    },
+    {
+        "start": 229.77,
+        "end": 229.93,
+        "confidence": 0.6692247803030011,
+        "text": "day"
+    },
+    {
+        "start": 229.93,
+        "end": 230.09,
+        "confidence": 0.9999999999999785,
+        "text": "we"
+    },
+    {
+        "start": 230.09,
+        "end": 230.3,
+        "confidence": 0.9999999999999785,
+        "text": "don't"
+    },
+    {
+        "start": 230.3,
+        "end": 230.67,
+        "confidence": 0.9964923620213758,
+        "text": "act"
+    },
+    {
+        "start": 231.15,
+        "end": 231.21,
+        "confidence": 0.5575615766585257,
+        "text": "the"
+    },
+    {
+        "start": 231.21,
+        "end": 231.58,
+        "confidence": 1.0,
+        "text": "same"
+    },
+    {
+        "start": 231.58,
+        "end": 232.03,
+        "confidence": 1.0,
+        "text": "system"
+    },
+    {
+        "start": 232.03,
+        "end": 232.14,
+        "confidence": 1.0,
+        "text": "that"
+    },
+    {
+        "start": 232.14,
+        "end": 232.36,
+        "confidence": 1.0,
+        "text": "led"
+    },
+    {
+        "start": 232.36,
+        "end": 232.43,
+        "confidence": 1.0,
+        "text": "to"
+    },
+    {
+        "start": 232.43,
+        "end": 232.74,
+        "confidence": 0.659961715988432,
+        "text": "bail"
+    },
+    {
+        "start": 232.74,
+        "end": 233.03,
+        "confidence": 0.34971451051909136,
+        "text": "outs"
+    },
+    {
+        "start": 233.16,
+        "end": 233.55,
+        "confidence": 1.0,
+        "text": "remains"
+    },
+    {
+        "start": 233.55,
+        "end": 233.64,
+        "confidence": 0.9943131844650619,
+        "text": "in"
+    },
+    {
+        "start": 233.64,
+        "end": 234.05,
+        "confidence": 0.9972495305787838,
+        "text": "place"
+    },
+    {
+        "start": 234.59,
+        "end": 234.72,
+        "confidence": 0.8718528883196927,
+        "text": "with"
+    },
+    {
+        "start": 234.72,
+        "end": 234.83,
+        "confidence": 1.0,
+        "text": "the"
+    },
+    {
+        "start": 234.83,
+        "end": 235.37,
+        "confidence": 1.0,
+        "text": "exact"
+    },
+    {
+        "start": 235.37,
+        "end": 235.64,
+        "confidence": 1.0,
+        "text": "same"
+    },
+    {
+        "start": 235.64,
+        "end": 236.28,
+        "confidence": 0.6543586613798847,
+        "text": "loopholes"
+    },
+    {
+        "start": 236.52,
+        "end": 236.66,
+        "confidence": 0.5964404420867025,
+        "text": "and"
+    },
+    {
+        "start": 236.66,
+        "end": 236.73,
+        "confidence": 1.0,
+        "text": "the"
+    },
+    {
+        "start": 236.73,
+        "end": 237.11,
+        "confidence": 1.0,
+        "text": "exact"
+    },
+    {
+        "start": 237.11,
+        "end": 237.32,
+        "confidence": 1.0,
+        "text": "same"
+    },
+    {
+        "start": 237.32,
+        "end": 237.49,
+        "confidence": 0.7251889762464178,
+        "text": "why"
+    },
+    {
+        "start": 237.49,
+        "end": 238.0,
+        "confidence": 0.30932140945543685,
+        "text": "buildings"
+    },
+    {
+        "start": 238.54,
+        "end": 238.69,
+        "confidence": 0.3783304674158539,
+        "text": "if"
+    },
+    {
+        "start": 238.69,
+        "end": 238.78,
+        "confidence": 0.999999999999899,
+        "text": "we"
+    },
+    {
+        "start": 238.78,
+        "end": 238.97,
+        "confidence": 0.9999999999999304,
+        "text": "don't"
+    },
+    {
+        "start": 238.97,
+        "end": 239.51,
+        "confidence": 0.9999999999999303,
+        "text": "change"
+    },
+    {
+        "start": 239.68,
+        "end": 239.86,
+        "confidence": 0.9999999999999376,
+        "text": "what"
+    },
+    {
+        "start": 239.86,
+        "end": 240.11,
+        "confidence": 0.9999999999999685,
+        "text": "led"
+    },
+    {
+        "start": 240.11,
+        "end": 240.21,
+        "confidence": 0.9999999999999647,
+        "text": "to"
+    },
+    {
+        "start": 240.21,
+        "end": 240.29,
+        "confidence": 0.9999999999999509,
+        "text": "the"
+    },
+    {
+        "start": 240.29,
+        "end": 240.85,
+        "confidence": 0.9999999999999426,
+        "text": "crisis"
+    },
+    {
+        "start": 241.08,
+        "end": 241.23,
+        "confidence": 0.9999999999999659,
+        "text": "we"
+    },
+    {
+        "start": 241.23,
+        "end": 241.53,
+        "confidence": 0.8447511047057856,
+        "text": "will"
+    },
+    {
+        "start": 241.56,
+        "end": 241.88,
+        "confidence": 0.9724573600369576,
+        "text": "doom"
+    },
+    {
+        "start": 241.88,
+        "end": 242.37,
+        "confidence": 0.7801679875732755,
+        "text": "ourselves"
+    },
+    {
+        "start": 242.37,
+        "end": 242.49,
+        "confidence": 0.9999999999999934,
+        "text": "to"
+    },
+    {
+        "start": 242.49,
+        "end": 242.82,
+        "confidence": 0.7193265874236763,
+        "text": "repeat"
+    },
+    {
+        "start": 242.82,
+        "end": 242.92,
+        "confidence": 0.48467106135497656,
+        "text": "it"
+    },
+    {
+        "start": 243.68,
+        "end": 243.93,
+        "confidence": 1.0,
+        "text": "that's"
+    },
+    {
+        "start": 243.93,
+        "end": 244.03,
+        "confidence": 1.0,
+        "text": "the"
+    },
+    {
+        "start": 244.03,
+        "end": 244.43,
+        "confidence": 0.9899487346197372,
+        "text": "truth"
+    },
+    {
+        "start": 245.12,
+        "end": 245.51,
+        "confidence": 1.0,
+        "text": "opposing"
+    },
+    {
+        "start": 245.51,
+        "end": 245.99,
+        "confidence": 0.6871960820105935,
+        "text": "reform"
+    },
+    {
+        "start": 245.99,
+        "end": 246.31,
+        "confidence": 0.28917834122837155,
+        "text": "believe"
+    },
+    {
+        "start": 246.31,
+        "end": 246.86,
+        "confidence": 0.9967899992317449,
+        "text": "taxpayers"
+    },
+    {
+        "start": 246.86,
+        "end": 246.98,
+        "confidence": 0.9999999999999963,
+        "text": "on"
+    },
+    {
+        "start": 246.98,
+        "end": 247.05,
+        "confidence": 1.0,
+        "text": "the"
+    },
+    {
+        "start": 247.05,
+        "end": 247.42,
+        "confidence": 0.9892891930284683,
+        "text": "hook"
+    },
+    {
+        "start": 247.6,
+        "end": 247.74,
+        "confidence": 0.26839274201477104,
+        "text": "if"
+    },
+    {
+        "start": 247.74,
+        "end": 247.78,
+        "confidence": 0.9397871759170265,
+        "text": "a"
+    },
+    {
+        "start": 247.78,
+        "end": 248.31,
+        "confidence": 1.0,
+        "text": "crisis"
+    },
+    {
+        "start": 248.42,
+        "end": 248.67,
+        "confidence": 1.0,
+        "text": "like"
+    },
+    {
+        "start": 248.67,
+        "end": 248.86,
+        "confidence": 1.0,
+        "text": "this"
+    },
+    {
+        "start": 248.86,
+        "end": 249.01,
+        "confidence": 1.0,
+        "text": "ever"
+    },
+    {
+        "start": 249.01,
+        "end": 249.34,
+        "confidence": 1.0,
+        "text": "happens"
+    },
+    {
+        "start": 249.34,
+        "end": 249.63,
+        "confidence": 0.9756501815178983,
+        "text": "again"
+    },
+    {
+        "start": 250.42,
+        "end": 250.54,
+        "confidence": 0.9999999999999675,
+        "text": "so"
+    },
+    {
+        "start": 250.54,
+        "end": 250.71,
+        "confidence": 0.9999999999999346,
+        "text": "my"
+    },
+    {
+        "start": 250.71,
+        "end": 251.0,
+        "confidence": 0.9999999999999348,
+        "text": "hope"
+    },
+    {
+        "start": 251.0,
+        "end": 251.15,
+        "confidence": 0.9999999999999344,
+        "text": "is"
+    },
+    {
+        "start": 251.15,
+        "end": 251.28,
+        "confidence": 0.9999999999999344,
+        "text": "that"
+    },
+    {
+        "start": 251.28,
+        "end": 251.41,
+        "confidence": 0.9999999999999344,
+        "text": "we"
+    },
+    {
+        "start": 251.41,
+        "end": 251.52,
+        "confidence": 0.9999999999999344,
+        "text": "can"
+    },
+    {
+        "start": 251.52,
+        "end": 251.82,
+        "confidence": 0.9999999999999348,
+        "text": "put"
+    },
+    {
+        "start": 251.86,
+        "end": 252.05,
+        "confidence": 0.9999999999999347,
+        "text": "this"
+    },
+    {
+        "start": 252.05,
+        "end": 252.28,
+        "confidence": 0.9999999999999348,
+        "text": "kind"
+    },
+    {
+        "start": 252.28,
+        "end": 252.47,
+        "confidence": 0.9999999999999347,
+        "text": "of"
+    },
+    {
+        "start": 252.62,
+        "end": 253.14,
+        "confidence": 0.9999999999999546,
+        "text": "politics"
+    },
+    {
+        "start": 253.14,
+        "end": 253.61,
+        "confidence": 0.9930272466031169,
+        "text": "aside"
+    },
+    {
+        "start": 254.12,
+        "end": 254.26,
+        "confidence": 0.9999999999999675,
+        "text": "my"
+    },
+    {
+        "start": 254.26,
+        "end": 254.48,
+        "confidence": 0.9999999999999674,
+        "text": "hope"
+    },
+    {
+        "start": 254.48,
+        "end": 254.61,
+        "confidence": 0.9999999999999508,
+        "text": "is"
+    },
+    {
+        "start": 254.61,
+        "end": 254.83,
+        "confidence": 0.9999999999999509,
+        "text": "that"
+    },
+    {
+        "start": 255.02,
+        "end": 255.52,
+        "confidence": 0.9999999999999535,
+        "text": "Democrats"
+    },
+    {
+        "start": 255.52,
+        "end": 255.71,
+        "confidence": 0.9999999999999588,
+        "text": "and"
+    },
+    {
+        "start": 255.71,
+        "end": 256.39,
+        "confidence": 0.9979905617478063,
+        "text": "Republicans"
+    },
+    {
+        "start": 256.76,
+        "end": 256.86,
+        "confidence": 1.0,
+        "text": "and"
+    },
+    {
+        "start": 256.86,
+        "end": 257.12,
+        "confidence": 0.981058365142871,
+        "text": "find"
+    },
+    {
+        "start": 257.12,
+        "end": 257.44,
+        "confidence": 1.0,
+        "text": "common"
+    },
+    {
+        "start": 257.44,
+        "end": 257.73,
+        "confidence": 1.0,
+        "text": "ground"
+    },
+    {
+        "start": 257.73,
+        "end": 257.83,
+        "confidence": 1.0,
+        "text": "and"
+    },
+    {
+        "start": 257.83,
+        "end": 258.01,
+        "confidence": 1.0,
+        "text": "move"
+    },
+    {
+        "start": 258.01,
+        "end": 258.34,
+        "confidence": 1.0,
+        "text": "forward"
+    },
+    {
+        "start": 258.34,
+        "end": 258.65,
+        "confidence": 0.9980570435263436,
+        "text": "together"
+    },
+    {
+        "start": 259.52,
+        "end": 259.63,
+        "confidence": 0.8239956599646028,
+        "text": "but"
+    },
+    {
+        "start": 259.63,
+        "end": 259.79,
+        "confidence": 0.999999999999999,
+        "text": "this"
+    },
+    {
+        "start": 259.79,
+        "end": 259.9,
+        "confidence": 0.9999999999999989,
+        "text": "is"
+    },
+    {
+        "start": 259.9,
+        "end": 260.27,
+        "confidence": 0.660137102172295,
+        "text": "certain"
+    },
+    {
+        "start": 261.05,
+        "end": 261.25,
+        "confidence": 1.0,
+        "text": "one"
+    },
+    {
+        "start": 261.25,
+        "end": 261.39,
+        "confidence": 1.0,
+        "text": "way"
+    },
+    {
+        "start": 261.39,
+        "end": 261.48,
+        "confidence": 0.9999999999999838,
+        "text": "or"
+    },
+    {
+        "start": 261.48,
+        "end": 261.82,
+        "confidence": 0.9999999999999785,
+        "text": "another"
+    },
+    {
+        "start": 262.26,
+        "end": 262.42,
+        "confidence": 0.9999999999999895,
+        "text": "we"
+    },
+    {
+        "start": 262.42,
+        "end": 262.59,
+        "confidence": 0.9999999999999862,
+        "text": "will"
+    },
+    {
+        "start": 262.59,
+        "end": 262.8,
+        "confidence": 0.9999999999999897,
+        "text": "move"
+    },
+    {
+        "start": 262.8,
+        "end": 263.18,
+        "confidence": 0.9965351776645219,
+        "text": "forward"
+    },
+    {
+        "start": 263.88,
+        "end": 264.03,
+        "confidence": 1.0,
+        "text": "this"
+    },
+    {
+        "start": 264.03,
+        "end": 264.31,
+        "confidence": 1.0,
+        "text": "issue"
+    },
+    {
+        "start": 264.31,
+        "end": 264.49,
+        "confidence": 1.0,
+        "text": "is"
+    },
+    {
+        "start": 264.49,
+        "end": 264.73,
+        "confidence": 0.999999999999992,
+        "text": "too"
+    },
+    {
+        "start": 264.73,
+        "end": 265.21,
+        "confidence": 0.9874637303715449,
+        "text": "important"
+    },
+    {
+        "start": 265.94,
+        "end": 266.36,
+        "confidence": 0.5670977288640924,
+        "text": "costs"
+    },
+    {
+        "start": 266.36,
+        "end": 266.51,
+        "confidence": 0.9291573406797216,
+        "text": "of"
+    },
+    {
+        "start": 266.51,
+        "end": 267.01,
+        "confidence": 0.5803358017236888,
+        "text": "inaction"
+    },
+    {
+        "start": 267.04,
+        "end": 267.21,
+        "confidence": 0.867804071497656,
+        "text": "are"
+    },
+    {
+        "start": 267.21,
+        "end": 267.48,
+        "confidence": 0.9947351757342319,
+        "text": "too"
+    },
+    {
+        "start": 267.48,
+        "end": 267.84,
+        "confidence": 0.993350363235005,
+        "text": "great"
+    },
+    {
+        "start": 268.52,
+        "end": 268.65,
+        "confidence": 0.8574755450452897,
+        "text": "we"
+    },
+    {
+        "start": 268.65,
+        "end": 268.74,
+        "confidence": 0.7192776925086832,
+        "text": "will"
+    },
+    {
+        "start": 268.74,
+        "end": 269.16,
+        "confidence": 0.9465407420981938,
+        "text": "hold"
+    },
+    {
+        "start": 269.19,
+        "end": 269.42,
+        "confidence": 0.5186815741789338,
+        "text": "Wall"
+    },
+    {
+        "start": 269.42,
+        "end": 269.76,
+        "confidence": 0.49874838494575896,
+        "text": "Street"
+    },
+    {
+        "start": 269.76,
+        "end": 270.32,
+        "confidence": 0.9967190018421068,
+        "text": "accountable"
+    },
+    {
+        "start": 270.62,
+        "end": 270.75,
+        "confidence": 0.7500991826649057,
+        "text": "we"
+    },
+    {
+        "start": 270.75,
+        "end": 270.85,
+        "confidence": 1.0,
+        "text": "will"
+    },
+    {
+        "start": 270.85,
+        "end": 271.37,
+        "confidence": 0.7854498187551985,
+        "text": "protect"
+    },
+    {
+        "start": 271.37,
+        "end": 271.46,
+        "confidence": 0.2769916531452821,
+        "text": "and"
+    },
+    {
+        "start": 271.46,
+        "end": 271.9,
+        "confidence": 1.0,
+        "text": "empower"
+    },
+    {
+        "start": 271.9,
+        "end": 272.62,
+        "confidence": 1.0,
+        "text": "consumers"
+    },
+    {
+        "start": 272.83,
+        "end": 273.01,
+        "confidence": 1.0,
+        "text": "in"
+    },
+    {
+        "start": 273.01,
+        "end": 273.14,
+        "confidence": 1.0,
+        "text": "our"
+    },
+    {
+        "start": 273.14,
+        "end": 273.66,
+        "confidence": 1.0,
+        "text": "financial"
+    },
+    {
+        "start": 273.66,
+        "end": 274.1,
+        "confidence": 0.9927433075426602,
+        "text": "system"
+    },
+    {
+        "start": 274.61,
+        "end": 274.83,
+        "confidence": 0.9999999999999836,
+        "text": "that's"
+    },
+    {
+        "start": 274.83,
+        "end": 275.36,
+        "confidence": 0.9999999999999869,
+        "text": "what"
+    },
+    {
+        "start": 275.47,
+        "end": 275.93,
+        "confidence": 0.8108734182067295,
+        "text": "reform"
+    },
+    {
+        "start": 275.93,
+        "end": 276.13,
+        "confidence": 0.8958904119495663,
+        "text": "is"
+    },
+    {
+        "start": 276.13,
+        "end": 276.31,
+        "confidence": 0.999999999999987,
+        "text": "all"
+    },
+    {
+        "start": 276.31,
+        "end": 276.63,
+        "confidence": 0.9871208913177582,
+        "text": "about"
+    },
+    {
+        "start": 277.25,
+        "end": 277.37,
+        "confidence": 0.7153044454542467,
+        "text": "that's"
+    },
+    {
+        "start": 277.37,
+        "end": 277.51,
+        "confidence": 1.0,
+        "text": "what"
+    },
+    {
+        "start": 277.51,
+        "end": 277.6,
+        "confidence": 1.0,
+        "text": "we're"
+    },
+    {
+        "start": 277.6,
+        "end": 277.94,
+        "confidence": 1.0,
+        "text": "fighting"
+    },
+    {
+        "start": 277.94,
+        "end": 278.24,
+        "confidence": 0.9712123323987013,
+        "text": "for"
+    },
+    {
+        "start": 278.62,
+        "end": 278.74,
+        "confidence": 0.830140089723623,
+        "text": "and"
+    },
+    {
+        "start": 278.74,
+        "end": 278.91,
+        "confidence": 1.0,
+        "text": "that's"
+    },
+    {
+        "start": 278.91,
+        "end": 279.4,
+        "confidence": 1.0,
+        "text": "exactly"
+    },
+    {
+        "start": 279.4,
+        "end": 279.56,
+        "confidence": 1.0,
+        "text": "what"
+    },
+    {
+        "start": 279.56,
+        "end": 279.66,
+        "confidence": 1.0,
+        "text": "we're"
+    },
+    {
+        "start": 279.66,
+        "end": 279.81,
+        "confidence": 0.8686537242428293,
+        "text": "going"
+    },
+    {
+        "start": 279.81,
+        "end": 279.87,
+        "confidence": 0.8686537242428347,
+        "text": "to"
+    },
+    {
+        "start": 279.87,
+        "end": 280.2,
+        "confidence": 0.42709526446510643,
+        "text": "achieve"
+    },
+    {
+        "start": 281.05,
+        "end": 281.29,
+        "confidence": 0.8185680399037308,
+        "text": "thanks"
+    },
+    {
+        "start": 281.29,
+        "end": 281.39,
+        "confidence": 0.9999999999999909,
+        "text": "so"
+    },
+    {
+        "start": 281.39,
+        "end": 281.69,
+        "confidence": 0.9954550118476623,
+        "text": "much"
+    }
+]

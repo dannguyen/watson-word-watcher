@@ -1,0 +1,1158 @@
+  {
+   "results": [
+      {
+         "word_alternatives": [
+            {
+               "start_time": 0.03, 
+               "alternatives": [
+                  {
+                     "confidence": 0.8376, 
+                     "word": "and"
+                  }
+               ], 
+               "end_time": 0.42
+            }, 
+            {
+               "start_time": 0.42, 
+               "alternatives": [
+                  {
+                     "confidence": 0.6757, 
+                     "word": "that"
+                  }
+               ], 
+               "end_time": 0.74
+            }, 
+            {
+               "start_time": 0.74, 
+               "alternatives": [
+                  {
+                     "confidence": 0.6661, 
+                     "word": "Hillary"
+                  }
+               ], 
+               "end_time": 1.02
+            }, 
+            {
+               "start_time": 1.58, 
+               "alternatives": [
+                  {
+                     "confidence": 0.6174, 
+                     "word": "armed"
+                  }
+               ], 
+               "end_time": 1.86
+            }, 
+            {
+               "start_time": 1.86, 
+               "alternatives": [
+                  {
+                     "confidence": 0.5422, 
+                     "word": "with"
+                  }
+               ], 
+               "end_time": 2.05
+            }, 
+            {
+               "start_time": 2.05, 
+               "alternatives": [
+                  {
+                     "confidence": 0.8348, 
+                     "word": "information"
+                  }
+               ], 
+               "end_time": 2.55
+            }, 
+            {
+               "start_time": 2.55, 
+               "alternatives": [
+                  {
+                     "confidence": 0.9743, 
+                     "word": "about"
+                  }
+               ], 
+               "end_time": 2.76
+            }, 
+            {
+               "start_time": 2.76, 
+               "alternatives": [
+                  {
+                     "confidence": 0.97, 
+                     "word": "Barry"
+                  }
+               ], 
+               "end_time": 3.01
+            }, 
+            {
+               "start_time": 3.01, 
+               "alternatives": [
+                  {
+                     "confidence": 0.9674, 
+                     "word": "Sanders"
+                  }
+               ], 
+               "end_time": 3.38
+            }, 
+            {
+               "start_time": 3.38, 
+               "alternatives": [
+                  {
+                     "confidence": 0.8159, 
+                     "word": "records"
+                  }
+               ], 
+               "end_time": 3.67
+            }, 
+            {
+               "start_time": 3.67, 
+               "alternatives": [
+                  {
+                     "confidence": 0.8159, 
+                     "word": "and"
+                  }
+               ], 
+               "end_time": 3.79
+            }, 
+            {
+               "start_time": 3.79, 
+               "alternatives": [
+                  {
+                     "confidence": 0.6836, 
+                     "word": "they"
+                  }
+               ], 
+               "end_time": 3.93
+            }, 
+            {
+               "start_time": 3.93, 
+               "alternatives": [
+                  {
+                     "confidence": 0.6596, 
+                     "word": "used"
+                  }
+               ], 
+               "end_time": 4.4
+            }
+         ], 
+         "alternatives": [
+            {
+               "word_confidence": [
+                  [
+                     "and", 
+                     0.9978952837412527
+                  ], 
+                  [
+                     "that", 
+                     0.29140084009022116
+                  ], 
+                  [
+                     "Hillary", 
+                     0.9983377679496881
+                  ], 
+                  [
+                     "Clinton", 
+                     0.9934512243087907
+                  ], 
+                  [
+                     "came", 
+                     0.5292067382101073
+                  ], 
+                  [
+                     "armed", 
+                     0.9999999999998664
+                  ], 
+                  [
+                     "with", 
+                     0.9999999999998639
+                  ], 
+                  [
+                     "information", 
+                     0.9999999999998772
+                  ], 
+                  [
+                     "about", 
+                     0.9919585961942514
+                  ], 
+                  [
+                     "Barry", 
+                     0.5726813210175657
+                  ], 
+                  [
+                     "Sanders", 
+                     0.8514433395628107
+                  ], 
+                  [
+                     "records", 
+                     0.6090989777177794
+                  ], 
+                  [
+                     "and", 
+                     0.9876687427233807
+                  ], 
+                  [
+                     "they", 
+                     0.6899927328063153
+                  ], 
+                  [
+                     "used", 
+                     0.8511755266052009
+                  ], 
+                  [
+                     "all", 
+                     0.851709425225863
+                  ], 
+                  [
+                     "that", 
+                     0.6065617974908705
+                  ], 
+                  [
+                     "we", 
+                     0.16159870680768398
+                  ]
+               ], 
+               "confidence": 0.804, 
+               "transcript": "and that Hillary Clinton came armed with information about Barry Sanders records and they used all that we ", 
+               "timestamps": [
+                  [
+                     "and", 
+                     0.03, 
+                     0.42
+                  ], 
+                  [
+                     "that", 
+                     0.42, 
+                     0.74
+                  ], 
+                  [
+                     "Hillary", 
+                     0.74, 
+                     1.02
+                  ], 
+                  [
+                     "Clinton", 
+                     1.02, 
+                     1.32
+                  ], 
+                  [
+                     "came", 
+                     1.32, 
+                     1.58
+                  ], 
+                  [
+                     "armed", 
+                     1.58, 
+                     1.86
+                  ], 
+                  [
+                     "with", 
+                     1.86, 
+                     2.05
+                  ], 
+                  [
+                     "information", 
+                     2.05, 
+                     2.55
+                  ], 
+                  [
+                     "about", 
+                     2.55, 
+                     2.76
+                  ], 
+                  [
+                     "Barry", 
+                     2.76, 
+                     3.01
+                  ], 
+                  [
+                     "Sanders", 
+                     3.01, 
+                     3.38
+                  ], 
+                  [
+                     "records", 
+                     3.38, 
+                     3.67
+                  ], 
+                  [
+                     "and", 
+                     3.67, 
+                     3.79
+                  ], 
+                  [
+                     "they", 
+                     3.79, 
+                     3.93
+                  ], 
+                  [
+                     "used", 
+                     3.93, 
+                     4.4
+                  ], 
+                  [
+                     "all", 
+                     4.4, 
+                     4.65
+                  ], 
+                  [
+                     "that", 
+                     4.65, 
+                     4.88
+                  ], 
+                  [
+                     "we", 
+                     4.88, 
+                     5.0
+                  ]
+               ]
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "word_alternatives": [], 
+         "alternatives": [
+            {
+               "word_confidence": [
+                  [
+                     "are", 
+                     0.19337468799051047
+                  ], 
+                  [
+                     "you", 
+                     0.13422480905358894
+                  ]
+               ], 
+               "confidence": 0.175, 
+               "transcript": "are you ", 
+               "timestamps": [
+                  [
+                     "are", 
+                     6.15, 
+                     6.33
+                  ], 
+                  [
+                     "you", 
+                     6.33, 
+                     6.41
+                  ]
+               ]
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "word_alternatives": [
+            {
+               "start_time": 6.98, 
+               "alternatives": [
+                  {
+                     "confidence": 0.635, 
+                     "word": "alright"
+                  }
+               ], 
+               "end_time": 7.39
+            }, 
+            {
+               "start_time": 7.39, 
+               "alternatives": [
+                  {
+                     "confidence": 0.635, 
+                     "word": "thank"
+                  }
+               ], 
+               "end_time": 7.64
+            }, 
+            {
+               "start_time": 7.64, 
+               "alternatives": [
+                  {
+                     "confidence": 0.635, 
+                     "word": "you"
+                  }
+               ], 
+               "end_time": 7.78
+            }, 
+            {
+               "start_time": 7.78, 
+               "alternatives": [
+                  {
+                     "confidence": 0.635, 
+                     "word": "so"
+                  }
+               ], 
+               "end_time": 8.03
+            }, 
+            {
+               "start_time": 8.03, 
+               "alternatives": [
+                  {
+                     "confidence": 1.0, 
+                     "word": "much"
+                  }
+               ], 
+               "end_time": 8.35
+            }, 
+            {
+               "start_time": 8.35, 
+               "alternatives": [
+                  {
+                     "confidence": 1.0, 
+                     "word": "and"
+                  }
+               ], 
+               "end_time": 8.53
+            }, 
+            {
+               "start_time": 8.53, 
+               "alternatives": [
+                  {
+                     "confidence": 1.0, 
+                     "word": "stay"
+                  }
+               ], 
+               "end_time": 8.75
+            }, 
+            {
+               "start_time": 8.75, 
+               "alternatives": [
+                  {
+                     "confidence": 0.978, 
+                     "word": "with"
+                  }
+               ], 
+               "end_time": 8.98
+            }, 
+            {
+               "start_time": 8.98, 
+               "alternatives": [
+                  {
+                     "confidence": 0.9779, 
+                     "word": "us"
+                  }
+               ], 
+               "end_time": 9.1
+            }, 
+            {
+               "start_time": 9.1, 
+               "alternatives": [
+                  {
+                     "confidence": 0.9945, 
+                     "word": "online"
+                  }
+               ], 
+               "end_time": 9.59
+            }, 
+            {
+               "start_time": 9.59, 
+               "alternatives": [
+                  {
+                     "confidence": 0.9945, 
+                     "word": "at"
+                  }
+               ], 
+               "end_time": 9.68
+            }, 
+            {
+               "start_time": 9.68, 
+               "alternatives": [
+                  {
+                     "confidence": 0.9945, 
+                     "word": "PBS"
+                  }
+               ], 
+               "end_time": 10.05
+            }, 
+            {
+               "start_time": 10.05, 
+               "alternatives": [
+                  {
+                     "confidence": 1.0, 
+                     "word": "dot"
+                  }
+               ], 
+               "end_time": 10.22
+            }, 
+            {
+               "start_time": 10.22, 
+               "alternatives": [
+                  {
+                     "confidence": 1.0, 
+                     "word": "org"
+                  }
+               ], 
+               "end_time": 10.43
+            }
+         ], 
+         "alternatives": [
+            {
+               "word_confidence": [
+                  [
+                     "alright", 
+                     0.5414473443880161
+                  ], 
+                  [
+                     "thank", 
+                     1.0
+                  ], 
+                  [
+                     "you", 
+                     1.0
+                  ], 
+                  [
+                     "so", 
+                     1.0
+                  ], 
+                  [
+                     "much", 
+                     1.0
+                  ], 
+                  [
+                     "and", 
+                     1.0
+                  ], 
+                  [
+                     "stay", 
+                     1.0
+                  ], 
+                  [
+                     "with", 
+                     0.9877857014350411
+                  ], 
+                  [
+                     "us", 
+                     0.8595355665027943
+                  ], 
+                  [
+                     "online", 
+                     1.0
+                  ], 
+                  [
+                     "at", 
+                     1.0
+                  ], 
+                  [
+                     "PBS", 
+                     1.0
+                  ], 
+                  [
+                     "dot", 
+                     1.0
+                  ], 
+                  [
+                     "org", 
+                     0.9999999999999959
+                  ], 
+                  [
+                     "slash", 
+                     0.824327058157111
+                  ]
+               ], 
+               "confidence": 0.932, 
+               "transcript": "alright thank you so much and stay with us online at PBS dot org slash ", 
+               "timestamps": [
+                  [
+                     "alright", 
+                     6.98, 
+                     7.39
+                  ], 
+                  [
+                     "thank", 
+                     7.39, 
+                     7.64
+                  ], 
+                  [
+                     "you", 
+                     7.64, 
+                     7.78
+                  ], 
+                  [
+                     "so", 
+                     7.78, 
+                     8.03
+                  ], 
+                  [
+                     "much", 
+                     8.03, 
+                     8.35
+                  ], 
+                  [
+                     "and", 
+                     8.35, 
+                     8.53
+                  ], 
+                  [
+                     "stay", 
+                     8.53, 
+                     8.75
+                  ], 
+                  [
+                     "with", 
+                     8.75, 
+                     8.98
+                  ], 
+                  [
+                     "us", 
+                     8.98, 
+                     9.1
+                  ], 
+                  [
+                     "online", 
+                     9.1, 
+                     9.59
+                  ], 
+                  [
+                     "at", 
+                     9.59, 
+                     9.68
+                  ], 
+                  [
+                     "PBS", 
+                     9.68, 
+                     10.05
+                  ], 
+                  [
+                     "dot", 
+                     10.05, 
+                     10.22
+                  ], 
+                  [
+                     "org", 
+                     10.22, 
+                     10.43
+                  ], 
+                  [
+                     "slash", 
+                     10.43, 
+                     10.68
+                  ]
+               ]
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "word_alternatives": [
+            {
+               "start_time": 10.84, 
+               "alternatives": [
+                  {
+                     "confidence": 0.6367, 
+                     "word": "news"
+                  }
+               ], 
+               "end_time": 11.14
+            }, 
+            {
+               "start_time": 11.14, 
+               "alternatives": [
+                  {
+                     "confidence": 0.5996, 
+                     "word": "hour"
+                  }
+               ], 
+               "end_time": 11.38
+            }, 
+            {
+               "start_time": 11.38, 
+               "alternatives": [
+                  {
+                     "confidence": 0.5737, 
+                     "word": "we"
+                  }
+               ], 
+               "end_time": 11.64
+            }, 
+            {
+               "start_time": 11.64, 
+               "alternatives": [
+                  {
+                     "confidence": 0.5737, 
+                     "word": "will"
+                  }
+               ], 
+               "end_time": 11.73
+            }, 
+            {
+               "start_time": 11.73, 
+               "alternatives": [
+                  {
+                     "confidence": 0.5737, 
+                     "word": "continue"
+                  }
+               ], 
+               "end_time": 12.12
+            }, 
+            {
+               "start_time": 12.12, 
+               "alternatives": [
+                  {
+                     "confidence": 0.9604, 
+                     "word": "our"
+                  }
+               ], 
+               "end_time": 12.34
+            }, 
+            {
+               "start_time": 12.34, 
+               "alternatives": [
+                  {
+                     "confidence": 0.8648, 
+                     "word": "analysis"
+                  }
+               ], 
+               "end_time": 12.95
+            }
+         ], 
+         "alternatives": [
+            {
+               "word_confidence": [
+                  [
+                     "news", 
+                     0.5380246943138567
+                  ], 
+                  [
+                     "hour", 
+                     0.5380246943138441
+                  ], 
+                  [
+                     "we", 
+                     0.6127131601146856
+                  ], 
+                  [
+                     "will", 
+                     0.9150493038565618
+                  ], 
+                  [
+                     "continue", 
+                     1.0
+                  ], 
+                  [
+                     "our", 
+                     1.0
+                  ], 
+                  [
+                     "analysis", 
+                     0.9942453592220963
+                  ]
+               ], 
+               "confidence": 0.829, 
+               "transcript": "news hour we will continue our analysis ", 
+               "timestamps": [
+                  [
+                     "news", 
+                     10.84, 
+                     11.14
+                  ], 
+                  [
+                     "hour", 
+                     11.14, 
+                     11.38
+                  ], 
+                  [
+                     "we", 
+                     11.38, 
+                     11.64
+                  ], 
+                  [
+                     "will", 
+                     11.64, 
+                     11.73
+                  ], 
+                  [
+                     "continue", 
+                     11.73, 
+                     12.12
+                  ], 
+                  [
+                     "our", 
+                     12.12, 
+                     12.34
+                  ], 
+                  [
+                     "analysis", 
+                     12.34, 
+                     12.95
+                  ]
+               ]
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "word_alternatives": [
+            {
+               "start_time": 13.29, 
+               "alternatives": [
+                  {
+                     "confidence": 0.9953, 
+                     "word": "debate"
+                  }
+               ], 
+               "end_time": 13.7
+            }
+         ], 
+         "alternatives": [
+            {
+               "word_confidence": [
+                  [
+                     "debate", 
+                     0.9374503840280012
+                  ]
+               ], 
+               "confidence": 0.937, 
+               "transcript": "debate ", 
+               "timestamps": [
+                  [
+                     "debate", 
+                     13.29, 
+                     13.7
+                  ]
+               ]
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "word_alternatives": [
+            {
+               "start_time": 14.2, 
+               "alternatives": [
+                  {
+                     "confidence": 1.0, 
+                     "word": "shields"
+                  }
+               ], 
+               "end_time": 14.49
+            }, 
+            {
+               "start_time": 14.49, 
+               "alternatives": [
+                  {
+                     "confidence": 1.0, 
+                     "word": "and"
+                  }
+               ], 
+               "end_time": 14.71
+            }, 
+            {
+               "start_time": 14.71, 
+               "alternatives": [
+                  {
+                     "confidence": 1.0, 
+                     "word": "David"
+                  }
+               ], 
+               "end_time": 14.98
+            }, 
+            {
+               "start_time": 14.98, 
+               "alternatives": [
+                  {
+                     "confidence": 1.0, 
+                     "word": "Brooks"
+                  }
+               ], 
+               "end_time": 15.32
+            }, 
+            {
+               "start_time": 15.43, 
+               "alternatives": [
+                  {
+                     "confidence": 0.534, 
+                     "word": "see"
+                  }
+               ], 
+               "end_time": 15.62
+            }, 
+            {
+               "start_time": 15.62, 
+               "alternatives": [
+                  {
+                     "confidence": 0.5219, 
+                     "word": "in"
+                  }
+               ], 
+               "end_time": 15.72
+            }, 
+            {
+               "start_time": 15.72, 
+               "alternatives": [
+                  {
+                     "confidence": 0.5219, 
+                     "word": "a"
+                  }
+               ], 
+               "end_time": 15.76
+            }, 
+            {
+               "start_time": 15.76, 
+               "alternatives": [
+                  {
+                     "confidence": 0.8699, 
+                     "word": "minute"
+                  }
+               ], 
+               "end_time": 15.98
+            }
+         ], 
+         "alternatives": [
+            {
+               "word_confidence": [
+                  [
+                     "shields", 
+                     1.0
+                  ], 
+                  [
+                     "and", 
+                     1.0
+                  ], 
+                  [
+                     "David", 
+                     1.0
+                  ], 
+                  [
+                     "Brooks", 
+                     1.0
+                  ], 
+                  [
+                     "see", 
+                     0.813521780697634
+                  ], 
+                  [
+                     "in", 
+                     0.4692211336365467
+                  ], 
+                  [
+                     "a", 
+                     0.6118273345564182
+                  ], 
+                  [
+                     "minute", 
+                     0.8733398818672541
+                  ], 
+                  [
+                     "online", 
+                     0.7753567803873351
+                  ]
+               ], 
+               "confidence": 0.889, 
+               "transcript": "shields and David Brooks see in a minute online ", 
+               "timestamps": [
+                  [
+                     "shields", 
+                     14.2, 
+                     14.49
+                  ], 
+                  [
+                     "and", 
+                     14.49, 
+                     14.71
+                  ], 
+                  [
+                     "David", 
+                     14.71, 
+                     14.98
+                  ], 
+                  [
+                     "Brooks", 
+                     14.98, 
+                     15.32
+                  ], 
+                  [
+                     "see", 
+                     15.43, 
+                     15.62
+                  ], 
+                  [
+                     "in", 
+                     15.62, 
+                     15.72
+                  ], 
+                  [
+                     "a", 
+                     15.72, 
+                     15.76
+                  ], 
+                  [
+                     "minute", 
+                     15.76, 
+                     15.98
+                  ], 
+                  [
+                     "online", 
+                     16.01, 
+                     16.48
+                  ]
+               ]
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "word_alternatives": [
+            {
+               "start_time": 19.12, 
+               "alternatives": [
+                  {
+                     "confidence": 0.9962, 
+                     "word": "and"
+                  }
+               ], 
+               "end_time": 19.21
+            }, 
+            {
+               "start_time": 19.21, 
+               "alternatives": [
+                  {
+                     "confidence": 0.9962, 
+                     "word": "nbsp"
+                  }
+               ], 
+               "end_time": 20.29
+            }
+         ], 
+         "alternatives": [
+            {
+               "word_confidence": [
+                  [
+                     "and", 
+                     0.8413363658604169
+                  ], 
+                  [
+                     "nbsp", 
+                     1.0
+                  ]
+               ], 
+               "confidence": 0.988, 
+               "transcript": "and nbsp ", 
+               "timestamps": [
+                  [
+                     "and", 
+                     19.12, 
+                     19.21
+                  ], 
+                  [
+                     "nbsp", 
+                     19.21, 
+                     20.29
+                  ]
+               ]
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "word_alternatives": [
+            {
+               "start_time": 23.25, 
+               "alternatives": [
+                  {
+                     "confidence": 0.6037, 
+                     "word": "this"
+                  }
+               ], 
+               "end_time": 23.75
+            }
+         ], 
+         "alternatives": [
+            {
+               "word_confidence": [
+                  [
+                     "this", 
+                     1.0
+                  ]
+               ], 
+               "confidence": 1.0, 
+               "transcript": "this ", 
+               "timestamps": [
+                  [
+                     "this", 
+                     23.25, 
+                     23.75
+                  ]
+               ]
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "word_alternatives": [], 
+         "alternatives": [
+            {
+               "timestamps": [], 
+               "confidence": 0.0, 
+               "transcript": "this "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "word_alternatives": [
+            {
+               "start_time": 30.75, 
+               "alternatives": [
+                  {
+                     "confidence": 0.8457, 
+                     "word": "this"
+                  }
+               ], 
+               "end_time": 32.85
+            }
+         ], 
+         "alternatives": [
+            {
+               "word_confidence": [
+                  [
+                     "this", 
+                     0.9999999999999852
+                  ]
+               ], 
+               "confidence": 1.0, 
+               "transcript": "this ", 
+               "timestamps": [
+                  [
+                     "this", 
+                     30.75, 
+                     32.85
+                  ]
+               ]
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "word_alternatives": [
+            {
+               "start_time": 34.16, 
+               "alternatives": [
+                  {
+                     "confidence": 1.0, 
+                     "word": "this"
+                  }
+               ], 
+               "end_time": 35.74
+            }
+         ], 
+         "alternatives": [
+            {
+               "word_confidence": [
+                  [
+                     "this", 
+                     0.9999999999999959
+                  ]
+               ], 
+               "confidence": 1.0, 
+               "transcript": "this ", 
+               "timestamps": [
+                  [
+                     "this", 
+                     34.16, 
+                     35.74
+                  ]
+               ]
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0
+}
