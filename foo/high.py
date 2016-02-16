@@ -8,7 +8,7 @@ from foo.project_settings import *
 from foo.audio_video import *
 from foo.watson import *
 from multiprocessing import Process
-
+from os.path import exists
 
 
 def init_project(video_filename):
@@ -31,7 +31,7 @@ def split_audio(project_slug):
     for seg_filename in segments:
         yield seg_filename
 
-def transcribe_audio(project_slug, creds):
+def transcribe_audio(project_slug, creds, overwrite=False):
     # Send each audio segment in a project to Watson Speech-to-Text API
     # with the POWER OF MULTITHREADED PRPOCESSINGASDF!!
     #
@@ -39,13 +39,14 @@ def transcribe_audio(project_slug, creds):
     audio_segments_fnames = audio_segments_filenames(project_slug)
     watson_jobs = []
     for audio_fn in audio_segments_fnames:
-        print("Sending to Watson API:\n\t", audio_fn)
         time_slug = make_slug_from_path(audio_fn)
         transcript_fn = join(transcripts_dir(project_slug), time_slug) + '.json'
-        job = Process(target=process_transcript_call,
-                      args=(audio_fn, transcript_fn, creds))
-        job.start()
-        watson_jobs.append(job)
+        if not exists(transcript_fn):
+            print("Sending to Watson API:\n\t", audio_fn)
+            job = Process(target=process_transcript_call,
+                          args=(audio_fn, transcript_fn, creds))
+            job.start()
+            watson_jobs.append(job)
 
 
     # Wait for all jobs to end

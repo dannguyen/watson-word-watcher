@@ -90,8 +90,16 @@ def project_dir(slug, make_dir = False):
         e.g. "myvideo"
     returns: the absolute path to the project directory
         e.g. "/Users/yourname/whatever/projects/myvideo"
+
+
+    Note: sometimes the "slug" will contain projects/ prefix
+        e.g. projects/myvideo as opposed to just myvideo
+
+    This function takes the basename of slug, effectively removing
+      any prefixed directory name
     """
-    d = join(PROJECTS_MAIN_DIR, slug)
+    xslug = slug.replace("projects/", "").rstrip('/')
+    d = join(PROJECTS_MAIN_DIR, xslug)
     d = abspath(expanduser(d))
     # no need to always makedirs here, as all subdirectory calls
     # do their own makedirs call

@@ -4,6 +4,8 @@ import sys
 import json
 import re
 
+MIN_CONFIDENCE = 0.4
+
 """
 TODO
 refactor into separate CLI-subcommands
@@ -33,6 +35,7 @@ if __name__ == '__main__':
         raise NameError(project_dir(pslug) + " does not exist")
     print("Extracting case-insensitive pattern:", word_pattern)
     print("  from project:", pslug)
+    print("  with a minimum confidence of:", MIN_CONFIDENCE)
     # create a filename based on the word_pattern
     supercut_slug = re.sub('[^A-z0-9_\.-]+', '-', word_pattern.replace('\\', '')).strip('-').lower()
     supercut_fname = join(supercuts_dir(pslug), supercut_slug + '.mp4')
@@ -41,12 +44,12 @@ if __name__ == '__main__':
     with open(words_transcript_path(pslug)) as f:
         transcribed_words = json.load(f)
         for t_word in transcribed_words:
-            if re_pattern.search(t_word['text']):
+            if re_pattern.search(t_word['text']) and t_word['confidence'] >= MIN_CONFIDENCE:
                 word_matches.append(t_word)
 
     timestamps = []
     for n, word in enumerate(word_matches):
-        print("\t", str(n) + ':',  word['text'], word['start'], word['end'])
+        print("\t", str(n) + ':',  word['text'], word['confidence'], word['start'], word['end'])
         timestamps.append((word['start'], word['end']))
 
     if is_dryrun:
