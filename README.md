@@ -326,11 +326,13 @@ Transcribed:
 ~~~
 
 
-And a quickie processing of the JSON transcript:
+And then run these scripts for a quickie processing of the JSON transcript:
 
 ~~~sh
 python compile.py projects/obama-weekly-address-2015-10-31
 python rawtext.py projects/obama-weekly-address-2015-10-31
+python analyze.py projects/obama-weekly-address-2015-10-31
+
 ~~~
 
 The output:
