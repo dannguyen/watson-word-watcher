@@ -1,15 +1,33 @@
 # Using IBM Watson's Speech-to-Text API to do Multi-Threaded Transcription of Really Long and Talky Videos, Such as Presidential Debates
 
-A demonstration of how to use Python and IBM Watson's Speech-to-Text API to do some decently accurate transcription of real-world video and audio, at amazingly fast speeds.
+A demonstration of how to use Python and [IBM Watson's Speech-to-Text API](https://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/speech-to-text.html) to do some decently accurate transcription of real-world video and audio, at amazingly fast speeds.
+
+
+__Note:___ I'm just spit-balling code here, not making a user-friendly package.  I'm focused on making an automated workflow to create fun supercuts of "The Wire"...and will polish the scripts and implementation later. These notes and scripts (and data files) are merely for your reference.
+
+
+# tl;dr
+
+IBM Watson offers a [REST-based Speech to Text API](https://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/speech-to-text.html) that allows free usage for the first 1,000 minutes each month (and [$0.02 for each additional minute](https://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/speech-to-text.html#pricing-block)):
+
+> Watson Speech to Text can be used anywhere there is a need to bridge the gap between the spoken word and its written form. This easy-to-use service uses machine intelligence to combine information about grammar and language structure with knowledge of the composition of an audio signal to generate an accurate transcription. __It uses IBM's speech recognition capabilities to convert speech in multiple languages into text. The transcription of incoming audio is continuously sent back to the client with minimal delay, and it is corrected as more speech is heard.__ 
+ 
+In my preliminary tests, it's not quite as good as Google Translate in terms of pure accuracy, but it's more than good enough for finding key words, whether they be relatively common verbs like ["fight", "death", "kill"](https://www.youtube.com/watch?v=8H-kG-Vdkmo&list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7&index=4) or proper nouns, such as [Obama](https://www.youtube.com/watch?v=enoYQEQXLjs&list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7&index=2) and [countries of the world](https://www.youtube.com/watch?v=qJNUI_OW-kA&index=16&list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7).
+
+Here's a [YouTube playlist of some automated supercuts I've created from the U.S. presidential primary debates](https://www.youtube.com/playlist?list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7). My favorite is probably this [supercut of Senator Sanders and Secretary Clinton saying fighting words](https://www.youtube.com/watch?v=VbXUUSFat9w&list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7&index=14).
+
+<a href="https://www.youtube.com/watch?v=VbXUUSFat9w&list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7&index=14"><img src="https://i.ytimg.com/vi/VbXUUSFat9w/maxresdefault.jpg"></a>
+
+Here's the [JSON returned from Watson](projects/dem-debate-2016-02-11-wisco/full-transcript.json), which includes word-by-word timestamps and confidence levels. Here's a simplified version of it, in which the [JSON is just a flat list of words](projects/dem-debate-2016-02-11-wisco/transcripts/words-transcripts.json).
+
+IBM Watson's API is robust enough to accept many concurrent requests. In the sample scripts I've included in this repo, I was able to break up a 90 minute debate into 5 minute segments and send them up to Watson simultaneously...resulting in a 6 to 7 minute processing time for the entire 90 minutes.
 
 
 
-__Note:___ I'm just spit-balling code here, not making a user-friendly package. Don't think that the scripts/package organization is how I actually do things...(because normally I would do it in Ruby). I'm focused on making an automated workflow to create fun supercuts of "The Wire"...and will polish the scripts and implementation later.
+# Quick *nix check!
 
+Before you look at the scary Python framework I've built for myself, you should first if you can work with movie/audio files and connect to Watson, using nothing but Unix tools: ffmpeg, and good ol' curl: __[check out this brief walkthrough](examples/obama-shell/)__ 
 
-Before you look at the scary Python framework I've built for myself, you might as well see if you can work with movie/audio files and connect to Watson, using nothing but Unix tools, ffmpeg, and good ol' curl: check out this brief walkthrough: 
-
-[examples/obama-shell/](examples/obama-shell/)
 
 
 # Supercut fun
@@ -266,27 +284,40 @@ Here's a quick demonstration of Watson's accuracy given a weekly video address f
 (because President Obama's video address is just about 3 minutes long, only audio file is extracted, and only one call to Watson's API is made)
 
 
-Right now there's just a bunch of sloppy scripts that need to be refactored. There's a script named [go.py](go.py) that you can run from the command-line that will read an existing video file, create a project folder, cut up the audio, and do the transcriptions. It assumes that you have a file named `credsfile_watson.json` relative to `go.py`.
+Right now there's just a bunch of sloppy scripts that need to be refactored. There's a script named [init.py](init.py) that you can run from the command-line that will read an existing video file, create a project folder, cut up the audio, and do the transcriptions. It assumes that you have a file named `credsfile_watson.json` relative to `init.py`.
 
 
-Some code for the commandline, to download the file, then to run `go.py`:
+Some code for the commandline, to download the file, then to run `init.py`:
 
 ~~~sh
 curl -o "/tmp/obama-weekly-address-2015-10-31.mp4" \
   https://www.whitehouse.gov/WeeklyAddress/2015/103115-QREDSC/103115_WeeklyAddress.mp4
 
-python go.py /tmp/obama-weekly-address-2015-10-31.mp4
+python init.py /tmp/obama-weekly-address-2015-10-31.mp4
 ~~~
 
 
 
-The output produced by `go.py`:
+The output produced by `init.py`:
 
 ~~~
 [MoviePy] Writing audio in /Users/dtown/watson-word-watcher/projects/obama-weekly-address-2015-10-31/full-audio.wav
 [MoviePy] Done.                                                                                            
 [MoviePy] Writing audio in /Users/dtown/watson-word-watcher/projects/obama-weekly-address-2015-10-31/audio-segments/00000-00190.wav
-[MoviePy] Done.                                                                                            
+[MoviePy] Done.  
+~~~
+
+### Transcribe
+
+The biggest bottleneck is transcribing the audio. The transcribe.py script does all the transcription in one big go:
+
+~~~
+python transcribe.py projects/obama-weekly-address-2015-10-31
+~~~
+
+
+
+~~~                                                                                          
 Sending to Watson API:
    /Users/dtown/watson-word-watcher/projects/obama-weekly-address-2015-10-31/audio-segments/00000-00190.wav
 Transcribed:
@@ -296,15 +327,9 @@ Transcribed:
 
 And a quickie processing of the JSON transcript:
 
-~~~py
-import json
-FILENAME = './projects/obama-weekly-address-2015-10-31/transcripts/00000-00190.json'
-
-with open(FILENAME, 'r') as t:
-    data = json.loads(t.read())
-    for x in data['results']:
-        best_alt = x['alternatives'][0]
-        print(best_alt['transcript'])
+~~~sh
+python compile.py projects/obama-weekly-address-2015-10-31
+python rawtext.py projects/obama-weekly-address-2015-10-31
 ~~~
 
 The output:
