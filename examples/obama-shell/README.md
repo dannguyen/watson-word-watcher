@@ -230,17 +230,17 @@ through|7.8|8.01
 
 Here's an HTML-formatted version:
 
-|         |      |      |
-|---------|------|------|
-| there   | 5.85 | 5.97 |
-| were    | 5.97 | 6.06 |
-| many    | 6.06 | 6.28 |
-| causes  | 6.28 | 6.77 |
-| the     | 6.77 | 6.95 |
-| turmoil | 6.95 | 7.42 |
-| that    | 7.42 | 7.56 |
-| ripped  | 7.56 |  7.8 |
-| through |  7.8 | 8.01 |
+|   word  | start | end  |
+|---------|-------|------|
+| there   |  5.85 | 5.97 |
+| were    |  5.97 | 6.06 |
+| many    |  6.06 | 6.28 |
+| causes  |  6.28 | 6.77 |
+| the     |  6.77 | 6.95 |
+| turmoil |  6.95 | 7.42 |
+| that    |  7.42 | 7.56 |
+| ripped  |  7.56 |  7.8 |
+| through |   7.8 | 8.01 |
 
 The JSON data has been simplified so that each transcribed word occupies its own line. The text of the word is in the first column. The start and end time, in seconds, are in the second and third columns, respectively.
 
