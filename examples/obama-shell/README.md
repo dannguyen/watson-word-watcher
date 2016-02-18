@@ -230,6 +230,7 @@ through|7.8|8.01
 
 Here's an HTML-formatted version:
 
+|         |      |      |
 |---------|------|------|
 | there   | 5.85 | 5.97 |
 | were    | 5.97 | 6.06 |
