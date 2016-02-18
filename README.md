@@ -18,7 +18,7 @@ Here's a [YouTube playlist of some automated supercuts I've created from the U.S
 
 <a href="https://www.youtube.com/watch?v=VbXUUSFat9w&list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7&index=14"><img src="https://i.ytimg.com/vi/VbXUUSFat9w/maxresdefault.jpg"></a>
 
-Here's the [JSON returned from Watson](projects/dem-debate-2016-02-11-wisco/full-transcript.json), which includes word-by-word timestamps and confidence levels. Here's a simplified version of it, in which the [JSON is just a flat list of words](projects/dem-debate-2016-02-11-wisco/transcripts/words-transcript.json).
+Here's the [JSON returned from Watson](projects/dem-debate-2016-02-11-wisco/full-transcript.json), which includes word-by-word timestamps and confidence levels. Here's a simplified version of it, in which the [JSON is just a flat list of words](projects/dem-debate-2016-02-11-wisco/words-transcript.json).
 
 
 IBM Watson's API is robust enough to accept many concurrent requests. In the sample scripts I've included in this repo, I was able to break up a 90 minute debate into 5 minute segments and send them up to Watson simultaneously...resulting in a 6 to 7 minute processing time for the entire 90 minutes.
