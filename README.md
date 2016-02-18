@@ -14,6 +14,8 @@ IBM Watson offers a [REST-based Speech to Text API](https://www.ibm.com/smarterp
  
 In my preliminary tests, it's not quite as good as Google Translate in terms of pure accuracy, but it's more than good enough for finding key words, whether they be relatively common verbs like ["fight", "death", "kill"](https://www.youtube.com/watch?v=8H-kG-Vdkmo&list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7&index=4) or proper nouns, such as [Obama](https://www.youtube.com/watch?v=enoYQEQXLjs&list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7&index=2) and [countries of the world](https://www.youtube.com/watch?v=qJNUI_OW-kA&index=16&list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7).
 
+But it doesn't do too badly on very common (and aurally-ambiguous) short words such as [pronouns and articles](https://www.youtube.com/watch?v=nJA4xEjZPLU). Because Watson provides a __confidence__ level for each word, it's possible to write scripts to programmatically filter out ambiguous words.
+
 Here's a [YouTube playlist of some automated supercuts I've created from the U.S. presidential primary debates](https://www.youtube.com/playlist?list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7). My favorite is probably this [supercut of Senator Sanders and Secretary Clinton saying fighting words](https://www.youtube.com/watch?v=VbXUUSFat9w&list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7&index=14).
 
 <a href="https://www.youtube.com/watch?v=VbXUUSFat9w&list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7&index=14"><img src="https://i.ytimg.com/vi/VbXUUSFat9w/maxresdefault.jpg"></a>
