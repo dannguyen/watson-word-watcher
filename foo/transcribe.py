@@ -127,3 +127,95 @@ def extract_word_level_data(data):
                     words.append(word)
     return words
 
+
+
+
+
+# Much better...
+
+def parse_transcript(data):
+    """
+    data (dict): as derived from standard Watson API JSON
+
+    returns: two dicts of lists of dicts:
+    {
+        words: [],
+        lines: []
+    }
+
+
+    This is something that can be converted to CSV easily
+    {
+        'start': 1.00
+        'end': 3.00
+        'confidence': 0.77
+        'words': "Hello world"
+        'pregap': 0.5,
+        'postgap': 1.2
+    }
+    """
+    lines = []
+    words = []
+    prev_line_end = 0
+    line_results = data['results']
+    for linenum, result in enumerate(line_results): # each result is a  line
+        if result.get('alternatives'): # each result may have many alternatives
+            # just pick best alternative
+            lineobj = result.get('alternatives')[0]
+            # each line has timestamps per word
+            # filter out the HESITATIONs
+            word_timestamps = [o for o in lineobj['timestamps'] if o[0] != '%HESITATION']
+            if word_timestamps: # for some reason, timestamps can be empty in some cases
+                linewords = []
+                # confidence value per word is stored in its own list
+                word_confidences = [o for o in lineobj['word_confidence'] if o[0] != '%HESITATION']
+                prev_word_end = 0
+                for wordpos, txtobj in enumerate(word_timestamps):
+                    # we track the word's position in the line so that we can extract the
+                    # corresponding word confidence for the current word
+                    word = {}
+                    word["line_position"] = wordpos
+                    word["line_number"] = linenum
+                    word['confidence'] =  round(word_confidences[wordpos][1], 3)
+                    word["text"] = txtobj[0]
+                    word["start"] = txtobj[1]
+                    word["end"] = txtobj[2]
+                    word["audible_duration"] = round(word["end"] - word["start"], 2)
+                    # calculate delay until previous word
+                    word["pregap"] = round(word["start"] - prev_word_end, 2)
+                    # if word is not last in sentence
+                    # if wordpos < len(word_timestamps):
+                    #     nextword =  word_timestamps[wordpos]
+                    #     word["postgap"] = nextword[0] - word["end"]
+                    #     word["total_duration"] = (word["audible_duration"]
+                    #                                  + nextword["start"]
+                    # set the prev_word_end val to this end
+                    prev_word_end = word["end"]
+                    linewords.append(word)
+
+
+                line = {}
+                line['line_number'] = linenum
+                line['start'] = linewords[0]['start']
+                line['end'] = linewords[-1]['end']
+                line['text'] = " ".join([w['text'] for w in linewords])
+                line['audible_duration'] = round(line['end'] - line['start'], 2)
+                line['confidence'] = round(lineobj['confidence'], 3)
+                line['word_count'] = len(words)
+                # line["pregap"] = line["start"] - prev_line_end
+                # # if word is not last in sentence
+                # if line['line_number'] == 0:
+                #     line["pregap"] = line["start"]
+                # elif line['line_number'] < len(line_results):
+                #     prevline =  lines[line['line_number'] - 1]
+                #     line["pregap"] = line['start'] - prevline['end']
+                #     # set the previous line's duration
+                #     prevline['postgap'] = line['start'] - prevline['end']
+                #     prevline['total_duration'] = prevline['audible_duration'] + prevline['postgap'] + prevline['pregap']
+
+
+                lines.append(line)
+                words.extend(linewords)
+
+    return {'lines': lines, 'words': words}
+
