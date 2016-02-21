@@ -22,8 +22,13 @@ Here's a [YouTube playlist of some automated supercuts I've created from the U.S
 
 Here's the [JSON returned from Watson](projects/dem-debate-2016-02-11-wisco/full-transcript.json), which includes word-by-word timestamps and confidence levels. Here's a simplified version of it, in which the [JSON is just a flat list of words](projects/dem-debate-2016-02-11-wisco/words-transcript.json).
 
-
 IBM Watson's API is robust enough to accept many concurrent requests. In the sample scripts I've included in this repo, I was able to break up a 90 minute debate into 5 minute segments and send them up to Watson simultaneously...resulting in a 6 to 7 minute processing time for the entire 90 minutes.
+
+
+Some non-presidential examples:
+
+- Attempting to transcribe the profanities in [The Wire's "Old Cases" episode](https://github.com/dannguyen/watson-word-watcher/tree/master/examples/the-wire-season-1-ep-4) -- ([youtube supercut, obviously nsfw](https://www.youtube.com/watch?v=muP5aH1aWUw&feature=youtu.be))
+- Attempting to transcribe a [ProPublica podcast](https://gist.github.com/dannguyen/71d49ff62e9f9eb51ac6)
 
 
 
