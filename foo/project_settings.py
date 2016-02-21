@@ -9,8 +9,8 @@ PROJECTS_MAIN_DIR = join(".", "projects")
 FULL_AUDIO_BASENAME = 'full-audio.wav'
 FULL_VIDEO_BASENAME = 'full-video.mp4'
 FULL_TRANSCRIPT_BASENAME = 'full-transcript.json'
-LINES_TRANSCRIPT_BASENAME = 'lines-transcript.json'
-WORDS_TRANSCRIPT_BASENAME = 'words-transcript.json'
+LINES_TRANSCRIPT_BASENAME = 'lines-transcript.csv'
+WORDS_TRANSCRIPT_BASENAME = 'words-transcript.csv'
 WATSON_CREDS_FILENAME = "credsfile_watson.json"
 
 def get_watson_creds(fname=WATSON_CREDS_FILENAME):

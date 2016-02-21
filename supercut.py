@@ -1,14 +1,16 @@
 from foo.project_settings import *
 from foo.audio_video import excerpt_and_compile_video_file
 import sys
-import json
+# import json # DEPRECATED
+import csv
 import re
 
-MIN_CONFIDENCE = 0.4
+MIN_CONFIDENCE = 0.0
 
 """
 TODO
 refactor into separate CLI-subcommands
+CSV makes for bad numerical data...
 """
 
 
@@ -30,7 +32,7 @@ if __name__ == '__main__':
 
     """
     pslug, word_pattern = sys.argv[1:3]
-    is_dryrun = True if sys.argv[-1] == '--dry-run' else False
+    is_dryrun = True if not sys.argv[-1] == '--produce' else False
     if not does_project_exist(pslug):
         raise NameError(project_dir(pslug) + " does not exist")
     print("Extracting case-insensitive pattern:", word_pattern)
@@ -42,18 +44,18 @@ if __name__ == '__main__':
     re_pattern = re.compile(word_pattern, re.IGNORECASE)
     word_matches = []
     with open(words_transcript_path(pslug)) as f:
-        transcribed_words = json.load(f)
+        transcribed_words = list(csv.DictReader(f))
         for t_word in transcribed_words:
-            if re_pattern.search(t_word['text']) and t_word['confidence'] >= MIN_CONFIDENCE:
+            if re_pattern.search(t_word['text']) and float(t_word['confidence']) >= MIN_CONFIDENCE:
                 word_matches.append(t_word)
 
     timestamps = []
     for n, word in enumerate(word_matches):
         print("\t", str(n) + ':',  word['text'], word['confidence'], word['start'], word['end'])
-        timestamps.append((word['start'], word['end']))
+        timestamps.append((float(word['start']), float(word['end'])))
 
     if is_dryrun:
-        print("...just a dry run...")
+        print("...just a dry run...Use: --produce to create the video file")
     else:
         excerpt_and_compile_video_file(
             src_path=full_video_path(pslug),
