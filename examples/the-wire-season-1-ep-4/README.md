@@ -1,10 +1,10 @@
 # Watson's transcription performance on The Wire Season 1 Episode 4 "Old Cases"
 
-Sadly, Watson may not be up to doing supercuts of the vivid dialogue found in The Wire. For example, "Old Cases", [the first season's 4th episode](https://en.wikipedia.org/wiki/Old_Cases), is famous for having a scene in which [two detectives successfully investigate a murder scene while communicating almost exclusively with the word "fuck"](https://www.youtube.com/watch?v=1lElf7D-An8).
+Sadly, while Watson does a [decent job with presidential debates](https://www.youtube.com/watch?v=K41miubs1eE&list=PLLrlUAN-LoO73FrSa6yn8gsPpi7J9TJb7&index=1), it may not be up to doing supercuts of the vivid dialogue found in The Wire. For example, "Old Cases", [the first season's 4th episode](https://en.wikipedia.org/wiki/Old_Cases), is famous for having a scene in which [two detectives successfully investigate a murder scene while communicating almost exclusively with the word "fuck"](https://www.youtube.com/watch?v=1lElf7D-An8).
 
 Running Watson's speech-to-text API on the entire episode yields only __59 profanities__. I've uploaded the [result to YouTube](https://youtu.be/muP5aH1aWUw):
 
-[https://youtu.be/muP5aH1aWUw](https://youtu.be/muP5aH1aWUw)
+__[https://youtu.be/muP5aH1aWUw](https://youtu.be/muP5aH1aWUw)__
 
 
 There's a couple of problems that arise:
