@@ -12,10 +12,10 @@ At a quick glance, the transcription seems almost perfect. However, it doesn't q
 
 > it's the best of the best until now you can only enjoy __stakes__ of this quality in one of my resort restaurants or America's finest __steak__ houses
 
-Check out the [projects/trump-steaks](projects/trump-steaks) folder for the data files, including:
+Check out the [projects/trump-steaks](https://github.com/dannguyen/watson-word-watcher/blob/master/projects/trump-steaks/) folder for the data files, including:
 
-- [Full JSON response from Watson Speech-to-Text](projects/trump-steaks/full-transcript.json)
-- [Word level transcription as CSV](projects/trump-steaks/words-transcript.csv)
+- [Full JSON response from Watson Speech-to-Text](https://github.com/dannguyen/watson-word-watcher/blob/master/projects/trump-steaks/full-transcript.json)
+- [Word level transcription as CSV](https://github.com/dannguyen/watson-word-watcher/blob/master/projects/trump-steaks/words-transcript.csv)
 
 
 Here's the raw text of Watson's transcribed output:
