@@ -1,6 +1,10 @@
 # Trump Steaks commercial 
 
-The Watson Speech to Text API does pretty well on the 90-second Trump Steaks commercial, [which can be viewed here on YouTube](https://www.youtube.com/watch?v=LyONt_ZH_aw). Trump enunciates all of his words clearly, and Watson even is able to accurately disambiguate the homophone in the first phrase by recognizing the idiom:
+The Watson Speech to Text API does pretty well on the 90-second Trump Steaks commercial, [which can be viewed here on YouTube](https://www.youtube.com/watch?v=LyONt_ZH_aw). 
+
+<a href="https://www.youtube.com/watch?v=LyONt_ZH_aw"><img src="https://i.ytimg.com/vi/LyONt_ZH_aw/hqdefault.jpg" alt="youtube still"></a>
+
+Trump enunciates all of his words clearly, and Watson even is able to accurately disambiguate the homophone in the first phrase by recognizing the idiom:
 
 > when it comes to great __steaks__ I just raise the __stakes__
 
