@@ -15,7 +15,7 @@ At a quick glance, the transcription seems almost perfect. However, it doesn't q
 Check out the [projects/trump-steaks](projects/trump-steaks) folder for the data files, including:
 
 - [Full JSON response from Watson Speech-to-Text](projects/trump-steaks/full-transcript.json)
-- [Word level transcription as CSV](projects/trump-steaks/words-transcripts.csv)
+- [Word level transcription as CSV](projects/trump-steaks/words-transcript.csv)
 
 
 Here's the raw text of Watson's transcribed output:
