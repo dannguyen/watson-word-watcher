@@ -1,0 +1,4477 @@
+{
+    "result_index": 0,
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.929,
+                    "timestamps": [
+                        [
+                            "when",
+                            3.35,
+                            3.51
+                        ],
+                        [
+                            "it",
+                            3.51,
+                            3.6
+                        ],
+                        [
+                            "comes",
+                            3.6,
+                            3.91
+                        ],
+                        [
+                            "to",
+                            3.91,
+                            4.01
+                        ],
+                        [
+                            "great",
+                            4.01,
+                            4.35
+                        ],
+                        [
+                            "steaks",
+                            4.35,
+                            4.98
+                        ],
+                        [
+                            "I",
+                            5.2,
+                            5.56
+                        ],
+                        [
+                            "just",
+                            5.56,
+                            6.12
+                        ],
+                        [
+                            "raise",
+                            6.12,
+                            6.55
+                        ],
+                        [
+                            "the",
+                            6.55,
+                            6.69
+                        ],
+                        [
+                            "stakes",
+                            6.69,
+                            7.33
+                        ],
+                        [
+                            "the",
+                            7.59,
+                            7.71
+                        ],
+                        [
+                            "sharper",
+                            7.71,
+                            8.25
+                        ],
+                        [
+                            "image",
+                            8.25,
+                            8.58
+                        ],
+                        [
+                            "is",
+                            8.58,
+                            8.71
+                        ],
+                        [
+                            "one",
+                            8.71,
+                            8.92
+                        ],
+                        [
+                            "of",
+                            8.92,
+                            8.99
+                        ],
+                        [
+                            "my",
+                            8.99,
+                            9.15
+                        ],
+                        [
+                            "favorite",
+                            9.15,
+                            9.68
+                        ],
+                        [
+                            "stores",
+                            9.68,
+                            10.33
+                        ],
+                        [
+                            "with",
+                            10.45,
+                            10.78
+                        ],
+                        [
+                            "fantastic",
+                            10.78,
+                            11.77
+                        ],
+                        [
+                            "products",
+                            11.77,
+                            12.23
+                        ],
+                        [
+                            "of",
+                            12.23,
+                            12.42
+                        ],
+                        [
+                            "all",
+                            12.42,
+                            12.68
+                        ],
+                        [
+                            "kinds",
+                            12.68,
+                            13.37
+                        ],
+                        [
+                            "that's",
+                            13.57,
+                            13.94
+                        ],
+                        [
+                            "why",
+                            13.94,
+                            14.21
+                        ],
+                        [
+                            "I'm",
+                            14.21,
+                            14.59
+                        ],
+                        [
+                            "thrilled",
+                            14.59,
+                            15.1
+                        ],
+                        [
+                            "they",
+                            15.1,
+                            15.29
+                        ],
+                        [
+                            "agree",
+                            15.29,
+                            15.58
+                        ],
+                        [
+                            "with",
+                            15.58,
+                            15.83
+                        ],
+                        [
+                            "me",
+                            15.83,
+                            16.27
+                        ],
+                        [
+                            "trump",
+                            16.55,
+                            16.93
+                        ],
+                        [
+                            "steaks",
+                            16.93,
+                            17.48
+                        ],
+                        [
+                            "are",
+                            17.48,
+                            17.54
+                        ],
+                        [
+                            "the",
+                            17.54,
+                            17.63
+                        ],
+                        [
+                            "world's",
+                            17.63,
+                            18.03
+                        ],
+                        [
+                            "greatest",
+                            18.03,
+                            18.53
+                        ],
+                        [
+                            "steaks",
+                            18.53,
+                            18.93
+                        ],
+                        [
+                            "and",
+                            18.93,
+                            19.07
+                        ],
+                        [
+                            "I",
+                            19.07,
+                            19.17
+                        ],
+                        [
+                            "mean",
+                            19.17,
+                            19.47
+                        ],
+                        [
+                            "that",
+                            19.47,
+                            19.74
+                        ],
+                        [
+                            "in",
+                            19.74,
+                            19.93
+                        ],
+                        [
+                            "every",
+                            19.96,
+                            20.35
+                        ],
+                        [
+                            "sense",
+                            20.35,
+                            20.77
+                        ],
+                        [
+                            "of",
+                            20.77,
+                            20.87
+                        ],
+                        [
+                            "the",
+                            20.87,
+                            20.94
+                        ],
+                        [
+                            "word",
+                            20.94,
+                            21.41
+                        ],
+                        [
+                            "and",
+                            21.75,
+                            21.92
+                        ],
+                        [
+                            "the",
+                            21.92,
+                            22.01
+                        ],
+                        [
+                            "sharper",
+                            22.01,
+                            22.64
+                        ],
+                        [
+                            "image",
+                            22.64,
+                            23.03
+                        ],
+                        [
+                            "is",
+                            23.03,
+                            23.22
+                        ],
+                        [
+                            "the",
+                            23.22,
+                            23.4
+                        ],
+                        [
+                            "only",
+                            23.4,
+                            23.93
+                        ],
+                        [
+                            "store",
+                            23.93,
+                            24.41
+                        ],
+                        [
+                            "where",
+                            24.41,
+                            24.58
+                        ],
+                        [
+                            "you",
+                            24.58,
+                            24.76
+                        ],
+                        [
+                            "can",
+                            24.76,
+                            24.97
+                        ],
+                        [
+                            "buy",
+                            24.97,
+                            25.3
+                        ],
+                        [
+                            "them",
+                            25.3,
+                            25.59
+                        ]
+                    ],
+                    "transcript": "when it comes to great steaks I just raise the stakes the sharper image is one of my favorite stores with fantastic products of all kinds that's why I'm thrilled they agree with me trump steaks are the world's greatest steaks and I mean that in every sense of the word and the sharper image is the only store where you can buy them ",
+                    "word_confidence": [
+                        [
+                            "when",
+                            0.58784616674539
+                        ],
+                        [
+                            "it",
+                            0.8824904803382789
+                        ],
+                        [
+                            "comes",
+                            1.0
+                        ],
+                        [
+                            "to",
+                            1.0
+                        ],
+                        [
+                            "great",
+                            0.7582974811902369
+                        ],
+                        [
+                            "steaks",
+                            0.998257196017863
+                        ],
+                        [
+                            "I",
+                            0.4769600071868333
+                        ],
+                        [
+                            "just",
+                            0.524322444324257
+                        ],
+                        [
+                            "raise",
+                            0.9900557439216143
+                        ],
+                        [
+                            "the",
+                            1.0
+                        ],
+                        [
+                            "stakes",
+                            1.0
+                        ],
+                        [
+                            "the",
+                            0.7370427510540508
+                        ],
+                        [
+                            "sharper",
+                            0.9905085722643102
+                        ],
+                        [
+                            "image",
+                            0.6095303011794211
+                        ],
+                        [
+                            "is",
+                            0.4879035907843632
+                        ],
+                        [
+                            "one",
+                            1.0
+                        ],
+                        [
+                            "of",
+                            1.0
+                        ],
+                        [
+                            "my",
+                            1.0
+                        ],
+                        [
+                            "favorite",
+                            1.0
+                        ],
+                        [
+                            "stores",
+                            1.0
+                        ],
+                        [
+                            "with",
+                            0.9954187921677344
+                        ],
+                        [
+                            "fantastic",
+                            0.9934334019412417
+                        ],
+                        [
+                            "products",
+                            0.9962202881426054
+                        ],
+                        [
+                            "of",
+                            1.0
+                        ],
+                        [
+                            "all",
+                            1.0
+                        ],
+                        [
+                            "kinds",
+                            1.0
+                        ],
+                        [
+                            "that's",
+                            1.0
+                        ],
+                        [
+                            "why",
+                            1.0
+                        ],
+                        [
+                            "I'm",
+                            1.0
+                        ],
+                        [
+                            "thrilled",
+                            1.0
+                        ],
+                        [
+                            "they",
+                            1.0
+                        ],
+                        [
+                            "agree",
+                            0.8916671759733189
+                        ],
+                        [
+                            "with",
+                            0.978333435194757
+                        ],
+                        [
+                            "me",
+                            1.0
+                        ],
+                        [
+                            "trump",
+                            0.44565392792899566
+                        ],
+                        [
+                            "steaks",
+                            0.9307505560725944
+                        ],
+                        [
+                            "are",
+                            0.25292524274313233
+                        ],
+                        [
+                            "the",
+                            0.8804448063749228
+                        ],
+                        [
+                            "world's",
+                            1.0
+                        ],
+                        [
+                            "greatest",
+                            1.0
+                        ],
+                        [
+                            "steaks",
+                            0.7331744591855355
+                        ],
+                        [
+                            "and",
+                            1.0
+                        ],
+                        [
+                            "I",
+                            1.0
+                        ],
+                        [
+                            "mean",
+                            1.0
+                        ],
+                        [
+                            "that",
+                            1.0
+                        ],
+                        [
+                            "in",
+                            1.0
+                        ],
+                        [
+                            "every",
+                            1.0
+                        ],
+                        [
+                            "sense",
+                            1.0
+                        ],
+                        [
+                            "of",
+                            1.0
+                        ],
+                        [
+                            "the",
+                            1.0
+                        ],
+                        [
+                            "word",
+                            0.9933752771408594
+                        ],
+                        [
+                            "and",
+                            0.8639447966669594
+                        ],
+                        [
+                            "the",
+                            0.5601416832161848
+                        ],
+                        [
+                            "sharper",
+                            0.8781753004928134
+                        ],
+                        [
+                            "image",
+                            1.0
+                        ],
+                        [
+                            "is",
+                            0.9170413066278497
+                        ],
+                        [
+                            "the",
+                            1.0
+                        ],
+                        [
+                            "only",
+                            1.0
+                        ],
+                        [
+                            "store",
+                            0.9999999999999672
+                        ],
+                        [
+                            "where",
+                            1.0
+                        ],
+                        [
+                            "you",
+                            1.0
+                        ],
+                        [
+                            "can",
+                            1.0
+                        ],
+                        [
+                            "buy",
+                            1.0
+                        ],
+                        [
+                            "them",
+                            0.9900940907259275
+                        ]
+                    ]
+                }
+            ],
+            "word_alternatives": [
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9507,
+                            "word": "when"
+                        }
+                    ],
+                    "end_time": 3.51,
+                    "start_time": 3.35
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9507,
+                            "word": "it"
+                        }
+                    ],
+                    "end_time": 3.6,
+                    "start_time": 3.51
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9507,
+                            "word": "comes"
+                        }
+                    ],
+                    "end_time": 3.91,
+                    "start_time": 3.6
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9509,
+                            "word": "to"
+                        }
+                    ],
+                    "end_time": 4.01,
+                    "start_time": 3.91
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.8957,
+                            "word": "great"
+                        }
+                    ],
+                    "end_time": 4.35,
+                    "start_time": 4.01
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.7411,
+                            "word": "steaks"
+                        }
+                    ],
+                    "end_time": 4.98,
+                    "start_time": 4.35
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.5183,
+                            "word": "the"
+                        }
+                    ],
+                    "end_time": 6.69,
+                    "start_time": 6.55
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.842,
+                            "word": "stakes"
+                        }
+                    ],
+                    "end_time": 7.33,
+                    "start_time": 6.69
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.913,
+                            "word": "is"
+                        }
+                    ],
+                    "end_time": 8.71,
+                    "start_time": 8.58
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.929,
+                            "word": "one"
+                        }
+                    ],
+                    "end_time": 8.92,
+                    "start_time": 8.71
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9293,
+                            "word": "of"
+                        }
+                    ],
+                    "end_time": 8.99,
+                    "start_time": 8.92
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.929,
+                            "word": "my"
+                        }
+                    ],
+                    "end_time": 9.15,
+                    "start_time": 8.99
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 1.0,
+                            "word": "favorite"
+                        }
+                    ],
+                    "end_time": 9.68,
+                    "start_time": 9.15
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.7605,
+                            "word": "stores"
+                        }
+                    ],
+                    "end_time": 10.33,
+                    "start_time": 9.68
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.6947,
+                            "word": "products"
+                        }
+                    ],
+                    "end_time": 12.23,
+                    "start_time": 11.77
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9783,
+                            "word": "of"
+                        }
+                    ],
+                    "end_time": 12.42,
+                    "start_time": 12.23
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9844,
+                            "word": "all"
+                        }
+                    ],
+                    "end_time": 12.68,
+                    "start_time": 12.42
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9997,
+                            "word": "kinds"
+                        }
+                    ],
+                    "end_time": 13.37,
+                    "start_time": 12.68
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9936,
+                            "word": "that's"
+                        }
+                    ],
+                    "end_time": 13.94,
+                    "start_time": 13.57
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9933,
+                            "word": "why"
+                        }
+                    ],
+                    "end_time": 14.21,
+                    "start_time": 13.94
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9936,
+                            "word": "I'm"
+                        }
+                    ],
+                    "end_time": 14.59,
+                    "start_time": 14.21
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9999,
+                            "word": "thrilled"
+                        }
+                    ],
+                    "end_time": 15.1,
+                    "start_time": 14.59
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9997,
+                            "word": "they"
+                        }
+                    ],
+                    "end_time": 15.29,
+                    "start_time": 15.1
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9958,
+                            "word": "agree"
+                        }
+                    ],
+                    "end_time": 15.58,
+                    "start_time": 15.29
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9956,
+                            "word": "with"
+                        }
+                    ],
+                    "end_time": 15.83,
+                    "start_time": 15.58
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9956,
+                            "word": "me"
+                        }
+                    ],
+                    "end_time": 16.27,
+                    "start_time": 15.83
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.8398,
+                            "word": "trump"
+                        }
+                    ],
+                    "end_time": 16.93,
+                    "start_time": 16.55
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.5357,
+                            "word": "greatest"
+                        }
+                    ],
+                    "end_time": 18.53,
+                    "start_time": 18.03
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.5693,
+                            "word": "steaks"
+                        }
+                    ],
+                    "end_time": 18.93,
+                    "start_time": 18.53
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.5694,
+                            "word": "and"
+                        }
+                    ],
+                    "end_time": 19.07,
+                    "start_time": 18.93
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.5906,
+                            "word": "I"
+                        }
+                    ],
+                    "end_time": 19.17,
+                    "start_time": 19.07
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.5906,
+                            "word": "mean"
+                        }
+                    ],
+                    "end_time": 19.47,
+                    "start_time": 19.17
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9999,
+                            "word": "that"
+                        }
+                    ],
+                    "end_time": 19.74,
+                    "start_time": 19.47
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 1.0,
+                            "word": "in"
+                        }
+                    ],
+                    "end_time": 19.93,
+                    "start_time": 19.74
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9998,
+                            "word": "every"
+                        }
+                    ],
+                    "end_time": 20.35,
+                    "start_time": 19.96
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 1.0,
+                            "word": "sense"
+                        }
+                    ],
+                    "end_time": 20.77,
+                    "start_time": 20.35
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9999,
+                            "word": "of"
+                        }
+                    ],
+                    "end_time": 20.87,
+                    "start_time": 20.77
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9999,
+                            "word": "the"
+                        }
+                    ],
+                    "end_time": 20.94,
+                    "start_time": 20.87
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9989,
+                            "word": "word"
+                        }
+                    ],
+                    "end_time": 21.41,
+                    "start_time": 20.94
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.8092,
+                            "word": "and"
+                        }
+                    ],
+                    "end_time": 21.92,
+                    "start_time": 21.75
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.802,
+                            "word": "the"
+                        }
+                    ],
+                    "end_time": 22.01,
+                    "start_time": 21.92
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.7983,
+                            "word": "sharper"
+                        }
+                    ],
+                    "end_time": 22.64,
+                    "start_time": 22.01
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.8795,
+                            "word": "image"
+                        }
+                    ],
+                    "end_time": 23.03,
+                    "start_time": 22.64
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.8795,
+                            "word": "is"
+                        }
+                    ],
+                    "end_time": 23.22,
+                    "start_time": 23.03
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9358,
+                            "word": "the"
+                        }
+                    ],
+                    "end_time": 23.4,
+                    "start_time": 23.22
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9436,
+                            "word": "only"
+                        }
+                    ],
+                    "end_time": 23.93,
+                    "start_time": 23.4
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9998,
+                            "word": "store"
+                        }
+                    ],
+                    "end_time": 24.41,
+                    "start_time": 23.93
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9999,
+                            "word": "where"
+                        }
+                    ],
+                    "end_time": 24.58,
+                    "start_time": 24.41
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9998,
+                            "word": "you"
+                        }
+                    ],
+                    "end_time": 24.76,
+                    "start_time": 24.58
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9999,
+                            "word": "can"
+                        }
+                    ],
+                    "end_time": 24.97,
+                    "start_time": 24.76
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9998,
+                            "word": "buy"
+                        }
+                    ],
+                    "end_time": 25.3,
+                    "start_time": 24.97
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.7634,
+                            "word": "them"
+                        }
+                    ],
+                    "end_time": 25.59,
+                    "start_time": 25.3
+                }
+            ],
+            "final": true
+        },
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.978,
+                    "timestamps": [
+                        [
+                            "trump",
+                            26.17,
+                            26.42
+                        ],
+                        [
+                            "steaks",
+                            26.42,
+                            26.83
+                        ],
+                        [
+                            "are",
+                            26.83,
+                            26.9
+                        ],
+                        [
+                            "by",
+                            26.9,
+                            27.07
+                        ],
+                        [
+                            "far",
+                            27.07,
+                            27.45
+                        ],
+                        [
+                            "the",
+                            27.45,
+                            27.57
+                        ],
+                        [
+                            "best",
+                            27.57,
+                            27.92
+                        ],
+                        [
+                            "tasting",
+                            27.92,
+                            28.39
+                        ],
+                        [
+                            "most",
+                            28.39,
+                            28.68
+                        ],
+                        [
+                            "flavorful",
+                            28.68,
+                            29.31
+                        ],
+                        [
+                            "beef",
+                            29.31,
+                            29.63
+                        ],
+                        [
+                            "you've",
+                            29.63,
+                            29.87
+                        ],
+                        [
+                            "ever",
+                            29.9,
+                            30.23
+                        ],
+                        [
+                            "had",
+                            30.23,
+                            30.67
+                        ],
+                        [
+                            "truly",
+                            30.9,
+                            31.49
+                        ],
+                        [
+                            "in",
+                            31.49,
+                            31.59
+                        ],
+                        [
+                            "a",
+                            31.59,
+                            31.65
+                        ],
+                        [
+                            "league",
+                            31.65,
+                            31.95
+                        ],
+                        [
+                            "of",
+                            31.95,
+                            32.07
+                        ],
+                        [
+                            "their",
+                            32.07,
+                            32.3
+                        ],
+                        [
+                            "own",
+                            32.3,
+                            32.58
+                        ]
+                    ],
+                    "transcript": "trump steaks are by far the best tasting most flavorful beef you've ever had truly in a league of their own ",
+                    "word_confidence": [
+                        [
+                            "trump",
+                            0.7619744471372136
+                        ],
+                        [
+                            "steaks",
+                            0.9651669922639525
+                        ],
+                        [
+                            "are",
+                            0.7112441072622744
+                        ],
+                        [
+                            "by",
+                            0.9621981084994067
+                        ],
+                        [
+                            "far",
+                            0.9999999999999205
+                        ],
+                        [
+                            "the",
+                            0.9999999999999344
+                        ],
+                        [
+                            "best",
+                            0.9999999999999346
+                        ],
+                        [
+                            "tasting",
+                            0.9999999999999669
+                        ],
+                        [
+                            "most",
+                            0.9999999999999348
+                        ],
+                        [
+                            "flavorful",
+                            0.9999999999999348
+                        ],
+                        [
+                            "beef",
+                            0.9999999999999346
+                        ],
+                        [
+                            "you've",
+                            0.9517336464476919
+                        ],
+                        [
+                            "ever",
+                            0.9999999999999457
+                        ],
+                        [
+                            "had",
+                            0.9917806514670112
+                        ],
+                        [
+                            "truly",
+                            0.999999999999966
+                        ],
+                        [
+                            "in",
+                            0.8477783051256187
+                        ],
+                        [
+                            "a",
+                            1.0
+                        ],
+                        [
+                            "league",
+                            1.0
+                        ],
+                        [
+                            "of",
+                            1.0
+                        ],
+                        [
+                            "their",
+                            0.9999999999999755
+                        ],
+                        [
+                            "own",
+                            0.9945212568895115
+                        ]
+                    ]
+                }
+            ],
+            "word_alternatives": [
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9712,
+                            "word": "trump"
+                        }
+                    ],
+                    "end_time": 26.42,
+                    "start_time": 26.17
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.5834,
+                            "word": "steaks"
+                        }
+                    ],
+                    "end_time": 26.83,
+                    "start_time": 26.42
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.5835,
+                            "word": "are"
+                        }
+                    ],
+                    "end_time": 26.9,
+                    "start_time": 26.83
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.5835,
+                            "word": "by"
+                        }
+                    ],
+                    "end_time": 27.07,
+                    "start_time": 26.9
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.5938,
+                            "word": "far"
+                        }
+                    ],
+                    "end_time": 27.45,
+                    "start_time": 27.07
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9715,
+                            "word": "the"
+                        }
+                    ],
+                    "end_time": 27.57,
+                    "start_time": 27.45
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9999,
+                            "word": "best"
+                        }
+                    ],
+                    "end_time": 27.92,
+                    "start_time": 27.57
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 1.0,
+                            "word": "tasting"
+                        }
+                    ],
+                    "end_time": 28.39,
+                    "start_time": 27.92
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 1.0,
+                            "word": "most"
+                        }
+                    ],
+                    "end_time": 28.68,
+                    "start_time": 28.39
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9999,
+                            "word": "flavorful"
+                        }
+                    ],
+                    "end_time": 29.31,
+                    "start_time": 28.68
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9999,
+                            "word": "beef"
+                        }
+                    ],
+                    "end_time": 29.63,
+                    "start_time": 29.31
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9992,
+                            "word": "you've"
+                        }
+                    ],
+                    "end_time": 29.87,
+                    "start_time": 29.63
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9993,
+                            "word": "ever"
+                        }
+                    ],
+                    "end_time": 30.23,
+                    "start_time": 29.9
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9952,
+                            "word": "had"
+                        }
+                    ],
+                    "end_time": 30.67,
+                    "start_time": 30.23
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.8529,
+                            "word": "truly"
+                        }
+                    ],
+                    "end_time": 31.49,
+                    "start_time": 30.9
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.8529,
+                            "word": "in"
+                        }
+                    ],
+                    "end_time": 31.59,
+                    "start_time": 31.49
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.8643,
+                            "word": "a"
+                        }
+                    ],
+                    "end_time": 31.65,
+                    "start_time": 31.59
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9877,
+                            "word": "league"
+                        }
+                    ],
+                    "end_time": 31.95,
+                    "start_time": 31.65
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9946,
+                            "word": "of"
+                        }
+                    ],
+                    "end_time": 32.07,
+                    "start_time": 31.95
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 1.0,
+                            "word": "their"
+                        }
+                    ],
+                    "end_time": 32.3,
+                    "start_time": 32.07
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9901,
+                            "word": "own"
+                        }
+                    ],
+                    "end_time": 32.58,
+                    "start_time": 32.3
+                }
+            ],
+            "final": true
+        },
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.958,
+                    "timestamps": [
+                        [
+                            "trump",
+                            33.08,
+                            33.42
+                        ],
+                        [
+                            "steaks",
+                            33.42,
+                            33.86
+                        ],
+                        [
+                            "are",
+                            33.86,
+                            33.97
+                        ],
+                        [
+                            "five",
+                            33.97,
+                            34.39
+                        ],
+                        [
+                            "star",
+                            34.39,
+                            34.74
+                        ],
+                        [
+                            "gourmet",
+                            34.74,
+                            35.43
+                        ],
+                        [
+                            "quality",
+                            35.64,
+                            36.28
+                        ],
+                        [
+                            "that",
+                            36.28,
+                            36.53
+                        ],
+                        [
+                            "belong",
+                            36.53,
+                            36.94
+                        ],
+                        [
+                            "in",
+                            36.94,
+                            37.02
+                        ],
+                        [
+                            "a",
+                            37.02,
+                            37.08
+                        ],
+                        [
+                            "very",
+                            37.08,
+                            37.63
+                        ],
+                        [
+                            "very",
+                            37.63,
+                            38.01
+                        ],
+                        [
+                            "select",
+                            38.01,
+                            38.44
+                        ],
+                        [
+                            "category",
+                            38.44,
+                            39.11
+                        ],
+                        [
+                            "of",
+                            39.11,
+                            39.23
+                        ],
+                        [
+                            "restaurant",
+                            39.23,
+                            39.97
+                        ],
+                        [
+                            "and",
+                            40.19,
+                            40.36
+                        ],
+                        [
+                            "are",
+                            40.36,
+                            40.47
+                        ],
+                        [
+                            "certified",
+                            40.47,
+                            41.31
+                        ],
+                        [
+                            "Angus",
+                            41.34,
+                            42.01
+                        ],
+                        [
+                            "beef",
+                            42.01,
+                            42.39
+                        ],
+                        [
+                            "prime",
+                            42.39,
+                            42.97
+                        ],
+                        [
+                            "there's",
+                            43.12,
+                            43.4
+                        ],
+                        [
+                            "nothing",
+                            43.4,
+                            43.82
+                        ],
+                        [
+                            "better",
+                            43.82,
+                            44.11
+                        ],
+                        [
+                            "than",
+                            44.11,
+                            44.32
+                        ],
+                        [
+                            "that",
+                            44.32,
+                            44.69
+                        ]
+                    ],
+                    "transcript": "trump steaks are five star gourmet quality that belong in a very very select category of restaurant and are certified Angus beef prime there's nothing better than that ",
+                    "word_confidence": [
+                        [
+                            "trump",
+                            0.5720676649949816
+                        ],
+                        [
+                            "steaks",
+                            0.9561087850574179
+                        ],
+                        [
+                            "are",
+                            0.5440293321207311
+                        ],
+                        [
+                            "five",
+                            1.0
+                        ],
+                        [
+                            "star",
+                            1.0
+                        ],
+                        [
+                            "gourmet",
+                            1.0
+                        ],
+                        [
+                            "quality",
+                            1.0
+                        ],
+                        [
+                            "that",
+                            1.0
+                        ],
+                        [
+                            "belong",
+                            0.6451795947040312
+                        ],
+                        [
+                            "in",
+                            0.955647449338299
+                        ],
+                        [
+                            "a",
+                            1.0
+                        ],
+                        [
+                            "very",
+                            1.0
+                        ],
+                        [
+                            "very",
+                            1.0
+                        ],
+                        [
+                            "select",
+                            1.0
+                        ],
+                        [
+                            "category",
+                            1.0
+                        ],
+                        [
+                            "of",
+                            1.0
+                        ],
+                        [
+                            "restaurant",
+                            0.9981250607240632
+                        ],
+                        [
+                            "and",
+                            0.8750604120745178
+                        ],
+                        [
+                            "are",
+                            0.8990339567006308
+                        ],
+                        [
+                            "certified",
+                            1.0
+                        ],
+                        [
+                            "Angus",
+                            1.0
+                        ],
+                        [
+                            "beef",
+                            0.9766571206727832
+                        ],
+                        [
+                            "prime",
+                            0.9650969670382097
+                        ],
+                        [
+                            "there's",
+                            0.8970647944676159
+                        ],
+                        [
+                            "nothing",
+                            1.0
+                        ],
+                        [
+                            "better",
+                            1.0
+                        ],
+                        [
+                            "than",
+                            1.0
+                        ],
+                        [
+                            "that",
+                            0.9904918037957778
+                        ]
+                    ]
+                }
+            ],
+            "word_alternatives": [
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.7228,
+                            "word": "trump"
+                        }
+                    ],
+                    "end_time": 33.42,
+                    "start_time": 33.08
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.7757,
+                            "word": "gourmet"
+                        }
+                    ],
+                    "end_time": 35.43,
+                    "start_time": 34.74
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.928,
+                            "word": "quality"
+                        }
+                    ],
+                    "end_time": 36.28,
+                    "start_time": 35.64
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.928,
+                            "word": "that"
+                        }
+                    ],
+                    "end_time": 36.53,
+                    "start_time": 36.28
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9031,
+                            "word": "belong"
+                        }
+                    ],
+                    "end_time": 36.94,
+                    "start_time": 36.53
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9732,
+                            "word": "in"
+                        }
+                    ],
+                    "end_time": 37.02,
+                    "start_time": 36.94
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9732,
+                            "word": "a"
+                        }
+                    ],
+                    "end_time": 37.08,
+                    "start_time": 37.02
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9732,
+                            "word": "very"
+                        }
+                    ],
+                    "end_time": 37.63,
+                    "start_time": 37.08
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 1.0,
+                            "word": "very"
+                        }
+                    ],
+                    "end_time": 38.01,
+                    "start_time": 37.63
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9999,
+                            "word": "select"
+                        }
+                    ],
+                    "end_time": 38.44,
+                    "start_time": 38.01
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 1.0,
+                            "word": "category"
+                        }
+                    ],
+                    "end_time": 39.11,
+                    "start_time": 38.44
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 1.0,
+                            "word": "of"
+                        }
+                    ],
+                    "end_time": 39.23,
+                    "start_time": 39.11
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9996,
+                            "word": "restaurant"
+                        }
+                    ],
+                    "end_time": 39.97,
+                    "start_time": 39.23
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.7517,
+                            "word": "and"
+                        }
+                    ],
+                    "end_time": 40.36,
+                    "start_time": 40.19
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.5916,
+                            "word": "Angus"
+                        }
+                    ],
+                    "end_time": 42.01,
+                    "start_time": 41.34
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.6789,
+                            "word": "prime"
+                        }
+                    ],
+                    "end_time": 42.97,
+                    "start_time": 42.39
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.995,
+                            "word": "than"
+                        }
+                    ],
+                    "end_time": 44.32,
+                    "start_time": 44.11
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.6692,
+                            "word": "that"
+                        }
+                    ],
+                    "end_time": 44.69,
+                    "start_time": 44.32
+                }
+            ],
+            "final": true
+        },
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.97,
+                    "timestamps": [
+                        [
+                            "of",
+                            45.27,
+                            45.36
+                        ],
+                        [
+                            "all",
+                            45.36,
+                            45.58
+                        ],
+                        [
+                            "of",
+                            45.58,
+                            45.67
+                        ],
+                        [
+                            "the",
+                            45.67,
+                            45.76
+                        ],
+                        [
+                            "beef",
+                            45.76,
+                            46.06
+                        ],
+                        [
+                            "produced",
+                            46.06,
+                            46.56
+                        ],
+                        [
+                            "in",
+                            46.56,
+                            46.65
+                        ],
+                        [
+                            "America",
+                            46.65,
+                            47.4
+                        ],
+                        [
+                            "less",
+                            47.52,
+                            47.92
+                        ],
+                        [
+                            "than",
+                            47.92,
+                            48.15
+                        ],
+                        [
+                            "one",
+                            48.15,
+                            48.55
+                        ],
+                        [
+                            "percent",
+                            48.55,
+                            49.16
+                        ],
+                        [
+                            "qualifies",
+                            49.16,
+                            49.93
+                        ],
+                        [
+                            "for",
+                            49.93,
+                            50.06
+                        ],
+                        [
+                            "that",
+                            50.06,
+                            50.34
+                        ],
+                        [
+                            "category",
+                            50.34,
+                            51.09
+                        ]
+                    ],
+                    "transcript": "of all of the beef produced in America less than one percent qualifies for that category ",
+                    "word_confidence": [
+                        [
+                            "of",
+                            0.41133042164909106
+                        ],
+                        [
+                            "all",
+                            1.0
+                        ],
+                        [
+                            "of",
+                            1.0
+                        ],
+                        [
+                            "the",
+                            0.9936093593790899
+                        ],
+                        [
+                            "beef",
+                            0.8398454482596359
+                        ],
+                        [
+                            "produced",
+                            0.9877082596590335
+                        ],
+                        [
+                            "in",
+                            1.0
+                        ],
+                        [
+                            "America",
+                            0.9972388575993043
+                        ],
+                        [
+                            "less",
+                            0.9999999999999873
+                        ],
+                        [
+                            "than",
+                            0.7991503499885285
+                        ],
+                        [
+                            "one",
+                            0.9999999999999913
+                        ],
+                        [
+                            "percent",
+                            0.9841108001892807
+                        ],
+                        [
+                            "qualifies",
+                            0.9999999999999978
+                        ],
+                        [
+                            "for",
+                            1.0
+                        ],
+                        [
+                            "that",
+                            1.0
+                        ],
+                        [
+                            "category",
+                            0.9940288578375568
+                        ]
+                    ]
+                }
+            ],
+            "word_alternatives": [
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.6369,
+                            "word": "of"
+                        }
+                    ],
+                    "end_time": 45.36,
+                    "start_time": 45.27
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9189,
+                            "word": "the"
+                        }
+                    ],
+                    "end_time": 45.76,
+                    "start_time": 45.67
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9931,
+                            "word": "beef"
+                        }
+                    ],
+                    "end_time": 46.06,
+                    "start_time": 45.76
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9931,
+                            "word": "produced"
+                        }
+                    ],
+                    "end_time": 46.56,
+                    "start_time": 46.06
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9931,
+                            "word": "in"
+                        }
+                    ],
+                    "end_time": 46.65,
+                    "start_time": 46.56
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.6342,
+                            "word": "America"
+                        }
+                    ],
+                    "end_time": 47.4,
+                    "start_time": 46.65
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.5916,
+                            "word": "less"
+                        }
+                    ],
+                    "end_time": 47.92,
+                    "start_time": 47.52
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9371,
+                            "word": "than"
+                        }
+                    ],
+                    "end_time": 48.15,
+                    "start_time": 47.92
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9445,
+                            "word": "one"
+                        }
+                    ],
+                    "end_time": 48.55,
+                    "start_time": 48.15
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.8856,
+                            "word": "percent"
+                        }
+                    ],
+                    "end_time": 49.16,
+                    "start_time": 48.55
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.8856,
+                            "word": "qualifies"
+                        }
+                    ],
+                    "end_time": 49.93,
+                    "start_time": 49.16
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.8995,
+                            "word": "for"
+                        }
+                    ],
+                    "end_time": 50.06,
+                    "start_time": 49.93
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.8995,
+                            "word": "that"
+                        }
+                    ],
+                    "end_time": 50.34,
+                    "start_time": 50.06
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.5953,
+                            "word": "category"
+                        }
+                    ],
+                    "end_time": 51.09,
+                    "start_time": 50.34
+                }
+            ],
+            "final": true
+        },
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.921,
+                    "timestamps": [
+                        [
+                            "it's",
+                            51.33,
+                            51.67
+                        ],
+                        [
+                            "the",
+                            51.67,
+                            51.82
+                        ],
+                        [
+                            "best",
+                            51.82,
+                            52.36
+                        ],
+                        [
+                            "of",
+                            52.39,
+                            52.61
+                        ],
+                        [
+                            "the",
+                            52.61,
+                            52.72
+                        ],
+                        [
+                            "best",
+                            52.72,
+                            53.23
+                        ],
+                        [
+                            "until",
+                            53.62,
+                            54.0
+                        ],
+                        [
+                            "now",
+                            54.0,
+                            54.27
+                        ],
+                        [
+                            "you",
+                            54.27,
+                            54.43
+                        ],
+                        [
+                            "can",
+                            54.43,
+                            54.58
+                        ],
+                        [
+                            "only",
+                            54.58,
+                            54.86
+                        ],
+                        [
+                            "enjoy",
+                            54.86,
+                            55.29
+                        ],
+                        [
+                            "stakes",
+                            55.29,
+                            55.85
+                        ],
+                        [
+                            "of",
+                            55.85,
+                            55.98
+                        ],
+                        [
+                            "this",
+                            55.98,
+                            56.17
+                        ],
+                        [
+                            "quality",
+                            56.17,
+                            56.86
+                        ],
+                        [
+                            "in",
+                            57.05,
+                            57.24
+                        ],
+                        [
+                            "one",
+                            57.24,
+                            57.44
+                        ],
+                        [
+                            "of",
+                            57.44,
+                            57.53
+                        ],
+                        [
+                            "my",
+                            57.53,
+                            57.67
+                        ],
+                        [
+                            "resort",
+                            57.67,
+                            58.2
+                        ],
+                        [
+                            "restaurants",
+                            58.2,
+                            58.91
+                        ],
+                        [
+                            "or",
+                            58.91,
+                            59.06
+                        ],
+                        [
+                            "America's",
+                            59.06,
+                            59.61
+                        ],
+                        [
+                            "finest",
+                            59.61,
+                            60.06
+                        ],
+                        [
+                            "steak",
+                            60.06,
+                            60.36
+                        ],
+                        [
+                            "houses",
+                            60.36,
+                            60.94
+                        ]
+                    ],
+                    "transcript": "it's the best of the best until now you can only enjoy stakes of this quality in one of my resort restaurants or America's finest steak houses ",
+                    "word_confidence": [
+                        [
+                            "it's",
+                            1.0
+                        ],
+                        [
+                            "the",
+                            1.0
+                        ],
+                        [
+                            "best",
+                            1.0
+                        ],
+                        [
+                            "of",
+                            1.0
+                        ],
+                        [
+                            "the",
+                            1.0
+                        ],
+                        [
+                            "best",
+                            0.9934530365844344
+                        ],
+                        [
+                            "until",
+                            1.0
+                        ],
+                        [
+                            "now",
+                            1.0
+                        ],
+                        [
+                            "you",
+                            1.0
+                        ],
+                        [
+                            "can",
+                            0.5775522462621884
+                        ],
+                        [
+                            "only",
+                            0.9849125802236891
+                        ],
+                        [
+                            "enjoy",
+                            0.6216460887548274
+                        ],
+                        [
+                            "stakes",
+                            0.945507689195353
+                        ],
+                        [
+                            "of",
+                            1.0
+                        ],
+                        [
+                            "this",
+                            1.0
+                        ],
+                        [
+                            "quality",
+                            0.9999999999999944
+                        ],
+                        [
+                            "in",
+                            0.7983207153228701
+                        ],
+                        [
+                            "one",
+                            0.9596641430646171
+                        ],
+                        [
+                            "of",
+                            1.0
+                        ],
+                        [
+                            "my",
+                            0.9999999999999948
+                        ],
+                        [
+                            "resort",
+                            1.0
+                        ],
+                        [
+                            "restaurants",
+                            1.0
+                        ],
+                        [
+                            "or",
+                            1.0
+                        ],
+                        [
+                            "America's",
+                            1.0
+                        ],
+                        [
+                            "finest",
+                            1.0
+                        ],
+                        [
+                            "steak",
+                            0.5006823353336247
+                        ],
+                        [
+                            "houses",
+                            0.5736929018156883
+                        ]
+                    ]
+                }
+            ],
+            "word_alternatives": [
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9765,
+                            "word": "it's"
+                        }
+                    ],
+                    "end_time": 51.67,
+                    "start_time": 51.33
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9764,
+                            "word": "the"
+                        }
+                    ],
+                    "end_time": 51.82,
+                    "start_time": 51.67
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9765,
+                            "word": "best"
+                        }
+                    ],
+                    "end_time": 52.36,
+                    "start_time": 51.82
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9767,
+                            "word": "of"
+                        }
+                    ],
+                    "end_time": 52.61,
+                    "start_time": 52.39
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 1.0,
+                            "word": "the"
+                        }
+                    ],
+                    "end_time": 52.72,
+                    "start_time": 52.61
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9972,
+                            "word": "best"
+                        }
+                    ],
+                    "end_time": 53.23,
+                    "start_time": 52.72
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.6869,
+                            "word": "until"
+                        }
+                    ],
+                    "end_time": 54.0,
+                    "start_time": 53.62
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.6868,
+                            "word": "now"
+                        }
+                    ],
+                    "end_time": 54.27,
+                    "start_time": 54.0
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.7449,
+                            "word": "you"
+                        }
+                    ],
+                    "end_time": 54.43,
+                    "start_time": 54.27
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.8229,
+                            "word": "can"
+                        }
+                    ],
+                    "end_time": 54.58,
+                    "start_time": 54.43
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.8231,
+                            "word": "only"
+                        }
+                    ],
+                    "end_time": 54.86,
+                    "start_time": 54.58
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.8614,
+                            "word": "quality"
+                        }
+                    ],
+                    "end_time": 56.86,
+                    "start_time": 56.17
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.6259,
+                            "word": "in"
+                        }
+                    ],
+                    "end_time": 57.24,
+                    "start_time": 57.05
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.6259,
+                            "word": "one"
+                        }
+                    ],
+                    "end_time": 57.44,
+                    "start_time": 57.24
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.6259,
+                            "word": "of"
+                        }
+                    ],
+                    "end_time": 57.53,
+                    "start_time": 57.44
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9905,
+                            "word": "my"
+                        }
+                    ],
+                    "end_time": 57.67,
+                    "start_time": 57.53
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 1.0,
+                            "word": "resort"
+                        }
+                    ],
+                    "end_time": 58.2,
+                    "start_time": 57.67
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 1.0,
+                            "word": "restaurants"
+                        }
+                    ],
+                    "end_time": 58.91,
+                    "start_time": 58.2
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 1.0,
+                            "word": "or"
+                        }
+                    ],
+                    "end_time": 59.06,
+                    "start_time": 58.91
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9789,
+                            "word": "America's"
+                        }
+                    ],
+                    "end_time": 59.61,
+                    "start_time": 59.06
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9772,
+                            "word": "finest"
+                        }
+                    ],
+                    "end_time": 60.06,
+                    "start_time": 59.61
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.5205,
+                            "word": "houses"
+                        }
+                    ],
+                    "end_time": 60.94,
+                    "start_time": 60.36
+                }
+            ],
+            "final": true
+        },
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.955,
+                    "timestamps": [
+                        [
+                            "but",
+                            61.26,
+                            61.49
+                        ],
+                        [
+                            "now",
+                            61.49,
+                            62.17
+                        ],
+                        [
+                            "that's",
+                            62.2,
+                            62.55
+                        ],
+                        [
+                            "changed",
+                            62.55,
+                            63.3
+                        ],
+                        [
+                            "today",
+                            63.4,
+                            63.84
+                        ],
+                        [
+                            "through",
+                            63.84,
+                            64.08
+                        ],
+                        [
+                            "the",
+                            64.08,
+                            64.22
+                        ],
+                        [
+                            "sharper",
+                            64.22,
+                            64.69
+                        ],
+                        [
+                            "image",
+                            64.69,
+                            65.16
+                        ],
+                        [
+                            "you",
+                            65.24,
+                            65.45
+                        ],
+                        [
+                            "can",
+                            65.45,
+                            65.67
+                        ],
+                        [
+                            "enjoy",
+                            65.67,
+                            66.19
+                        ],
+                        [
+                            "the",
+                            66.19,
+                            66.29
+                        ],
+                        [
+                            "world's",
+                            66.29,
+                            66.76
+                        ],
+                        [
+                            "greatest",
+                            66.76,
+                            67.25
+                        ],
+                        [
+                            "stakes",
+                            67.25,
+                            67.82
+                        ],
+                        [
+                            "in",
+                            67.92,
+                            68.14
+                        ],
+                        [
+                            "your",
+                            68.14,
+                            68.36
+                        ],
+                        [
+                            "own",
+                            68.36,
+                            68.59
+                        ],
+                        [
+                            "home",
+                            68.59,
+                            69.13
+                        ],
+                        [
+                            "with",
+                            69.23,
+                            69.54
+                        ],
+                        [
+                            "family",
+                            69.54,
+                            70.17
+                        ],
+                        [
+                            "friends",
+                            70.2,
+                            70.85
+                        ],
+                        [
+                            "anytime",
+                            70.88,
+                            71.67
+                        ]
+                    ],
+                    "transcript": "but now that's changed today through the sharper image you can enjoy the world's greatest stakes in your own home with family friends anytime ",
+                    "word_confidence": [
+                        [
+                            "but",
+                            1.0
+                        ],
+                        [
+                            "now",
+                            1.0
+                        ],
+                        [
+                            "that's",
+                            0.8530708012220966
+                        ],
+                        [
+                            "changed",
+                            0.9972280951116589
+                        ],
+                        [
+                            "today",
+                            1.0
+                        ],
+                        [
+                            "through",
+                            1.0
+                        ],
+                        [
+                            "the",
+                            1.0
+                        ],
+                        [
+                            "sharper",
+                            1.0
+                        ],
+                        [
+                            "image",
+                            1.0
+                        ],
+                        [
+                            "you",
+                            1.0
+                        ],
+                        [
+                            "can",
+                            0.8533000050860267
+                        ],
+                        [
+                            "enjoy",
+                            0.9971788462517834
+                        ],
+                        [
+                            "the",
+                            1.0
+                        ],
+                        [
+                            "world's",
+                            1.0
+                        ],
+                        [
+                            "greatest",
+                            1.0
+                        ],
+                        [
+                            "stakes",
+                            1.0
+                        ],
+                        [
+                            "in",
+                            1.0
+                        ],
+                        [
+                            "your",
+                            1.0
+                        ],
+                        [
+                            "own",
+                            1.0
+                        ],
+                        [
+                            "home",
+                            0.999889510038418
+                        ],
+                        [
+                            "with",
+                            0.991884482609585
+                        ],
+                        [
+                            "family",
+                            0.9980033250865509
+                        ],
+                        [
+                            "friends",
+                            0.9830161092151508
+                        ],
+                        [
+                            "anytime",
+                            0.5607023311397406
+                        ]
+                    ]
+                }
+            ],
+            "word_alternatives": [
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 1.0,
+                            "word": "but"
+                        }
+                    ],
+                    "end_time": 61.49,
+                    "start_time": 61.26
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9999,
+                            "word": "now"
+                        }
+                    ],
+                    "end_time": 62.17,
+                    "start_time": 61.49
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9221,
+                            "word": "that's"
+                        }
+                    ],
+                    "end_time": 62.55,
+                    "start_time": 62.2
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.8612,
+                            "word": "changed"
+                        }
+                    ],
+                    "end_time": 63.3,
+                    "start_time": 62.55
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.717,
+                            "word": "today"
+                        }
+                    ],
+                    "end_time": 63.84,
+                    "start_time": 63.4
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.7491,
+                            "word": "through"
+                        }
+                    ],
+                    "end_time": 64.08,
+                    "start_time": 63.84
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.7653,
+                            "word": "the"
+                        }
+                    ],
+                    "end_time": 64.22,
+                    "start_time": 64.08
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9594,
+                            "word": "sharper"
+                        }
+                    ],
+                    "end_time": 64.69,
+                    "start_time": 64.22
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.851,
+                            "word": "image"
+                        }
+                    ],
+                    "end_time": 65.16,
+                    "start_time": 64.69
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.5226,
+                            "word": "you"
+                        }
+                    ],
+                    "end_time": 65.45,
+                    "start_time": 65.24
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9948,
+                            "word": "can"
+                        }
+                    ],
+                    "end_time": 65.67,
+                    "start_time": 65.45
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9971,
+                            "word": "enjoy"
+                        }
+                    ],
+                    "end_time": 66.19,
+                    "start_time": 65.67
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9972,
+                            "word": "the"
+                        }
+                    ],
+                    "end_time": 66.29,
+                    "start_time": 66.19
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9427,
+                            "word": "world's"
+                        }
+                    ],
+                    "end_time": 66.76,
+                    "start_time": 66.29
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9455,
+                            "word": "greatest"
+                        }
+                    ],
+                    "end_time": 67.25,
+                    "start_time": 66.76
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.675,
+                            "word": "stakes"
+                        }
+                    ],
+                    "end_time": 67.82,
+                    "start_time": 67.25
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.5962,
+                            "word": "in"
+                        }
+                    ],
+                    "end_time": 68.14,
+                    "start_time": 67.92
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.6306,
+                            "word": "your"
+                        }
+                    ],
+                    "end_time": 68.36,
+                    "start_time": 68.14
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.6306,
+                            "word": "own"
+                        }
+                    ],
+                    "end_time": 68.59,
+                    "start_time": 68.36
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.983,
+                            "word": "home"
+                        }
+                    ],
+                    "end_time": 69.13,
+                    "start_time": 68.59
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.5467,
+                            "word": "friends"
+                        }
+                    ],
+                    "end_time": 70.85,
+                    "start_time": 70.2
+                }
+            ],
+            "final": true
+        },
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.838,
+                    "timestamps": [
+                        [
+                            "trump",
+                            72.11,
+                            72.41
+                        ],
+                        [
+                            "steaks",
+                            72.41,
+                            72.84
+                        ],
+                        [
+                            "are",
+                            72.84,
+                            73.02
+                        ],
+                        [
+                            "aged",
+                            73.02,
+                            73.39
+                        ],
+                        [
+                            "to",
+                            73.39,
+                            73.46
+                        ],
+                        [
+                            "perfection",
+                            73.46,
+                            74.12
+                        ],
+                        [
+                            "to",
+                            74.12,
+                            74.24
+                        ],
+                        [
+                            "provide",
+                            74.24,
+                            74.77
+                        ],
+                        [
+                            "the",
+                            74.77,
+                            74.94
+                        ],
+                        [
+                            "ultimate",
+                            74.97,
+                            75.52
+                        ],
+                        [
+                            "in",
+                            75.52,
+                            75.63
+                        ],
+                        [
+                            "tenderness",
+                            75.63,
+                            76.28
+                        ],
+                        [
+                            "and",
+                            76.28,
+                            76.41
+                        ],
+                        [
+                            "flavor",
+                            76.41,
+                            76.96
+                        ]
+                    ],
+                    "transcript": "trump steaks are aged to perfection to provide the ultimate in tenderness and flavor ",
+                    "word_confidence": [
+                        [
+                            "trump",
+                            0.2875140136694966
+                        ],
+                        [
+                            "steaks",
+                            0.8917507196079718
+                        ],
+                        [
+                            "are",
+                            0.37759120300486293
+                        ],
+                        [
+                            "aged",
+                            0.13554913929114243
+                        ],
+                        [
+                            "to",
+                            1.0
+                        ],
+                        [
+                            "perfection",
+                            1.0
+                        ],
+                        [
+                            "to",
+                            0.9484088817073496
+                        ],
+                        [
+                            "provide",
+                            1.0
+                        ],
+                        [
+                            "the",
+                            1.0
+                        ],
+                        [
+                            "ultimate",
+                            1.0
+                        ],
+                        [
+                            "in",
+                            0.5312034879231743
+                        ],
+                        [
+                            "tenderness",
+                            0.9772062165502781
+                        ],
+                        [
+                            "and",
+                            0.9247936119985808
+                        ],
+                        [
+                            "flavor",
+                            0.9849053688217522
+                        ]
+                    ]
+                }
+            ],
+            "word_alternatives": [
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.8318,
+                            "word": "trump"
+                        }
+                    ],
+                    "end_time": 72.41,
+                    "start_time": 72.11
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.5145,
+                            "word": "to"
+                        }
+                    ],
+                    "end_time": 74.24,
+                    "start_time": 74.12
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9886,
+                            "word": "provide"
+                        }
+                    ],
+                    "end_time": 74.77,
+                    "start_time": 74.24
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9887,
+                            "word": "the"
+                        }
+                    ],
+                    "end_time": 74.94,
+                    "start_time": 74.77
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.795,
+                            "word": "ultimate"
+                        }
+                    ],
+                    "end_time": 75.52,
+                    "start_time": 74.97
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.795,
+                            "word": "in"
+                        }
+                    ],
+                    "end_time": 75.63,
+                    "start_time": 75.52
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.7932,
+                            "word": "tenderness"
+                        }
+                    ],
+                    "end_time": 76.28,
+                    "start_time": 75.63
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.7932,
+                            "word": "and"
+                        }
+                    ],
+                    "end_time": 76.41,
+                    "start_time": 76.28
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.6942,
+                            "word": "flavor"
+                        }
+                    ],
+                    "end_time": 76.96,
+                    "start_time": 76.41
+                }
+            ],
+            "final": true
+        },
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.915,
+                    "timestamps": [
+                        [
+                            "if",
+                            77.35,
+                            77.44
+                        ],
+                        [
+                            "you",
+                            77.44,
+                            77.63
+                        ],
+                        [
+                            "like",
+                            77.63,
+                            77.94
+                        ],
+                        [
+                            "your",
+                            77.94,
+                            78.1
+                        ],
+                        [
+                            "steak",
+                            78.1,
+                            78.62
+                        ],
+                        [
+                            "you'll",
+                            78.71,
+                            79.01
+                        ],
+                        [
+                            "absolutely",
+                            79.01,
+                            79.86
+                        ],
+                        [
+                            "love",
+                            79.86,
+                            80.22
+                        ],
+                        [
+                            "trump",
+                            80.22,
+                            80.53
+                        ],
+                        [
+                            "steaks",
+                            80.53,
+                            81.16
+                        ]
+                    ],
+                    "transcript": "if you like your steak you'll absolutely love trump steaks ",
+                    "word_confidence": [
+                        [
+                            "if",
+                            1.0
+                        ],
+                        [
+                            "you",
+                            1.0
+                        ],
+                        [
+                            "like",
+                            1.0
+                        ],
+                        [
+                            "your",
+                            1.0
+                        ],
+                        [
+                            "steak",
+                            0.9946236959854127
+                        ],
+                        [
+                            "you'll",
+                            0.6920695531526866
+                        ],
+                        [
+                            "absolutely",
+                            1.0
+                        ],
+                        [
+                            "love",
+                            1.0
+                        ],
+                        [
+                            "trump",
+                            0.3699443293607432
+                        ],
+                        [
+                            "steaks",
+                            0.9596487694046281
+                        ]
+                    ]
+                }
+            ],
+            "word_alternatives": [
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9999,
+                            "word": "if"
+                        }
+                    ],
+                    "end_time": 77.44,
+                    "start_time": 77.35
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 1.0,
+                            "word": "you"
+                        }
+                    ],
+                    "end_time": 77.63,
+                    "start_time": 77.44
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 1.0,
+                            "word": "like"
+                        }
+                    ],
+                    "end_time": 77.94,
+                    "start_time": 77.63
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9999,
+                            "word": "your"
+                        }
+                    ],
+                    "end_time": 78.1,
+                    "start_time": 77.94
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9867,
+                            "word": "steak"
+                        }
+                    ],
+                    "end_time": 78.62,
+                    "start_time": 78.1
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.8399,
+                            "word": "love"
+                        }
+                    ],
+                    "end_time": 80.22,
+                    "start_time": 79.86
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.6491,
+                            "word": "trump"
+                        }
+                    ],
+                    "end_time": 80.53,
+                    "start_time": 80.22
+                }
+            ],
+            "final": true
+        },
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.952,
+                    "timestamps": [
+                        [
+                            "treat",
+                            81.34,
+                            81.78
+                        ],
+                        [
+                            "yourself",
+                            81.78,
+                            82.38
+                        ],
+                        [
+                            "to",
+                            82.38,
+                            82.49
+                        ],
+                        [
+                            "the",
+                            82.49,
+                            82.62
+                        ],
+                        [
+                            "very",
+                            82.62,
+                            83.08
+                        ],
+                        [
+                            "very",
+                            83.08,
+                            83.42
+                        ],
+                        [
+                            "best",
+                            83.42,
+                            83.86
+                        ],
+                        [
+                            "life",
+                            83.86,
+                            84.19
+                        ],
+                        [
+                            "has",
+                            84.19,
+                            84.48
+                        ],
+                        [
+                            "to",
+                            84.48,
+                            84.6
+                        ],
+                        [
+                            "offer",
+                            84.6,
+                            85.13
+                        ],
+                        [
+                            "and",
+                            85.39,
+                            85.56
+                        ],
+                        [
+                            "is",
+                            85.56,
+                            85.71
+                        ],
+                        [
+                            "a",
+                            85.71,
+                            85.76
+                        ],
+                        [
+                            "gift",
+                            85.76,
+                            86.35
+                        ],
+                        [
+                            "trump",
+                            86.56,
+                            86.95
+                        ],
+                        [
+                            "steaks",
+                            86.95,
+                            87.44
+                        ],
+                        [
+                            "are",
+                            87.44,
+                            87.52
+                        ],
+                        [
+                            "the",
+                            87.52,
+                            87.64
+                        ],
+                        [
+                            "best",
+                            87.64,
+                            88.1
+                        ],
+                        [
+                            "you",
+                            88.1,
+                            88.24
+                        ],
+                        [
+                            "can",
+                            88.24,
+                            88.47
+                        ],
+                        [
+                            "give",
+                            88.47,
+                            88.86
+                        ],
+                        [
+                            "one",
+                            89.11,
+                            89.55
+                        ],
+                        [
+                            "bite",
+                            89.55,
+                            89.96
+                        ],
+                        [
+                            "and",
+                            89.99,
+                            90.15
+                        ],
+                        [
+                            "you'll",
+                            90.15,
+                            90.42
+                        ],
+                        [
+                            "know",
+                            90.42,
+                            90.77
+                        ],
+                        [
+                            "exactly",
+                            90.77,
+                            91.54
+                        ],
+                        [
+                            "what",
+                            91.54,
+                            91.7
+                        ],
+                        [
+                            "I'm",
+                            91.7,
+                            91.79
+                        ],
+                        [
+                            "talking",
+                            91.79,
+                            92.21
+                        ],
+                        [
+                            "about",
+                            92.21,
+                            92.66
+                        ],
+                        [
+                            "and",
+                            92.71,
+                            92.93
+                        ],
+                        [
+                            "believe",
+                            92.93,
+                            93.3
+                        ],
+                        [
+                            "me",
+                            93.3,
+                            93.58
+                        ],
+                        [
+                            "I",
+                            93.89,
+                            94.11
+                        ],
+                        [
+                            "understand",
+                            94.11,
+                            94.76
+                        ],
+                        [
+                            "stakes",
+                            94.76,
+                            95.3
+                        ]
+                    ],
+                    "transcript": "treat yourself to the very very best life has to offer and is a gift trump steaks are the best you can give one bite and you'll know exactly what I'm talking about and believe me I understand stakes ",
+                    "word_confidence": [
+                        [
+                            "treat",
+                            1.0
+                        ],
+                        [
+                            "yourself",
+                            1.0
+                        ],
+                        [
+                            "to",
+                            1.0
+                        ],
+                        [
+                            "the",
+                            1.0
+                        ],
+                        [
+                            "very",
+                            1.0
+                        ],
+                        [
+                            "very",
+                            1.0
+                        ],
+                        [
+                            "best",
+                            1.0
+                        ],
+                        [
+                            "life",
+                            0.9999999999998691
+                        ],
+                        [
+                            "has",
+                            1.0
+                        ],
+                        [
+                            "to",
+                            1.0
+                        ],
+                        [
+                            "offer",
+                            0.9945146876826405
+                        ],
+                        [
+                            "and",
+                            0.9712195471610817
+                        ],
+                        [
+                            "is",
+                            0.4166619038806995
+                        ],
+                        [
+                            "a",
+                            0.9999999999998778
+                        ],
+                        [
+                            "gift",
+                            0.9999999999999046
+                        ],
+                        [
+                            "trump",
+                            0.3444930989771867
+                        ],
+                        [
+                            "steaks",
+                            0.9499720694392004
+                        ],
+                        [
+                            "are",
+                            0.4705066958956628
+                        ],
+                        [
+                            "the",
+                            0.9200270728006344
+                        ],
+                        [
+                            "best",
+                            0.9999999999999302
+                        ],
+                        [
+                            "you",
+                            0.9999999999999344
+                        ],
+                        [
+                            "can",
+                            0.9999999999999348
+                        ],
+                        [
+                            "give",
+                            0.9920420737861445
+                        ],
+                        [
+                            "one",
+                            0.9999999999999235
+                        ],
+                        [
+                            "bite",
+                            0.8305526193708349
+                        ],
+                        [
+                            "and",
+                            0.9999999999999625
+                        ],
+                        [
+                            "you'll",
+                            0.6744038104623632
+                        ],
+                        [
+                            "know",
+                            1.0
+                        ],
+                        [
+                            "exactly",
+                            0.9999999999999905
+                        ],
+                        [
+                            "what",
+                            0.9999999999999735
+                        ],
+                        [
+                            "I'm",
+                            0.999999999999938
+                        ],
+                        [
+                            "talking",
+                            0.9999999999999017
+                        ],
+                        [
+                            "about",
+                            0.9938536309279482
+                        ],
+                        [
+                            "and",
+                            0.9999999999999395
+                        ],
+                        [
+                            "believe",
+                            0.9519960361157702
+                        ],
+                        [
+                            "me",
+                            0.994856718155243
+                        ],
+                        [
+                            "I",
+                            1.0
+                        ],
+                        [
+                            "understand",
+                            1.0
+                        ],
+                        [
+                            "stakes",
+                            0.9950467386978536
+                        ]
+                    ]
+                }
+            ],
+            "word_alternatives": [
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 1.0,
+                            "word": "treat"
+                        }
+                    ],
+                    "end_time": 81.78,
+                    "start_time": 81.34
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 1.0,
+                            "word": "yourself"
+                        }
+                    ],
+                    "end_time": 82.38,
+                    "start_time": 81.78
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 1.0,
+                            "word": "to"
+                        }
+                    ],
+                    "end_time": 82.49,
+                    "start_time": 82.38
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 1.0,
+                            "word": "the"
+                        }
+                    ],
+                    "end_time": 82.62,
+                    "start_time": 82.49
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 1.0,
+                            "word": "very"
+                        }
+                    ],
+                    "end_time": 83.08,
+                    "start_time": 82.62
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 1.0,
+                            "word": "very"
+                        }
+                    ],
+                    "end_time": 83.42,
+                    "start_time": 83.08
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 1.0,
+                            "word": "best"
+                        }
+                    ],
+                    "end_time": 83.86,
+                    "start_time": 83.42
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 1.0,
+                            "word": "life"
+                        }
+                    ],
+                    "end_time": 84.19,
+                    "start_time": 83.86
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 1.0,
+                            "word": "has"
+                        }
+                    ],
+                    "end_time": 84.48,
+                    "start_time": 84.19
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 1.0,
+                            "word": "to"
+                        }
+                    ],
+                    "end_time": 84.6,
+                    "start_time": 84.48
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.998,
+                            "word": "offer"
+                        }
+                    ],
+                    "end_time": 85.13,
+                    "start_time": 84.6
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9028,
+                            "word": "and"
+                        }
+                    ],
+                    "end_time": 85.56,
+                    "start_time": 85.39
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.5512,
+                            "word": "gift"
+                        }
+                    ],
+                    "end_time": 86.35,
+                    "start_time": 85.76
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.6718,
+                            "word": "trump"
+                        }
+                    ],
+                    "end_time": 86.95,
+                    "start_time": 86.56
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.5508,
+                            "word": "best"
+                        }
+                    ],
+                    "end_time": 88.1,
+                    "start_time": 87.64
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.8804,
+                            "word": "you"
+                        }
+                    ],
+                    "end_time": 88.24,
+                    "start_time": 88.1
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 1.0,
+                            "word": "can"
+                        }
+                    ],
+                    "end_time": 88.47,
+                    "start_time": 88.24
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9976,
+                            "word": "give"
+                        }
+                    ],
+                    "end_time": 88.86,
+                    "start_time": 88.47
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.643,
+                            "word": "one"
+                        }
+                    ],
+                    "end_time": 89.55,
+                    "start_time": 89.11
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.5621,
+                            "word": "bite"
+                        }
+                    ],
+                    "end_time": 89.96,
+                    "start_time": 89.55
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.6422,
+                            "word": "you'll"
+                        }
+                    ],
+                    "end_time": 90.42,
+                    "start_time": 90.15
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.6421,
+                            "word": "know"
+                        }
+                    ],
+                    "end_time": 90.77,
+                    "start_time": 90.42
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9178,
+                            "word": "exactly"
+                        }
+                    ],
+                    "end_time": 91.54,
+                    "start_time": 90.77
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.8754,
+                            "word": "what"
+                        }
+                    ],
+                    "end_time": 91.7,
+                    "start_time": 91.54
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9539,
+                            "word": "I'm"
+                        }
+                    ],
+                    "end_time": 91.79,
+                    "start_time": 91.7
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 1.0,
+                            "word": "talking"
+                        }
+                    ],
+                    "end_time": 92.21,
+                    "start_time": 91.79
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.6002,
+                            "word": "about"
+                        }
+                    ],
+                    "end_time": 92.66,
+                    "start_time": 92.21
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.8639,
+                            "word": "believe"
+                        }
+                    ],
+                    "end_time": 93.3,
+                    "start_time": 92.93
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.8705,
+                            "word": "me"
+                        }
+                    ],
+                    "end_time": 93.58,
+                    "start_time": 93.3
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9751,
+                            "word": "I"
+                        }
+                    ],
+                    "end_time": 94.11,
+                    "start_time": 93.89
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9751,
+                            "word": "understand"
+                        }
+                    ],
+                    "end_time": 94.76,
+                    "start_time": 94.11
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.5378,
+                            "word": "stakes"
+                        },
+                        {
+                            "confidence": 0.4247,
+                            "word": "steaks"
+                        }
+                    ],
+                    "end_time": 95.3,
+                    "start_time": 94.76
+                }
+            ],
+            "final": true
+        },
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.926,
+                    "timestamps": [
+                        [
+                            "it's",
+                            95.57,
+                            95.68
+                        ],
+                        [
+                            "my",
+                            95.68,
+                            95.9
+                        ],
+                        [
+                            "favorite",
+                            95.9,
+                            96.46
+                        ],
+                        [
+                            "food",
+                            96.46,
+                            96.9
+                        ],
+                        [
+                            "and",
+                            97.13,
+                            97.46
+                        ],
+                        [
+                            "these",
+                            97.46,
+                            97.75
+                        ],
+                        [
+                            "are",
+                            97.75,
+                            97.82
+                        ],
+                        [
+                            "the",
+                            97.82,
+                            97.92
+                        ],
+                        [
+                            "best",
+                            97.92,
+                            98.43
+                        ]
+                    ],
+                    "transcript": "it's my favorite food and these are the best ",
+                    "word_confidence": [
+                        [
+                            "it's",
+                            1.0
+                        ],
+                        [
+                            "my",
+                            1.0
+                        ],
+                        [
+                            "favorite",
+                            1.0
+                        ],
+                        [
+                            "food",
+                            1.0
+                        ],
+                        [
+                            "and",
+                            0.9320646081505826
+                        ],
+                        [
+                            "these",
+                            0.5805011581847107
+                        ],
+                        [
+                            "are",
+                            0.4577178691826699
+                        ],
+                        [
+                            "the",
+                            0.8915435738365656
+                        ],
+                        [
+                            "best",
+                            0.9955678751679686
+                        ]
+                    ]
+                }
+            ],
+            "word_alternatives": [
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.976,
+                            "word": "it's"
+                        }
+                    ],
+                    "end_time": 95.68,
+                    "start_time": 95.57
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9759,
+                            "word": "my"
+                        }
+                    ],
+                    "end_time": 95.9,
+                    "start_time": 95.68
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.976,
+                            "word": "favorite"
+                        }
+                    ],
+                    "end_time": 96.46,
+                    "start_time": 95.9
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9759,
+                            "word": "food"
+                        }
+                    ],
+                    "end_time": 96.9,
+                    "start_time": 96.46
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.6279,
+                            "word": "and"
+                        }
+                    ],
+                    "end_time": 97.46,
+                    "start_time": 97.13
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.6265,
+                            "word": "these"
+                        }
+                    ],
+                    "end_time": 97.75,
+                    "start_time": 97.46
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.6265,
+                            "word": "are"
+                        }
+                    ],
+                    "end_time": 97.82,
+                    "start_time": 97.75
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.9372,
+                            "word": "the"
+                        }
+                    ],
+                    "end_time": 97.92,
+                    "start_time": 97.82
+                },
+                {
+                    "alternatives": [
+                        {
+                            "confidence": 0.788,
+                            "word": "best"
+                        }
+                    ],
+                    "end_time": 98.43,
+                    "start_time": 97.92
+                }
+            ],
+            "final": true
+        }
+    ]
+}
